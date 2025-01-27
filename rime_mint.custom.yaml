@@ -1,0 +1,11 @@
+# Rime schema
+# encoding: utf-8
+
+patch:
+  "grammer/language": "ehome.grammer/wanxiang-lts-zh-hans"
+  "grammer/collocation_max_length": 5
+  "grammer/collocation_min_length": 2
+  "translator/contextual_suggestions": true
+  "translator/max_homophones": 7
+  "translator/max_homographs": 7
+  codeLengthLimit_processor: 100
