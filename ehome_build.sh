@@ -12,7 +12,7 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
 declare ehome_grammer_dir="${DIR%/}/ehome.grammer"
 
 declare -A ehome_grammer_list=(
-    ["wanxiang-lts-zh-hans.gram"]="https://github.com/amzxyz/rime_wanxiang/releases/download/v6.0/wanxiang-lts-zh-hans.gram"
+    ["wanxiang-lts-zh-hans.gram"]="https://github.com/amzxyz/RIME-LMDG/releases/download/LTS/wanxiang-lts-zh-hans.gram"
 )
 
 _job ()
