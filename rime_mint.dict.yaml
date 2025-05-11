@@ -14,4 +14,6 @@ import_tables:
   - dicts/rime_ice.others        # 雾凇拼音 others词库（用于自动纠错）
   # 20240608 Emoji完全交由OpenCC，不再使用字典作为补充
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
+  # ehome dicts
+  - ehome.dicts/GenshinDict/GenshinDict
 ...
