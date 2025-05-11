@@ -15,5 +15,5 @@ build
 # VSCode 项目文件
 *.code-workspace
 
-# default sync folder
-/sync
+# 语言模型文件
+*.gram
