@@ -16,4 +16,5 @@ import_tables:
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
   # ehome dicts
   - ehome.dicts/GenshinDict/GenshinDict
+  - ehome.dicts/zhNetPopulationDict/zhNetPopulationDict
 ...
