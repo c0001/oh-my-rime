@@ -1,528 +1,270 @@
 ---
 name: GenshinDict
-version: "2025-05-11"
+version: "2025-09-14"
 sort: by_weight
 ...
-若娜瓦	ruo na wa	1
-死之执政	si zhi zhi zheng	1
-伊斯塔露	yi si ta lu	1
-时间之执政	shi jian zhi zhi zheng	1
-三月女神	san yue nv shen	1
-琴·古恩希尔德	qin gu en xi er de	1
-代理团长	dai li tuan zhang	1
-安柏	an bai	1
-侦察骑士	zhen cha qi shi	1
-兔兔伯爵	tu tu bo jue	1
-凯亚·亚尔伯里奇	kai ya ya er bo li qi	1
-丽莎·敏兹	li sha min zi	1
-小可爱	xiao ke ai	1
-温迪	wen di	1
-卖唱的	mai chang de	1
-雷泽	lei ze	1
-卢皮卡	lu pi ka	1
-班尼特	ban ni te	1
-诺艾尔	nuo ai er	1
-菲谢尔·冯·露弗施洛斯·那菲多特	fei xie er feng lu fu shi luo si na fei duo te	1
-断罪之皇女	duan zui zhi huang nv	1
-艾米	ai mi	1
-奥兹	ao zi	1
-奥兹华尔多·赫芙那梵茵斯	ao zi hua er duo he fu na fan yin si	1
-幽夜净土	you ye jing tu	1
-迪卢克·莱艮芬德	di lu ke lai gen fen de	1
-暗夜英雄	an ye ying xiong	1
-可莉	ke li	1
-荣誉骑士哥哥	rong yu qi shi ge ge	1
-荣誉骑士姐姐	rong yu qi shi jie jie	1
-蹦蹦炸弹	beng beng zha dan	1
-轰轰火花	hong hong huo hua	1
-嘟嘟可	du du ke	1
-禁闭室	jin bi shi	1
-迪奥娜·凯茨莱茵	di ao na kai ci lai yin	1
-芭芭拉·佩奇	ba ba la pei qi	1
-砂糖	sha tang	1
-阿贝多	a bei duo	1
-白垩之子	bai e zhi zi	1
-首席炼金术士	shou xi lian jin shu shi	1
-调查小队队长	diao cha xiao dui dui zhang	1
-白垩	bai e	1
-阿斯托洛吉斯·莫娜·梅姬斯图斯	a si tuo luo ji si mo na mei ji si tu si	1
-罗莎莉亚	luo sha li ya	1
-优菈·劳伦斯	you la lao lun si	1
-浪花骑士	lang hua qi shi	1
-游击小队队长	you ji xiao dui dui zhang	1
-旧贵族	jiu gui zu	1
-米卡·施密特	mi ka shi mi te	1
-前进测绘员	qian jin ce hui yuan	1
-巴巴托斯	ba ba tuo si	1
-风神	feng shen	1
-特瓦林	te wa lin	1
-风魔龙	feng mo long	1
-终天的闭幕曲	zhong tian de bi mu qu	1
-四风守护	si feng shou hu	1
-杜林	du lin	1
-安德留斯	an de liu si	1
-玻瑞亚斯	bo rui ya si	1
-奔狼的领主	ben lang de ling zhu	1
-艾莉丝	ai li si	1
-莱茵多特	lai yin duo te	1
-芭比洛斯	ba bi luo si	1
-老太婆	lao tai po	1
-I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
-安德斯多特	an de si duo te	1
-尼可·莱恩	ni ke lai en	1
-蒂玛乌斯	di ma wu si	1
-塞琉斯 / 居勒什	sai liu si ju le shen	1
-爱德琳	ai de lin	1
-赫塔	he ta	1
-玛格丽特	ma ge li te	1
-杜拉夫·凯茨莱茵	du la fu kai ci lai yin	1
-艾琳	ai lin	1
-提米	ti mi	1
-艾拉·马斯克	ai la ma si ke	1
-利文斯通博士	li wen si tong bo shi	1
-艾迪丝博士	ai di si bo shi	1
-霍夫曼·施密特	huo fu man shi mi te	1
-斯坦利	si tan li	1
-冒失的帕拉德	mao shi de pa la de	1
-苦恼的莉安	ku nao de li an	1
-西蒙·佩奇	xi meng pei qi	1
-法尓迦	fa er jia	1
-大团长	da tuan zhang	1
-温妮莎	wen ni sha	1
-伊洛克	yi luo ke	1
-瓦格纳	wa ge na	1
-舒茨	shu ci	1
-歌德	ge de	1
-吉丽安娜	ji li an na	1
-维多利亚	wei duo li ya	1
-维克多	wei ke duo	1
-葛罗丽	ge luo li	1
-古德温	gu de wen	1
-查耶维奇	cha ye wei qi	1
-楠塔克	nan ta ke	1
-玛乔丽	ma qiao li	1
+莉安歌	li an ge	1
+伊葵	yi kui	1
+法杰伊	fa jie yi	1
+格列布	ge lie bu	1
+维李米尔	wei li mi er	1
+小机器人	xiao ji qi ren	1
+「至高领主」	zhi gao ling zhu	1
+「花烛与风羽的司巫」	hua zhu yu feng yu de si wu	1
+伊·卡科茨·伊齐玛瓦夏	yi ka ke ci yi qi ma wa xia	1
+「无归之诅咒」	wu gui zhi zu zhou	1
+「明晨之镜」	ming chen zhi jing	1
+伊·莱拉普赫·楚伊博卢	yi lai la pu he chu yi bo lu	1
+第八席	di ba xi	1
+第十一席	di shi yi xi	1
+蜜琪莉	mi qi li	1
+欧库夏	ou ku xia	1
+卡内	ka nei	1
+扎卡	zha ka	1
+「特特尔特特尔」	te te er te te er	1
+察尔瓦	cha er wa	1
+特鸟兹特利	te niao zi te li	1
+拉威亚	la wei ya	1
+马夸胡伊特尔	ma kua hu yi te er	1
+娜塔芭	na ta ba	1
+穆托莉娜	mu tuo li na	1
+松潘特利	song pan te li	1
+富尼耶	fu ni ye	1
+查帕莉	cha pa li	1
+秦克胡	qin ke hu	1
+「律动魔匠」	lv dong mo jiang	1
+图瓦哈克	tu wa ha ke	1
+纳瓦特拉利	na wa te la li	1
+卡欣妲	ka xin da	1
+穆温达	mu wen da	1
+伊帕库拉	yi pa ku la	1
+厄尔蜜	e er mi	1
+阿洛妮	a luo ni	1
+马坎尼	ma kan ni	1
+查丘	cha qiu	1
+埃兹莉	ai zi li	1
+「坎帕」	kan pa	1
+「希顿」	xi dun	1
+奥胡帝亚	ao hu di ya	1
+约娜	yue na	1
+科扎特利	ke zha te li	1
+索林	suo lin	1
+阿尔沃	a er wo	1
+托奇特莉	tuo qi te li	1
+索尔顿	suo er dun	1
+伊凯卡	yi kai ka	1
+「维拉庇」	wei la bi	1
+绵驮兽警长	mian tuo shou jing zhang	1
+「娜娜丝梨人」	na na si li ren	1
+「乔克力老大」	qiao ke li lao da	1
+普克莱	pu ke lai	1
+「特诺约洛钦」	te nuo yue luo qin	1
+帕帕	pa pa	1
+勒拉	le la	1
+特诺切	te nuo qie	1
+松伽塔	song ga ta	1
+万杰鲁	wan jie lu	1
+诺奇特	nuo qi te	1
+娜娜丝	na na si	1
+爱莱妲	ai lai da	1
+艾慕	ai mu	1
+卓新	zhuo xin	1
+埃德恩	ai de en	1
+阿西木	a xi mu	1
+巴窟纳瓦	ba ku na wa	1
+鱼群之家	yu qun zhi jia	1
+醅蜜	pei mi	1
+阿夏的宝库	a xia de bao ku	1
+太阳	tai yang	1
+繁花之语	fan hua zhi yu	1
+灰河街斗士	hui he jie dou shi	1
+小小阿夏包	xiao xiao a xia bao	1
+娜娜丝梨饼	na na si li bing	1
+虾肉浓汤	xia rou nong tang	1
+炽岩斗士急流鱼	chi yan dou shi ji liu yu	1
+秘源机关·巡戒使	mi yuan ji guan xun jie shi	1
+悠悠度假村邀请函	you you du jia cun yao qing han	1
+《皮皮潘偶像大赛宣传册》	pi pi pan ou xiang da sai xuan chuan ce	1
+悠悠度假村地图	you you du jia cun di tu	1
+悠悠徽章	you you hui zhang	1
+调查报告——巴窟纳瓦	diao cha bao gao ba ku na wa	1
+调查报告——烬寂海	diao cha bao gao jin ji hai	1
+谁人的残破笔记（一）	shui ren de can po bi ji yi	1
+谁人的残破笔记（二）	shui ren de can po bi ji er	1
+被腐蚀的殘破筆记（三）	bei fu shi de can po bi ji san	1
+豚兽大王赠与的闪闪礼蛋	tun shou da wang zeng yu de shan shan li dan	1
+「咔阿夏」赠与的闪闪礼蛋	ka a xia zeng yu de shan shan li dan	1
+闪闪礼蛋·山之血	shan shan li dan shan zhi xue	1
+闪闪礼蛋·太阳的轰鸣	shan shan li dan tai yang de hong ming	1
+闪闪礼蛋·圣龙君临	shan shan li dan sheng long jun lin	1
+闪闪礼蛋·菲耶蒂娜	shan shan li dan fei ye di na	1
+闪闪礼蛋·献给小酒杯	shan shan li dan xian gei xiao jiu bei	1
+闪闪礼蛋·飞澜鲨鲨	shan shan li dan fei lan sha sha	1
+幻写灵	huan xie ling	1
+阿夏	a xia	1
+虹雨的祭祀庭	hong yu de ji si ting	1
+楚普卡塔津	chu pu ka ta jin	1
+特诺奇兹托克	te nuo qi zi tuo ke	1
+悠悠度假村	you you du jia cun	1
+彩彩洞	cai cai dong	1
+悠悠集市	you you ji shi	1
+彩彩崖	cai cai ya	1
+呼呼丘	hu hu qiu	1
+浪浪湾	lang lang wan	1
+隐匿的谜土	yin ni de mi tu	1
+刺梨岩	ci li yan	1
+刺梨镇	ci li zhen	1
+刺梨小径	ci li xiao jing	1
+「乔克力」宫	qiao ke li gong	1
+提提岛	ti ti dao	1
+醅幽蜜库	pei you mi ku	1
+烬寂海	jin ji hai	1
+「无风之地」	wu feng zhi di	1
+鳍游龙小玩偶	qi you long xiao wan ou	1
+七色悠悠像	qi se you you xiang	1
+热舞乐台	re wu le tai	1
+「燧石之锋」冒险团	sui shi zhi feng mao xian tuan	1
+穆纳塔	mu na ta	1
+归途	gui tu	1
+欢聚总在寻觅后	huan ju zong zai xun mi hou	1
+邂逅总在悠闲时	xie hou zong zai you xian shi	1
+闪耀! 皮皮潘偶像大赛!	shan yao pi pi pan ou xiang da sai	1
+流彩的踪迹	liu cai de zong ji	1
+提提奇遇	ti ti qi yu	1
+美梦帕伊提提	mei meng pa yi ti ti	1
+最后的特诺奇兹托克人	zui hou de te nuo qi zi tuo ke ren	1
+拾慧铸熔	shi hui zhu rong	1
+支离轮光	zhi li lun guang	1
+悠悠纳塔, 悠悠夏天!	you you na ta you you xia tian	1
+绘夏! 烈日? 度假村	hui xia lie ri du jia cun	1
+遥遥同旅	yao yao tong lv	1
+急风狙击	ji feng ju ji	1
+炫音爆光	xuan yin bao guang	1
+飞漆溅彩	fei qi jian cai	1
+胡伊鲁	hu yi lu	1
+普萨科	pu sa ke	1
+加希菈	jia xi la	1
+阿维苏菈	a wei su la	1
+渡火者的决绝	du huo zhe de jue jue	1
+「天理」的维系者	tian li de wei xi zhe	1
+阿斯莫代	a si mo dai	1
+空之执政	kong zhi zhi zheng	1
+菈乌玛	la wu ma	1
+奈芙尔	nai fu er	1
+菲林斯	fei lin si	1
+克里洛·楚德米洛维奇·菲林斯	ke li luo chu de mi luo wei qi fei lin si	1
+月矩力试验设计局	yue ju li shi yan she ji ju	1
+九果甘露饮	jiu guo gan lu yin	1
+鲜奶珠珠派	xian nai zhu zhu pai	1
+肉肉盛宴餐	rou rou sheng yan can	1
+静暇雅宴	jing xia ya yan	1
+炽绘奇旅	chi hui qi lv	1
+帕哈岛	pa ha dao	1
+希汐岛	xi xi dao	1
+蓝珀湖	lan po hu	1
+伦波岛	lun bo dao	1
+那夏镇	na xia zhen	1
+轰隆轰隆缤纷火力	hong long hong long bin fen huo li	1
+追想练行·豪斗篇	zhui xiang lian hang hao dou pian	1
+向着星辰与深渊！	xiang zhe xing chen yu shen yuan	1
+前面的区域，以后再来探索吧！	qian mian di qu yu yi hou zai lai tan suo ba	1
+这个如何？	zhe ge ru he	1
+冻结吧！	dong jie ba	1
+小心着凉。	xiao xin zhao liang	1
+抱歉哦。	bao qian o	1
+…这刹那，将是你的永恒。	zhe cha na jiang shi ni de yong heng	1
+真是急性子啊你。	zhen shi ji xing zi a ni	1
+还没尽…兴…	hai mei jin xing	1
+哼，意料之外…	heng yi liao zhi wai	1
+岩石的重量令人安心	yan shi de zhong liang ling ren an xin	1
+攻守兼备	gong shou jian bei	1
+审判！	shen pan	1
+审判——喝啊！	shen pan he a	1
+在此——宣判！	zai ci xuan pan	1
+创生法·拟造阳华	chuang sheng fa ni zao yang hua	1
+拟造阳华	ni zao yang hua	1
+余款的话…我来付吧。	yu kuan de hua wo lai fu ba	1
+雨线难画。	yu xian nan hua	1
+古华深秘。	gu hua shen mi	1
+食盐之罚	shi yan zhi fa	1
+剑出，影随——	jian chu ying sui	1
+剑光如我，斩尽芜杂！	jian guang ru wo zhan jin wu za	1
+靖妖傩舞	jing yao nuo wu	1
+悲鸣吧。	bei ming ba	1
+吃饱喝饱，一路走好！	chi bao he bao yi lu zou hao	1
+天理长驱。	tian li zhang qu	1
+此乃天道。	ci nai tian dao	1
+常道恢弘，鸣神永恒！	chang dao hui hong ming shen yong heng	1
+无处可逃！	wu chu ke tao	1
+不好笑吗？	bu hao xiao ma	1
+很冷吗？我还好。	hen leng ma wo hai hao	1
+一路顺风	yi lu shun feng	1
+好漫长…好孤独…还要多久…	hao man chang hao gu du hai yao duo jiu	1
+为了纳塔	wei le na ta	1
+征讨领域	zheng tao ling yu	1
+深境回廊	shen jing hui lang	1
+忘却之峡	wang que zhi xia	1
+铭记之谷	ming ji zhi gu	1
+芬德尼尔之顶	fen de ni er zhi ding	1
+幻想真境剧诗	huan xiang zhen jing ju shi	1
+待解「弈局」	dai jie yi ju	1
+山脊守望	shan ji shou wang	1
+孤云凌霄之处	gu yun ling xiao zhi chu	1
+华清归藏密宫	hua qing gui cang mi gong	1
+无妄引咎密宫	wu wang yin jiu mi gong	1
+「伏龙树」之底	fu long shu zhi di	1
+鹤径折旋之所	he jing zhe xuan zhi suo	1
+机符遁藏之城	ji fu dun cang zhi cheng	1
+迷错幻渺之境	mi cuo huan miao zhi jing	1
+鸣神岛·天守	ming shen dao tian shou	1
+梦想乐土之殁	meng xiang le tu zhi mo	1
+净琉璃工坊	jing liu li gong fang	1
+肇始之乡	zhao shi zhi xiang	1
+归寂之庭	gui ji zhi ting	1
+染境	ran jing	1
+苍白的遗荣	cang bai de yi rong	1
+罪祸的终末	zui huo de zhong mo	1
+异界余影	yi jie yu ying	1
+丝柯克	si ke ke	1
 卡莉露	ka li lu	1
-小狼	xiao lang	1
-莎莎	sha sha	1
-香菱	xiang ling	1
-刻晴	ke qing	1
-玉衡	yu heng	1
-凝光	ning guang	1
-天权	tian quan	1
-七七	qi qi	1
-救苦渡厄真君	jiu ku du e zhen jun	1
-行秋	hang qiu	1
-枕玉	zhen yu	1
-重云	zhong yun	1
-北斗	bei dou	1
-辛焱	xin yan	1
-钟离	zhong li	1
-客卿	ke qing	1
-钟离先生	zhong li xian sheng	1
-玉璋护盾	yu zhang hu dun	1
-魈	xiao	1
-降魔大圣	xiang mo da sheng	1
-护法夜叉	hu fa ye cha	1
-金鹏	jin peng	1
-甘雨	gan yu	1
-麒麟	qi lin	1
-胡桃	hu tao	1
-烟绯	yan fei	1
-白术	bai shu	1
-白先生	bai xian sheng	1
-星燕	xing yan	1
-云堇	yun jin	1
-云先生	yun xian sheng	1
-申鹤	shen he	1
-夜兰	ye lan	1
-瑶瑶	yao yao	1
-月桂	yue gui	1
-白玉萝卜	bai yu luo bo	1
-超厉害·大萝卜	chao li hai da luo bo	1
-摩拉克斯	mo la ke si	1
-岩王帝君	yan wang di jun	1
-岩神	yan shen	1
-闲云	xian yun	1
-嘉明	jia ming	1
-蓝砚	lan yan	1
-萍姥姥	ping lao lao	1
-歌尘浪市真君	ge chen lang shi zhen jun	1
-天叔	tian shu	1
-天枢	tian shu	1
-削月筑阳真君	xue yue zhu yang zhen jun	1
-理水叠山真君	li shui die shan zhen jun	1
-理水叔叔	li shui shu shu	1
-留云借风真君	liu yun jie feng zhen jun	1
-留云阿姨	liu yun a yi	1
-若陀龙王	ruo tuo long wang	1
-锅巴	guo ba	1
-马克修斯	ma ke xiu si	1
-灶神	zao shen	1
-浮舍	fu she	1
-腾蛇太元帅	teng she tai yuan shuai	1
-弥怒	mi nu	1
-心猿大将	xin yuan da jiang	1
-伐难	fa nan	1
-螺卷大将	luo juan da jiang	1
-应达	ying da	1
-火鼠大将	huo shu da jiang	1
-铜雀	tong que	1
-王平安	wang ping an	1
-掇星攫辰天君	duo xing jue chen tian jun	1
-卯师傅	mao shi fu	1
-宝儿	bao er	1
-胭儿	yan er	1
-「大姐」	da jie	1
-归终	gui zhong	1
-哈艮图斯	ha gen tu si	1
-尘之魔神	chen zhi mo shen	1
-赫乌利亚	he wu li ya	1
-盐之魔神	yan zhi mo shen	1
-鸣海栖霞真君	ming hai qi xia zhen jun	1
-移霄导天真君	yi xiao dao tian zhen jun	1
-长生	chang sheng	1
-百闻	bai wen	1
-百识	bai shi	1
-百晓	bai xiao	1
-菲尔戈黛特	fei er ge dai te	1
-淮安	huai an	1
-言笑	yan xiao	1
-江雪	jiang xue	1
-小雨	xiao yu	1
-嘉玮	jia wei	1
-莺儿	ying er	1
-石头	shi tou	1
-岚姐	lan jie	1
-寒锋	han feng	1
-老章	lao zhang	1
-纪芳	ji fang	1
-茶博士刘苏	cha bo shi liu su	1
-范二爷	fan er ye	1
-索拉雅	suo la ya	1
-瑾武	jin wu	1
-玥辉	yue hui	1
-沐宁	mu ning	1
-志璇	zhi xuan	1
-塔列辛	ta lie xin	1
-海迪夫·普尔希纳	hai di fu pu er xi na	1
-克里托夫	ke li tuo fu	1
-何爷	he ye	1
-赵铁牛	zhao tie niu	1
-陈娇花	chen jiao hua	1
-安东	an dong	1
-安托哈	an tuo ha	1
-「第九中队」临时队长	di jiu zhong dui lin shi dui zhang	1
-提莫尔	ti mo er	1
-达尼拉	da ni la	1
-拉多米尔	la duo mi er	1
-彦博	yan bo	1
-卡塔琳娜	ka ta lin na	1
-赞玛兰	zan ma lan	1
-戚定	qi ding	1
-昆钧	kun jun	1
-伯阳	bo yang	1
-浮锦	fu jin	1
-灵渊	ling yuan	1
-药君	yao jun	1
-罗叔	luo shu	1
-小茂	xiao mao	1
-漱玉	shu yu	1
-远黛	yuan dai	1
-文仔	wen zai	1
-侯章	hou zhang	1
-接笏	jie hu	1
-叶德	ye de	1
-沃特蒙泰涅	wo te meng tai nie	1
-桃都	tao dou	1
-擘那	bo na	1
-枫原万叶	feng yuan wan ye	1
-宵宫	xiao gong	1
-神里绫华	shen li ling hua	1
-小姐	xiao jie	1
-神里绫人	shen li ling ren	1
-家主大人	jia zhu da ren	1
-托马	tuo ma	1
-神里家家政官	shen li jia jia zheng guan	1
-地头蛇	di tou she	1
-早柚	zao you	1
-八重神子	ba zhong shen zi	1
-八重大人	ba zhong da ren	1
-玲珑油豆腐	ling long you dou fu	1
-荒泷一斗	huang long yi dou	1
-荒泷天下第一斗	huang long tian xia di yi dou	1
-放牛的	fang niu de	1
-阿丑	a chou	1
-斗虫	dou chong	1
-久岐忍	jiu qi ren	1
-五郎	wu lang	1
-珊瑚宫心海	shan hu gong xin hai	1
-现人神巫女	xian ren shen wu nv	1
-深海舌鲆鱼	shen hai she ping yu	1
-（对珊瑚宫心海或雷电将军的尊称）	dui shan hu gong xin hai huo lei dian jiang jun de zun cheng	1
-剑鱼二番队	jian yu er fan dui	1
-九条裟罗	jiu tiao sha luo	1
-鹿野院平藏	lu ye yuan ping cang	1
-绮良良	qi liang liang	1
-猫箱急件	mao xiang ji jian	1
-猫草豆蔻	mao cao dou kou	1
-雷电将军	lei dian jiang jun	1
-巴尔	ba er	1
-巴尔泽布	ba er ze bu	1
-（对雷电将军的尊称）	dui lei dian jiang jun de zun cheng	1
-雷神	lei shen	1
-一心净土	yi xin jing tu	1
-梦想一心	meng xiang yi xin	1
-影	ying	1
-真	zhen	1
-祸津御建鸣神命	huo jin yu jian ming shen ming	1
-梦见月瑞希	meng jian yue rui xi	1
-长野原龙之介	zhang ye yuan long zhi jie	1
-太郎丸	tai lang wan	1
-狐斋宫	hu zhai gong	1
-花散里	hua san li	1
-柊弘嗣	zhong hong si	1
-若紫	ruo zi	1
-五百藏	wu bai cang	1
-吉法师	ji fa shi	1
-证城	zheng cheng	1
-刑部小判	xing bu xiao pan	1
-泽维尔	ze wei er	1
-电影机	dian ying ji	1
-阿瑠	a liu	1
-阿釜	a fu	1
-墨田	mo tian	1
-卡帕奇莉	ka pa qi li	1
-菅名卡帕奇莉	jian ming ka pa qi li	1
-雷鸟	lei niao	1
-奥罗巴斯	ao luo ba si	1
-远吕羽氏尊	yuan lv yu shi zun	1
-渊上	yuan shang	1
-亚琉	ya liu	1
-阿布拉克	a bu la ke	1
-阿倍良久	a bei liang jiu	1
-厄瑞玻斯	e rui bo si	1
-乌帽子	wu mao zi	1
-久利由卖	jiu li you mai	1
-伊达	yi da	1
-宫地	gong di	1
-斯巴达克	si ba da ke	1
-须婆达之彦	xu po da zhi yan	1
-哲平	zhe ping	1
-旭东	xu dong	1
-朱莉	zhu li	1
-芭尔瓦涅	ba er wa nie	1
-龟井宗久	gui jing zong jiu	1
-广海	guang hai	1
-阿顺	a shun	1
-寝子	qin zi	1
-自称「浅濑神社代宫司」	zi cheng qian lai shen she dai gong si	1
-无名	wu ming	1
-「公义」	gong yi	1
-阿创	a chuang	1
-天目十五	tian mu shi wu	1
-鲸井小弟	jing jing xiao di	1
-苏珊	su shan	1
-卡琵莉亚	ka pi li ya	1
-瓦希德	wa xi de	1
-汤雯	tang wen	1
-范兵卫	fan bing wei	1
-远国御用	yuan guo yu yong	1
-玄冬林檎	xuan dong lin qin	1
-柳达希卡·雪奈茨芙娜	liu da xi ka xue nai ci fu na	1
-百代	bai dai	1
-蓝川丞	lan chuan cheng	1
-柴葉紫	chai ye zi	1
-百日白白音	bai ri bai bai yin	1
-江村一玄斋	jiang cun yi xuan zhai	1
-江村中弥	jiang cun zhong mi	1
-金井	jin jing	1
-薄田	bao tian	1
-海彦	hai yan	1
-梦魔	meng mo	1
-久吕由命	jiu lv you ming	1
-御舆千代	yu yu qian dai	1
-卓也	zhuo ye	1
-赛诺	sai nuo	1
-大风纪官	da feng ji guan	1
-风纪官	feng ji guan	1
-提纳里	ti na li	1
-巡林官	xun lin guan	1
-提纳里师父	ti na li shi fu	1
-柯莱	ke lai	1
-柯里安巴	ke li an ba	1
-魔鳞病	mo lin bing	1
-多莉·桑歌玛哈巴依	duo li sang ge ma ha ba yi	1
-艾尔海森	ai er hai sen	1
-迪希雅	di xi ya	1
-炽鬃之狮	chi zong zhi shi	1
-妮露	ni lu	1
-花神之舞	hua shen zhi wu	1
-坎蒂丝	kan di si	1
-莱依拉	lai yi la	1
-珐露珊	fa lu shan	1
-珐露珊前辈	fa lu shan qian bei	1
-卡维	ka wei	1
-维克拉姆	wei ke la mu	1
-里法特	li fa te	1
-纳西妲	na xi da	1
-摩耶之殿	mo ye zhi dian	1
-小吉祥草王	xiao ji xiang cao wang	1
-草神	cao shen	1
-智慧之神	zhi hui zhi shen	1
-布耶尔	bu ye er	1
-摩诃善法大吉祥智慧主	mo he shan fa da ji xiang zhi hui zhu	1
-赛索斯	sai suo si	1
-花神	hua shen	1
-娜布·玛莉卡塔	na bu ma li ka ta	1
-大慈树王	da ci shu wang	1
-阿扎尔	a zha er	1
-大贤者	da xian zhe	1
-贤者	xian zhe	1
-六大贤者	liu da xian zhe	1
-卡瓦贾	ka wa jia	1
-海芭夏	hai ba xia	1
-迪娜泽黛·呼玛伊	di na ze dai hu ma yi	1
-阿斯法德	a si fa de	1
-鲁哈维	lu ha wei	1
-塞塔蕾	sai ta lei	1
-拉赫曼	la he man	1
-鲁梅拉	lu mei la	1
-卡卡塔	ka ka ta	1
-机械螃蟹	ji xie pang xie	1
-阿巴图伊	a ba tu yi	1
-阿娜耶	a na ye	1
-谢赫祖拜尔	xie he zu bai er	1
-爱拉尼	ai la ni	1
-阿汉格尔	a han ge er	1
-娜比雅	na bi ya	1
-哈鲁特	ha lu te	1
-玛鲁特	ma lu te	1
-阿亚德瓦	a ya de wa	1
-阿莲佐	a lian zuo	1
-赛达菲	sai da fei	1
-奥古斯都·洛夫莱斯	ao gu si dou luo fu lai si	1
-奥列格	ao lie ge	1
-阿芬迪	a fen di	1
-沙漠子民	sha mo zi min	1
-婕德	jie de	1
-哲伯莱勒	zhe bo lai le	1
-优菲	you fei	1
-提尔扎德	ti er zha de	1
-奔奔	ben ben	1
-萨梅尔	sa mei er	1
-芭别尔·塔尼特	ba bie er ta ni te	1
-主母	zhu mu	1
-利露帕尔	li lu pa er	1
-阿萨里格	a sa li ge	1
-阿德菲	a de fei	1
-尤夫腾	you fu teng	1
-塔德菈	ta de la	1
-马塞拉	ma sai la	1
-佐娅·雪奈茨芙娜	zuo ya xue nai ci fu na	1
-帕维兹拉万	pa wei zi la wan	1
-佛罗德洛克·弗朗孔斯汀	fo luo de luo ke fu lang kong si ting	1
-菲莉吉丝	fei li ji si	1
-赤王	chi wang	1
-阿赫玛尔	a he ma er	1
-阿蒙	a meng	1
-拉娜	la na	1
-法留纳	fa liu na	1
-兰拉娜	lan la na	1
-兰罗摩	lan luo mo	1
-兰拉迦	lan la jia	1
-兰帕卡提	lan pa ka ti	1
-兰那库拉	lan na ku la	1
-兰贡迪	lan gong di	1
-兰百梨迦	lan bai li jia	1
-兰般度	lan ban du	1
-兰伽卢	lan ga lu	1
-兰阐荼	lan chan tu	1
-兰萨卡	lan sa ka	1
-兰阿帕斯	lan a pa si	1
-兰非拉	lan fei la	1
-兰利遮	lan li zhe	1
-兰罗希陀	lan luo xi tuo	1
-兰陀娑	lan tuo suo	1
-兰纳迦	lan na jia	1
-兰纳真	lan na zhen	1
-兰迦鲁	lan jia lu	1
-兰耆都	lan qi dou	1
-兰穆护昆达	lan mu hu kun da	1
-兰帝裟	lan di sha	1
-兰沙恭	lan sha gong	1
-兰弥那离	lan mi na li	1
-海亚姆	hai ya mu	1
-伊利亚斯	yi li ya si	1
-西拉杰	xi la jie	1
-库塞拉	ku sai la	1
-沙扎曼·呼玛伊	sha zha man hu ma yi	1
-伊德里西	yi de li xi	1
-巴沙尔	ba sha er	1
-提克里蒂	ti ke li di	1
-米沙勒	mi sha le	1
-埃德	ai de	1
-克洛达尔·亚尔伯里奇	ke luo da er ya er bo li qi	1
-罪人	zui ren	1
-梅赫拉克	mei he la ke	1
-萨赫哈蒂	sa he ha di	1
-努尔	nu er	1
-阿佩普	a pei pu	1
-翠草之龙	cui cao zhi long	1
-龙王	long wang	1
-斯露莎	si lu sha	1
-斯露莎大人	si lu sha da ren	1
-花灵之「勇者」	hua ling zhi yong zhe	1
-双角的花冠	shuang jiao de hua guan	1
-谒颂主	ye song zhu	1
-那先朱那	na xian zhu na	1
-识主	shi zhu	1
-索希	suo xi	1
-祖尔宛	zu er wan	1
-米希尔	mi xi er	1
-拉沙鲁	la sha lu	1
-西摩格	xi mo ge	1
-克林索尔	ke lin suo er	1
-贾尔贾	jia er jia	1
-菲多赫	fei duo he	1
-阿拉夫	a la fu	1
-巴穆恩	ba mu en	1
-纳菲斯	na fei si	1
-阿托莎	a tuo sha	1
-巴兰	ba lan	1
-阿玛兹亚	a ma zi ya	1
-卡利贝尔·亚尔伯里奇	ka li bei er ya er bo li qi	1
-艾德加	ai de jia	1
-席尓万	xi er wan	1
-卢西恩	lu xi en	1
-叶莲娜	ye lian na	1
-基里亚	ji li ya	1
-夏姆	xia mu	1
-伊娜姆	yi na mu	1
-奥乌兹	ao wu zi	1
-娜赞	na zan	1
-夏洛蒂	xia luo di	1
-林尼	lin ni	1
-琳妮特	lin ni te	1
-菲米尼	fei mi ni	1
+乌尔班	wu er ban	1
+炽烈的炎之魔女	chi lie de yan zhi mo nv	1
+逐影猎人	zhu ying lie ren	1
+祭火礼冠	ji huo li guan	1
+祭冰礼冠	ji bing li guan	1
+祭雷礼冠	ji lei li guan	1
+谐律异想断章	xie lv yi xiang duan zhang	1
+达达利亚	da da li ya	1
+公子	gong zi	1
+阿贾克斯	a jia ke si	1
+伙伴 / 搭档	huo ban da dang	1
+女士 / 席诺拉	nv shi xi nuo la	1
+罗莎琳·克鲁兹希卡·洛厄法特	luo sha lin ke lu zi xi ka luo e fa te	1
+焚尽的炽炎魔女	fen jin de chi yan mo nv	1
+斯卡拉姆齐	si ka la mu qi	1
+散兵	san bing	1
+国崩	guo beng	1
+富人	fu ren	1
+多托雷	duo tuo lei	1
+博士	bo shi	1
+普契涅拉	pu qi nie la	1
+公鸡	gong ji	1
+卡皮塔诺	ka pi ta nuo	1
+队长	dui zhang	1
+瑟雷恩	se lei en	1
+阿蕾奇诺	a lei qi nuo	1
+仆人	pu ren	1
+雪奈茨芙娜	xue nai ci fu na	1
+雪奈茨维奇	xue nai ci wei qi	1
+皮耶罗	pi ye luo	1
+丑角	chou jue	1
 厄歌莉娅	e ge li ya	1
-娜维娅	na wei ya	1
 大小姐	da xiao jie	1
-莱欧斯利	lai ou si li	1
 公爵	gong jue	1
-希格雯	xi ge wen	1
-克洛琳德	ke luo lin de	1
-决斗代理人	jue dou dai li ren	1
-那维莱特	na wei lai te	1
 最高审判官	zui gao shen pan guan	1
 那维莱特大人	na wei lai te da ren	1
-芙宁娜	fu ning na	1
 芙宁娜女士	fu ning na nv shi	1
 芙卡洛斯	fu ka luo si	1
-水神	shui shen	1
-夏沃蕾	xia wo lei	1
-千织	qian zhi	1
-艾梅莉埃	ai mei li ai	1
-爱可菲	ai ke fei	1
 阿兰·吉约丹	a lan ji yue dan	1
 奇械公	qi xie gong	1
 西尔弗	xi er fu	1
@@ -535,6 +277,11 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 梅雅德	mei ya de	1
 安东·罗杰	an dong luo jie	1
 阿鲁埃	a lu ai	1
+瓦纳格姆	wa na ge mu	1
+蕾欧妮	lei ou ni	1
+艾嘉莉亚	ai jia li ya	1
+雷诺德	lei nuo de	1
+爱洛依丝	ai luo yi si	1
 德拉萝诗	de la luo shi	1
 布希柯	bu xi ke	1
 爱贝尔	ai bei er	1
@@ -571,8 +318,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 玛丽安·吉约丹	ma li an ji yue dan	1
 雷内·德·佩特莉可	lei nei de pei te li ke	1
 卡尔·英戈德	ka er ying ge de	1
-卡特·谢尔比乌斯	ka te xie er bi wu si	1
-贝瑟·埃尔顿	bei se ai er dun	1
 维吉尔	wei ji er	1
 桑尼	sang ni	1
 「白手套」	bai shou tao	1
@@ -591,36 +336,12 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 洛薇	luo wei	1
 伊维斯	yi wei si	1
 法拉娜	fa la na	1
-纯水骑士	chun shui qi shi	1
 加尔恰	jia er qia	1
 路通	lu tong	1
 推数机	tui shu ji	1
 梅康顿	mei kang dun	1
 巴比斯	ba bi si	1
 超级大炮	chao ji da pao	1
-吉沃尼	ji wo ni	1
-贝妮蒂	bei ni di	1
-玫莉莎	mei li sha	1
-埃松	ai song	1
-约莲妮	yue lian ni	1
-瑞安维尔	rui an wei er	1
-黛丝蕾	dai si lei	1
-埃斯蒙德	ai si meng de	1
-塞德娜	sai de na	1
-劳维克	lao wei ke	1
-波洛	bo luo	1
-迪尔菲	di er fei	1
-比罗	bi luo	1
-埃兰	ai lan	1
-维尔芒	wei er mang	1
-乐平波琳	le ping bo lin	1
-特尔克西	te er ke xi	1
-祖莉亚·德斯特雷	zu li ya de si te lei	1
-贾拉康	jia la kang	1
-莱斯科·德斯特雷	lai si ke de si te lei	1
-卡特皮拉	ka te pi la	1
-莉诺尔	li nuo er	1
-纳齐森科鲁兹	na qi sen ke lu zi	1
 沙龙成员	sha long cheng yuan	1
 乌瑟勋爵	wu se xun jue	1
 海薇玛夫人	hai wei ma fu ren	1
@@ -630,47 +351,212 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 费索勒	fei suo le	1
 杜吉耶	du ji ye	1
 阿维丝	a wei si	1
-巴蒂斯特	ba di si te	1
-薇若妮卡	wei ruo ni ka	1
-莫里斯	mo li si	1
 佩露薇利	pei lu wei li	1
 库嘉维娜	ku jia wei na	1
 克雷薇	ke lei wei	1
 小呜斯	xiao wu si	1
-波爱修斯	bo ai xiu si	1
-斯库拉	si ku la	1
-卡西奥多	ka xi ao duo	1
 莱提西娅	lai ti xi ya	1
 厄舍	e she	1
 弗洛莱恩	fu luo lai en	1
 拉瓦特	la wa te	1
 波顿	bo dun	1
-韦尔赛	wei er sai	1
 巫婆	wu po	1
-玛拉妮	ma la ni	1
+莎凡娜	sha fan na	1
+莫妮卡	mo ni ka	1
+菲尔曼	fei er man	1
+伊莱尔	yi lai er	1
+莫德斯特	mo de si te	1
+萨维利	sa wei li	1
+空	kong	1
+荧	ying	1
+旅行者	lv xing zhe	1
+飞行堇瓜	fei xing jin gua	1
+原初的那一位	yuan chu de na yi wei	1
+若娜瓦	ruo na wa	1
+死之执政	si zhi zhi zheng	1
+伊斯塔露	yi si ta lu	1
+时间之执政	shi jian zhi zhi zheng	1
+纳贝里士	na bei li shi	1
+生之执政	sheng zhi zhi zheng	1
+小姐	xiao jie	1
+家主大人	jia zhu da ren	1
+神里家家政官	shen li jia jia zheng guan	1
+地头蛇	di tou she	1
+八重大人	ba zhong da ren	1
+荒泷天下第一斗	huang long tian xia di yi dou	1
+放牛的	fang niu de	1
+深海舌鲆鱼	shen hai she ping yu	1
+（对珊瑚宫心海或雷电将军的尊称）	dui shan hu gong xin hai huo lei dian jiang jun de zun cheng	1
+猫箱急件	mao xiang ji jian	1
+猫草豆蔻	mao cao dou kou	1
+巴尔	ba er	1
+巴尔泽布	ba er ze bu	1
+（对雷电将军的尊称）	dui lei dian jiang jun de zun cheng	1
+雷神	lei shen	1
+长野原龙之介	zhang ye yuan long zhi jie	1
+花散里	hua san li	1
+若紫	ruo zi	1
+吉法师	ji fa shi	1
+证城	zheng cheng	1
+刑部小判	xing bu xiao pan	1
+泽维尔	ze wei er	1
+奥罗巴斯	ao luo ba si	1
+远吕羽氏尊	yuan lv yu shi zun	1
+久利由卖	jiu li you mai	1
+伊达	yi da	1
+宫地	gong di	1
+须婆达之彦	xu po da zhi yan	1
+旭东	xu dong	1
+朱莉	zhu li	1
+芭尔瓦涅	ba er wa nie	1
+龟井宗久	gui jing zong jiu	1
+广海	guang hai	1
+阿顺	a shun	1
+柳达希卡·雪奈茨芙娜	liu da xi ka xue nai ci fu na	1
+江村一玄斋	jiang cun yi xuan zhai	1
+江村中弥	jiang cun zhong mi	1
+金井	jin jing	1
+薄田	bao tian	1
+海彦	hai yan	1
+梦魔	meng mo	1
+久吕由命	jiu lv you ming	1
+御舆千代	yu yu qian dai	1
+卓也	zhuo ye	1
+戴因	dai yin	1
+拾枝者	shi zhi zhe	1
+末光之剑	mo guang zhi jian	1
+海洛塔帝	hai luo ta di	1
+维瑟弗尼尔	wei se fu ni er	1
+苏尔特洛奇	su er te luo qi	1
+雷利尔	lei li er	1
+贤者(称号)	xian zhe cheng hao	1
+预言家(称号)	yu yan jia cheng hao	1
+黄金(称号)	huang jin cheng hao	1
+极恶骑	ji e qi	1
+猎月人	lie yue ren	1
+坎瑞亚的「五大罪人」	kan rui ya de wu da zui ren	1
+斯克弗努格	si ke fu nu ge	1
+蒂莱尔	di lai er	1
+哈登	ha deng	1
+玉衡	yu heng	1
+天权	tian quan	1
+救苦渡厄真君	jiu ku du e zhen jun	1
+枕玉	zhen yu	1
+钟离	zhong li	1
+客卿	ke qing	1
+钟离先生	zhong li xian sheng	1
+玉璋护盾	yu zhang hu dun	1
+降魔大圣	xiang mo da sheng	1
+护法夜叉	hu fa ye cha	1
+金鹏	jin peng	1
+白先生	bai xian sheng	1
+云先生	yun xian sheng	1
+月桂	yue gui	1
+白玉萝卜	bai yu luo bo	1
+超厉害·大萝卜	chao li hai da luo bo	1
+摩拉克斯	mo la ke si	1
+岩王帝君	yan wang di jun	1
+闲云	xian yun	1
+萍姥姥	ping lao lao	1
+歌尘浪市真君	ge chen lang shi zhen jun	1
+天枢	tian shu	1
+削月筑阳真君	xue yue zhu yang zhen jun	1
+理水叠山真君	li shui die shan zhen jun	1
+理水叔叔	li shui shu shu	1
+留云借风真君	liu yun jie feng zhen jun	1
+留云阿姨	liu yun a yi	1
+若陀龙王	ruo tuo long wang	1
+马科修斯	ma ke xiu si	1
+灶神	zao shen	1
+浮舍	fu she	1
+腾蛇太元帅	teng she tai yuan shuai	1
+弥怒	mi nu	1
+心猿大将	xin yuan da jiang	1
+伐难	fa nan	1
+螺卷大将	luo juan da jiang	1
+应达	ying da	1
+火鼠大将	huo shu da jiang	1
+卯师傅	mao shi fu	1
+胭儿	yan er	1
+「大姐」	da jie	1
+哈艮图斯	ha gen tu si	1
+尘之魔神	chen zhi mo shen	1
+赫乌莉亚	he wu li ya	1
+盐之魔神	yan zhi mo shen	1
+鸣海栖霞真君	ming hai qi xia zhen jun	1
+移霄导天真君	yi xiao dao tian zhen jun	1
+长生	chang sheng	1
+百闻	bai wen	1
+百识	bai shi	1
+百晓	bai xiao	1
+小雨	xiao yu	1
+嘉玮	jia wei	1
+石头	shi tou	1
+安东·梅利尼科夫	an dong mei li ni ke fu	1
+安托哈	an tuo ha	1
+「第九连队」临时连长	di jiu lian dui lin shi lian zhang	1
+提莫尔	ti mo er	1
+达尼拉	da ni la	1
+拉多米尔	la duo mi er	1
+卡塔琳娜	ka ta lin na	1
+戚定	qi ding	1
+昆钧	kun jun	1
+伯阳	bo yang	1
+浮锦	fu jin	1
+灵渊	ling yuan	1
+药君	yao jun	1
+侯章	hou zhang	1
+接笏	jie hu	1
+桃都	tao dou	1
+擘那	bo na	1
+小可爱	xiao ke ai	1
+卖唱的	mai chang de	1
+断罪之皇女	duan zui zhi huang nv	1
+艾米	ai mi	1
+幽夜净土	you ye jing tu	1
+荣誉骑士哥哥	rong yu qi shi ge ge	1
+荣誉骑士姐姐	rong yu qi shi jie jie	1
+禁闭室	jin bi shi	1
+芭芭拉·佩奇	ba ba la pei qi	1
+白垩之子	bai e zhi zi	1
+首席炼金术士	shou xi lian jin shu shi	1
+调查小队队长	diao cha xiao dui dui zhang	1
+白垩	bai e	1
+罗莎莉亚	luo sha li ya	1
+浪花骑士	lang hua qi shi	1
+游击小队队长	you ji xiao dui dui zhang	1
+旧贵族	jiu gui zu	1
+前进测绘员	qian jin ce hui yuan	1
+巴巴托斯	ba ba tuo si	1
+风神	feng shen	1
+终天的闭幕曲	zhong tian de bi mu qu	1
+安德留斯	an de liu si	1
+玻瑞亚斯	bo rui ya si	1
+莱茵多特	lai yin duo te	1
+芭比洛斯	ba bi luo si	1
+老太婆	lao tai po	1
+I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
+塞琉斯 / 居勒什	sai liu si ju le shen	1
+爱德琳	ai de lin	1
+赫塔	he ta	1
+玛格丽特	ma ge li te	1
+杜拉夫·凯茨莱茵	du la fu kai ci lai yin	1
+霍夫曼·施密特	huo fu man shi mi te	1
+西蒙·佩奇	xi meng pei qi	1
+楠塔克	nan ta ke	1
+玛乔丽	ma qiao li	1
+小狼	xiao lang	1
+莎莎	sha sha	1
 沃摩延	wo mo yan	1
-卡齐娜	ka qi na	1
 乌沙博蒂	wu sha bo di	1
-基尼奇	ji ni qi	1
 马力卜	ma li bo	1
-库胡勒阿乔	ku hu le a qiao	1
-伟大圣龙 (自称)	wei da sheng long zi cheng	1
-茜特菈莉	qian te la li	1
 乌昆博库	wu kun bo ku	1
-黑曜石奶奶	hei yao shi nai nai	1
-希诺宁	xi nuo ning	1
-巴菜卡	ba cai ka	1
-伊安珊	yi an shan	1
+巴莱卡	ba lai ka	1
 乌威佐	wu wei zuo	1
-恰斯卡	qia si ka	1
 武卡	wu ka	1
-玛薇卡	ma wei ka	1
-火神	huo shen	1
 希巴拉克	xi ba la ke	1
 赫布里穆	he bu li mu	1
 基扬戈兹	ji yang ge zi	1
-欧洛伦	ou luo lun	1
-瓦雷莎	wa lei sha	1
 伊法	yi fa	1
 咔库库	ka ku ku	1
 庇笛	bi di	1
@@ -753,7 +639,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 特拉佐莉	te la zuo li	1
 妮赫佳	ni he jia	1
 妮佩卡	ni pei ka	1
-夜神	ye shen	1
 科约帕	ke yue pa	1
 科斯特利茨基	ke si te li ci ji	1
 巴拉诺夫	ba la nuo fu	1
@@ -777,10 +662,10 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 库纳克	ku na ke	1
 利别科	li bie ke	1
 吉恩布	ji en bu	1
-奇馬利	qi ma li	1
+奇马利	qi ma li	1
 雅蕾希	ya lei xi	1
 阿卡马	a ka ma	1
-烏蘭塔	wu lan ta	1
+乌兰塔	wu lan ta	1
 斯塔杜欧	si ta du ou	1
 马兹拉	ma zi la	1
 涅兰	nie lan	1
@@ -828,7 +713,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 瓦萨克拉胡巴肯	wa sa ke la hu ba ken	1
 伊雷尔	yi lei er	1
 伊·奎库叙·茨博隆·库·雷尔	yi kui ku xu ci bo long ku lei er	1
-夸恩因	kua en yin	1
 奥罗卢柯	ao luo lu ke	1
 马尼菲科	ma ni fei ke	1
 玛兹嘉	ma zi jia	1
@@ -857,31 +741,23 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 特拉波	te la bo	1
 薄荷大福	bo he da fu	1
 图娜卡	tu na ka	1
-鸟鲁班巴	niao lu ban ba	1
-卢施	lu shi	1
-恩波索	en bo suo	1
-杜塔	du ta	1
-伦图	lun tu	1
-娜帕	na pa	1
-奇皮茨	qi pi ci	1
+乌鲁班巴	wu lu ban ba	1
 纳纳卡	na na ka	1
 尤洛	you luo	1
-约卡	yue ka	1
 瓦阿吉	wa a ji	1
 帕华娅	pa hua ya	1
 秦库马	qin ku ma	1
 卡布林	ka bu lin	1
 阿托力	a tuo li	1
-豪特利	hao te li	1
 阿麦	a mai	1
 马察科	ma cha ke	1
 索鸟娜	suo niao na	1
 瓦娜娜	wa na na	1
 库蕾玛娜	ku lei ma na	1
-蕈之賢主	xun zhi xian zhu	1
+蕈之贤主	xun zhi xian zhu	1
 蘑瓦塔里	mo wa ta li	1
-愛茜蘑	ai qian mo	1
-菇兹亞	gu zi ya	1
+爱茜蘑	ai qian mo	1
+菇兹亚	gu zi ya	1
 阿蘑娜	a mo na	1
 比夫茏	bi fu long	1
 迦陀迦	jia tuo jia	1
@@ -903,135 +779,764 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 哥们	ge men	1
 杜麦尼	du mai ni	1
 阿瓜拉	a gua la	1
-托克	tuo ke	1
-冰之女皇	bing zhi nv huang	1
-冰神	bing shen	1
-白沙皇	bai sha huang	1
+苏图拉	su tu la	1
+坎塔鲁	kan ta lu	1
 雪国的妖精	xue guo de yao jing	1
-达达利亚	da da li ya	1
-公子	gong zi	1
-阿贾克斯	a jia ke si	1
-伙伴 / 搭档	huo ban da dang	1
+冰之女皇	bing zhi nv huang	1
+白沙皇	bai sha huang	1
+巡林官	xun lin guan	1
+提纳里师父	ti na li shi fu	1
+魔鳞病	mo lin bing	1
+珐露珊前辈	fa lu shan qian bei	1
+摩耶之殿	mo ye zhi dian	1
+小吉祥草王	xiao ji xiang cao wang	1
+布耶尔	bu ye er	1
+摩诃善法大吉祥智慧主	mo he shan fa da ji xiang zhi hui zhu	1
+娜布·玛莉卡塔	na bu ma li ka ta	1
+大慈树王	da ci shu wang	1
+阿扎尔	a zha er	1
+大贤者	da xian zhe	1
+海芭夏	hai ba xia	1
+迪娜泽黛·呼玛伊	di na ze dai hu ma yi	1
+塞塔蕾	sai ta lei	1
+拉赫曼	la he man	1
+鲁梅拉	lu mei la	1
+卡卡塔	ka ka ta	1
+机械螃蟹	ji xie pang xie	1
+阿巴图伊	a ba tu yi	1
+阿娜耶	a na ye	1
+谢赫祖拜尔	xie he zu bai er	1
+爱拉尼	ai la ni	1
+娜比雅	na bi ya	1
+哈鲁特	ha lu te	1
+玛鲁特	ma lu te	1
+阿亚德瓦	a ya de wa	1
+阿莲佐	a lian zuo	1
+赛达菲	sai da fei	1
+奥古斯都·洛夫莱斯	ao gu si dou luo fu lai si	1
+奥列格	ao lie ge	1
+阿芬迪	a fen di	1
+婕德	jie de	1
+哲伯莱勒	zhe bo lai le	1
+优菲	you fei	1
+提尔扎德	ti er zha de	1
+奔奔	ben ben	1
+萨梅尔	sa mei er	1
+芭别尔·塔尼特	ba bie er ta ni te	1
+主母	zhu mu	1
+利露帕尔	li lu pa er	1
+阿萨里格	a sa li ge	1
+阿德菲	a de fei	1
+尤夫腾	you fu teng	1
+塔德菈	ta de la	1
+马塞拉	ma sai la	1
+佐娅·雪奈茨芙娜	zuo ya xue nai ci fu na	1
+帕维兹拉万	pa wei zi la wan	1
+佛罗德洛克·弗朗孔斯汀	fo luo de luo ke fu lang kong si ting	1
+菲莉吉丝	fei li ji si	1
+赤王	chi wang	1
+阿赫玛尔	a he ma er	1
+阿蒙	a meng	1
+法留纳	fa liu na	1
+兰帕卡提	lan pa ka ti	1
+兰阐荼	lan chan tu	1
+兰萨卡	lan sa ka	1
+兰阿帕斯	lan a pa si	1
+兰非拉	lan fei la	1
+兰沙恭	lan sha gong	1
+兰弥那离	lan mi na li	1
+海亚姆	hai ya mu	1
+伊利亚斯	yi li ya si	1
+西拉杰	xi la jie	1
+库塞拉	ku sai la	1
+沙扎曼·呼玛伊	sha zha man hu ma yi	1
+伊德里西	yi de li xi	1
+巴沙尔	ba sha er	1
+提克里蒂	ti ke li di	1
+米沙勒	mi sha le	1
+埃德	ai de	1
+克洛达尔·亚尔伯里奇	ke luo da er ya er bo li qi	1
+罪人	zui ren	1
+梅赫拉克	mei he la ke	1
+萨赫哈蒂	sa he ha di	1
+努尔	nu er	1
+翠草之龙	cui cao zhi long	1
+斯露莎大人	si lu sha da ren	1
+花灵之「勇者」	hua ling zhi yong zhe	1
+双角的花冠	shuang jiao de hua guan	1
+谒颂主	ye song zhu	1
+识主	shi zhu	1
+索希	suo xi	1
+祖尔宛	zu er wan	1
+米希尔	mi xi er	1
+拉沙鲁	la sha lu	1
+西摩格	xi mo ge	1
+克林索尔	ke lin suo er	1
+贾尔贾	jia er jia	1
+菲多赫	fei duo he	1
+阿拉夫	a la fu	1
+巴穆恩	ba mu en	1
+阿托莎	a tuo sha	1
+卡利贝尔·亚尔伯里奇	ka li bei er ya er bo li qi	1
+艾德加	ai de jia	1
+席尔万	xi er wan	1
+卢西恩	lu xi en	1
+叶莲娜	ye lian na	1
+基里亚	ji li ya	1
+娜赞	na zan	1
+乌尔丽克	wu er li ke	1
+伊涅芙	yi nie fu	1
+兽肉旋风	shou rou xuan feng	1
+苹果卷卷	ping guo juan juan	1
+「欢夜畅谈」	huan ye chang tan	1
+「暗渊之获」	an yuan zhi huo	1
+「余音」	yu yin	1
+魂梦残影	hun meng can ying	1
+「休眠仓」的钥匙	xiu mian cang de yao shi	1
+你存在的时空	ni cun zai de shi kong	1
+磷星之章	lin xing zhi zhang	1
+飞船休眠仓	fei chuan xiu mian cang	1
+苍耀	cang yao	1
+幽境危战	you jing wei zhan	1
+游逸旅闻·鎏溢之章	you yi lv wen liu yi zhi zhang	1
+阵列推想大作战	zhen lie tui xiang da zuo zhan	1
+茹果食补大调研	ru guo shi bu da diao yan	1
+伙伴冒险大战记	huo ban mao xian da zhan ji	1
+达尔维什	da er wei shen	1
+阿塔希耶	a ta xi ye	1
+法德瓦	fa de wa	1
+「保证让人轻轻松松长高超厉害灵药」	bao zheng rang ren qing qing song song zhang gao chao li hai ling yao	1
+特别的「御神签」	te bie de yu shen qian	1
+启圣之尘	qi sheng zhi chen	1
+菫色之庭	jin se zhi ting	1
+攫金鸦印	jue jin ya yin	1
+绝对不是下酒菜	jue dui bu shi xia jiu cai	1
+提神醒脑披萨	ti shen xing nao pi sa	1
+宿雪桃红	xiu xue tao hong	1
+岁夜欢哗	sui ye huan hua	1
+勇士的每一面	yong shi de mei yi mian	1
+不败阳焰之章	bu bai yang yan zhi zhang	1
+漱玉工奇斗虫大玄境	shu yu gong qi dou chong da xuan jing	1
+「凝静的海色」	ning jing de hai se	1
+来歆余响	lai xin yu xiang	1
+角斗士的终幕礼	jue dou shi de zhong mu li	1
+海染砗磲	hai ran che qu	1
+九条裟罗	jiu tiao sha luo	1
+柊弘嗣	zhong hong si	1
+阿瑠	a liu	1
+白鹄骑士	bai hu qi shi	1
+辛焱	xin yan	1
+魈	xiao	1
+白术	bai shu	1
+掇星攫辰天君	duo xing jue chen tian jun	1
+优菈·劳伦斯	you la lao lun si	1
+兰耆都	lan qi dou	1
+华池岩岫	hua chi yan xiu	1
+灭诤草蔓	mie zheng cao man	1
+蕈王钩喙	xun wang gou hui	1
+鎏金之鳞	liu jin zhi lin	1
+祸神之禊泪	huo shen zhi xi lei	1
+亘古树海之一瞬	gen gu shu hai zhi yi shun	1
+破旧的刀镡	po jiu de dao tan	1
+影打刀镡	ying da dao tan	1
+名刀镡	ming dao tan	1
+蕈兽孢子	xun shou bao zi	1
+夤夜刻像	yin ye ke xiang	1
+锲纹的横脊	qie wen de heng ji	1
+遗迹巡弋者	yi ji xun yi zhe	1
+愚人众先遣队·火铳游击兵	yu ren zhong xian qian dui huo chong you ji bing	1
+愚人众先遣队·冰铳重卫士	yu ren zhong xian qian dui bing chong zhong wei shi	1
+愚人众先遣队·水铳重卫士	yu ren zhong xian qian dui shui chong zhong wei shi	1
+跋掣	ba che	1
+黑蛇骑士·摧岩之钺	hei she qi shi cui yan zhi yue	1
+蕈兽	xun shou	1
+浮游水蕈兽	fu you shui xun shou	1
+浮游草蕈兽	fu you cao xun shou	1
+伸缩风蕈兽	shen suo feng xun shou	1
+伸缩岩蕈兽	shen suo yan xun shou	1
+伸缩火蕈兽	shen suo huo xun shou	1
+旋转雷蕈兽	xuan zhuan lei xun shou	1
+旋转冰蕈兽	xuan zhuan bing xun shou	1
+旋转火蕈兽	xuan zhuan huo xun shou	1
+陆行水本真蕈	lu hang shui ben zhen xun	1
+陆行岩本真蕈	lu hang yan ben zhen xun	1
+有翼草本真蕈	you yi cao ben zhen xun	1
+有翼冰本真蕈	you yi bing ben zhen xun	1
+翠翎恐蕈	cui ling kong xun	1
+味噌汤	wei ceng tang	1
+腌笃鲜	yan du xian	1
+绀田煮	gan tian zhu	1
+文火慢炖腌笃鲜	wen huo man dun yan du xian	1
+憧憬	chong jing	1
+星蕈	xing xun	1
+活化的星蕈	huo hua de xing xun	1
+枯焦的星蕈	ku jiao de xing xun	1
+璃月地灵龛之钥	li yue di ling kan zhi yao	1
+枫丹地灵龛之钥	feng dan di ling kan zhi yao	1
+百无禁忌箓	bai wu jin ji lu	1
+岁时之晷	sui shi zhi gui	1
+花鳉	hua jiang	1
+琉璃花鳉	liu li hua jiang	1
+甜甜花鳉	tian tian hua jiang	1
+蓝染花鳉	lan ran hua jiang	1
+鸩棘鱼	zhen ji yu	1
+锖假龙	qiang jia long	1
+鹮巷物语	huan xiang wu yu	1
+苦舍桓	ku she huan	1
+苏生之辔	su sheng zhi pei	1
+神舆之辔	shen yu zhi pei	1
+桓斯弥利底	huan si mi li di	1
+恒素果	heng su guo	1
+钵参花	bo can hua	1
+净光翎	jing guang ling	1
+霓裾翩跹	ni ju pian xian	1
+殷红终夜	yin hong zhong ye	1
+蕈猪	xun zhu	1
+驮兽	tuo shou	1
+牦牦驮兽	mao mao tuo shou	1
+长鬓虎罗阇	zhang bin hu luo du	1
+玳龟	dai gui	1
+美露莘	mei lu shen	1
+誓言岬	shi yan jia	1
+吃虎岩 / 螭虎岩	chi hu yan chi hu yan	1
+珠钿舫	zhu dian fang	1
+珉林	min lin	1
+渌华池	lu hua chi	1
+翠玦坡	cui jue po	1
+奥藏山	ao cang shan	1
+荻花洲	di hua zhou	1
+绀田村	gan tian cun	1
+踏鞴砂	ta bei sha	1
+名椎滩	ming zhui tan	1
+八酝岛	ba yun dao	1
+藤兜砦	teng dou zhai	1
+无明砦	wu ming zhai	1
+海祇岛	hai qi dao	1
+平海砦	ping hai zhai	1
+天云峠	tian yun qia	1
+菅名山	jian ming shan	1
+茸蕈窟	rong xun ku	1
+谒颂幽境	ye song you jing	1
+桓那兰那	huan na lan na	1
+玛哈桓那兰那薜那	ma ha huan na lan na bi na	1
+往昔的桓那兰那	wang xi de huan na lan na	1
+铄石之丘	shuo shi zhi qiu	1
+啁哳之沙	zhou zha zhi sha	1
+镔铁沙丘	bin tie sha qiu	1
+酣乐之殿	han le zhi dian	1
+苍漠囿土	cang mo you tu	1
+浮罗囿	fu luo you	1
+跋松顶	ba song ding	1
+桓那兰那的梦之树	huan na lan na de meng zhi shu	1
+桓摩达	huan mo da	1
+须罗蕈	xu luo xun	1
+镇灵神龛	zhen ling shen kan	1
+明芸花	ming yun hua	1
+跋尔松	ba er song	1
+灵宝铎	ling bao duo	1
+狛荷屋	bo he wu	1
+骰子、猫与卡牌的战场	tou zi mao yu ka pai de zhan chang	1
+海上盛珠钿	hai shang sheng zhu dian	1
+古云有「螭」	gu yun you chi	1
+恨繁囿兮作土	hen fan you xi zuo tu	1
+渌华景画	lu hua jing hua	1
+神樱大祓	shen ying da fu	1
+影向祓行	ying xiang fu hang	1
+踏鞴物语	ta bei wu yu	1
+「海祇之牙」	hai qi zhi ya	1
+「海祇之尾」	hai qi zhi wei	1
+「海祇之心」	hai qi zhi xin	1
+八衢彦之试炼	ba qu yan zhi shi lian	1
+八衢姬之试炼	ba qu ji zhi shi lian	1
+日轮与菅名山	ri lun yu jian ming shan	1
+直到「桓那」痊愈	zhi dao huan na quan yu	1
+长杓之章	zhang shao zhi zhang	1
+天隼之章	tian sun zhi zhang	1
+神龛啊，再次显灵吧！	shen kan a zai ci xian ling ba	1
+杉木	shan mu	1
+柽木	cheng mu	1
+千籁至音·飖扬	qian lai zhi yin yao yang	1
+霓裳花	ni chang hua	1
+石珀	shi po	1
+血斛	xue hu	1
+幽灯蕈	you deng xun	1
+那菈	na la	1
+桓那	huan na	1
+元素骰	yuan su tou	1
+投掷（元素骰）	tou zhi yuan su tou	1
+重投（元素骰）	zhong tou yuan su tou	1
+「诤言」的教导	zheng yan de jiao dao	1
+「诤言」的指引	zheng yan de zhi yin	1
+「诤言」的哲学	zheng yan de zhe xue	1
+高塔孤王的残垣	gao ta gu wang de can yuan	1
+凛风奔狼的始龀	lin feng ben lang de shi chen	1
+纯圣露滴的醴泉	chun sheng lu di de li quan	1
+船坞长剑	chuan wu chang jian	1
+斫锋之刃	zhuo feng zhi ren	1
+玛海菈的水色	ma hai la de shui se	1
+钺矛	yue mao	1
+赤穗酒枡	chi sui jiu sheng	1
+贯虹之槊	guan hong zhi shuo	1
+薙草之稻光	zhi cao zhi dao guang	1
+弓藏	gong cang	1
+试作澹月	shi zuo dan yue	1
+鹮穿之喙	huan chuan zhi hui	1
+终末嗟叹之诗	zhong mo jie tan zhi shi	1
+甲级宝珏	jia ji bao jue	1
+试作金珀	shi zuo jin po	1
+碧落之珑	bi luo zhi long	1
+核心轮縠	he xin lun hu	1
+伽吠毗陀	ga fei pi tuo	1
+施芮娅	shi rui ya	1
+灵蕈棋阵	ling xun qi zhen	1
+小小灵蕈	xiao xiao ling xun	1
+萌蘖的竹笋	meng nie de zhu sun	1
+磬弦奏华夜	qing xian zou hua ye	1
+智巧灵蕈大竞逐	zhi qiao ling xun da jing zhu	1
+三界路飨祭	san jie lu xiang ji	1
+嫣朵拉	yan duo la	1
+嵯峨群峰之翼	cuo e qun feng zhi yi	1
+星罗圭璧之晷	xing luo gui bi zhi gui	1
+巉岩琢塑之樽	chan yan zhuo su zhi zun	1
+金铜时晷	jin tong shi gui	1
+将帅兜鍪	jiang shuai dou mou	1
+稽古·砺伏之巢床	ji gu li fu zhi chao chuang	1
+叮铃哐啷蛋卷工坊	ding ling kuang lang dan juan gong fang	1
+雾凇秋分	wu song qiu fen	1
+鎏金殿堂	liu jin dian tang	1
+一捧绿野	yi peng lv ye	1
+白浪拂沙	bai lang fu sha	1
+挪德卡莱	nuo de ka lai	1
+愚人众	yu ren zhong	1
+伏尼契商会	fu ni qi shang hui	1
+执灯人	zhi deng ren	1
+狂猎	kuang lie	1
+霜月之子	shuang yue zhi zi	1
+炽烈传说·跨界乱斗	chi lie chuan shuo kua jie luan dou	1
+雨阵奔流之述演	yu zhen ben liu zhi shu yan	1
+机谋变策战记	ji mou bian ce zhan ji	1
+纳博尔	na bo er	1
+回声之林夜话	hui sheng zhi lin ye hua	1
+电影机	dian ying ji	1
+塔利雅	ta li ya	1
+北风之狼的庙宇	bei feng zhi lang de miao yu	1
+南风之狮的庙宇	nan feng zhi shi de miao yu	1
+鹰之门	ying zhi men	1
+秘源积气喉	mi yuan ji qi hou	1
+升扬之王	sheng yang zhi wang	1
+升华之后	sheng hua zhi hou	1
+秘源机兵·统御械	mi yuan ji bing tong yu xie	1
+贝壳彩糖	bei ke cai tang	1
+德波小蛋糕·改良型	de bo xiao dan gao gai liang xing	1
+德波大蛋糕·绚丽型	de bo da dan gao xuan li xing	1
+情感支持	qing gan zhi chi	1
+绮灿而神秘的赠礼	qi can er shen mi de zeng li	1
+风龙废墟	feng long fei xu	1
+悖理	bei li	1
+炽烈的还魂诗	chi lie de hai hun shi	1
+香糕塔之章	xiang gao ta zhi zhang	1
+魔女的茶会	mo nv de cha hui	1
+升扬样本·骑士	sheng yang yang ben qi shi	1
+升扬样本·王族	sheng yang yang ben wang zu	1
+升扬样本·战车	sheng yang yang ben zhan che	1
+香韵奏者	xiang yun zou zhe	1
+冷寂迸音	leng ji beng yin	1
+和旋舞剧	he xuan wu ju	1
+悠悠慢庄园	you you man zhuang yuan	1
+妙影名篇	miao ying ming pian	1
+缤纷蹈险奇行	bin fen dao xian qi hang	1
+海薇玛映影欢乐城	hai wei ma ying ying huan le cheng	1
+海薇玛乐园全景纪念图	hai wei ma le yuan quan jing ji nian tu	1
+瓦努卡	wa nu ka	1
+査霍尔	cha huo er	1
+卡纳卡	ka na ka	1
+阿让托	a rang tuo	1
+安格尔望	an ge er wang	1
+节拍撞球·梅兹特利篇	jie pai zhuang qiu mei zi te li pian	1
+《至强融合·控碟乐师重混甄选》	zhi qiang rong he kong die le shi zhong hun zhen xuan	1
+斯嘉莉	si jia li	1
+圣遗物	sheng yi wu	1
+生之花	sheng zhi hua	1
+死之羽	si zhi yu	1
+时之沙	shi zhi sha	1
+空之杯	kong zhi bei	1
+理之冠	li zhi guan	1
+冒险家	mao xian jia	1
+悠久的磐岩	you jiu de pan yan	1
+战狂	zhan kuang	1
+冰风迷途的勇士	bing feng mi tu de yong shi	1
+染血的骑士道	ran xue de qi shi dao	1
+勇士之心	yong shi zhi xin	1
+深林的记忆	shen lin de ji yi	1
+守护之心	shou hu zhi xin	1
+沙上楼阁史话	sha shang lou ge shi hua	1
+绝缘之旗印	jue yuan zhi qi yin	1
+流放者	liu fang zhe	1
+乐园遗落之花	le yuan yi luo zhi hua	1
+赌徒	du tu	1
+饰金之梦	shi jin zhi meng	1
+黄金剧团	huang jin ju tuan	1
+沉沦之心	chen lun zhi xin	1
+华馆梦醒形骸记	hua guan meng xing xing hai ji	1
+教官	jiao guan	1
+渡过烈火的贤人	du guo lie huo de xian ren	1
+幸运儿	xing yun er	1
+被怜爱的少女	bei lian ai de shao nv	1
+武人	wu ren	1
+昔日宗室之仪	xi ri zong shi zhi yi	1
+水仙之梦	shui xian zhi meng	1
+苍白之火	cang bai zhi huo	1
+祭水之人	ji shui zhi ren	1
+祭火之人	ji huo zhi ren	1
+祭冰之人	ji bing zhi ren	1
+祭雷之人	ji lei zhi ren	1
+行者之心	xing zhe zhi xin	1
+逆飞的流星	ni fei de liu xing	1
+学士	xue shi	1
+追忆之注连	zhui yi zhi zhu lian	1
+千岩牢固	qian yan lao gu	1
+如雷的盛怒	ru lei de sheng nu	1
+平息鸣雷的尊者	ping xi ming lei de zun zhe	1
+奇迹	qi ji	1
+游医	you yi	1
+辰砂往生录	chen sha wang sheng lu	1
+翠绿之影	cui lv zhi ying	1
+花海甘露之光	hua hai gan lu zhi guang	1
+流浪大地的乐团	liu lang da di de le tuan	1
+昔时之歌	xi shi zhi ge	1
+未竟的遐思	wei jing de xia si	1
+黑曜秘典	hei yao mi dian	1
+烬城勇者绘卷	jin cheng yong zhe hui juan	1
+长夜之誓	chang ye zhi shi	1
+深廊终曲	shen lang zhong qu	1
 魔王武装	mo wang wu zhuang	1
-丝柯克	si ke ke	1
-女士	nv shi	1
-罗莎琳·克鲁兹希卡·洛厄法特	luo sha lin ke lu zi xi ka luo e fa te	1
-焚尽的炽炎魔女	fen jin de chi yan mo nv	1
 红莲蛾	hong lian e	1
-斯卡拉姆齐	si ka la mu qi	1
-散兵	san bing	1
-国崩	guo beng	1
 七叶寂照秘密主	qi ye ji zhao mi mi zhu	1
 正机之神	zheng ji zhi shen	1
 流浪者	liu lang zhe	1
 潘塔罗涅	pan ta luo nie	1
-富人	fu ren	1
-多托雷	duo tuo lei	1
-博士	bo shi	1
-普契涅拉	pu qi nie la	1
-公鸡	gong ji	1
-卡皮塔诺	ka pi ta nuo	1
-队长	dui zhang	1
-瑟雷恩	se lei en	1
-哥伦比娅	ge lun bi ya	1
-少女	shao nv	1
-阿蕾奇诺	a lei qi nuo	1
-仆人	pu ren	1
-桑多涅	sang duo nie	1
-木偶	mu ou	1
-皮耶罗	pi ye luo	1
-丑角	chou jue	1
-雪奈茨芙娜	xue nai ci fu na	1
-雪奈茨维奇	xue nai ci wei qi	1
+夏洛蒂	xia luo di	1
+林尼	lin ni	1
+琳妮特	lin ni te	1
+菲米尼	fei mi ni	1
+娜维娅	na wei ya	1
+莱欧斯利	lai ou si li	1
+希格雯	xi ge wen	1
+克洛琳德	ke luo lin de	1
+决斗代理人	jue dou dai li ren	1
+那维莱特	na wei lai te	1
+芙宁娜	fu ning na	1
+水神	shui shen	1
+夏沃蕾	xia wo lei	1
+千织	qian zhi	1
+艾梅莉埃	ai mei li ai	1
+爱可菲	ai ke fei	1
+卡特·谢尔比乌斯	ka te xie er bi wu si	1
+贝瑟·埃尔顿	bei se ai er dun	1
+纯水骑士	chun shui qi shi	1
+吉沃尼	ji wo ni	1
+贝妮蒂	bei ni di	1
+玫莉莎	mei li sha	1
+埃松	ai song	1
+约莲妮	yue lian ni	1
+瑞安维尔	rui an wei er	1
+黛丝蕾	dai si lei	1
+埃斯蒙德	ai si meng de	1
+塞德娜	sai de na	1
+劳维克	lao wei ke	1
+波洛	bo luo	1
+迪尔菲	di er fei	1
+比罗	bi luo	1
+埃兰	ai lan	1
+维尔芒	wei er mang	1
+乐平波琳	le ping bo lin	1
+特尔克西	te er ke xi	1
+祖莉亚·德斯特雷	zu li ya de si te lei	1
+贾拉康	jia la kang	1
+莱斯科·德斯特雷	lai si ke de si te lei	1
+卡特皮拉	ka te pi la	1
+莉诺尔	li nuo er	1
+纳齐森科鲁兹	na qi sen ke lu zi	1
+波爱修斯	bo ai xiu si	1
+斯库拉	si ku la	1
+卡西奥多	ka xi ao duo	1
+韦尔赛	wei er sai	1
+荣誉骑士	rong yu qi shi	1
+派蒙	pai meng	1
+凯瑟琳	kai se lin	1
+丹迪	dan di	1
+法涅斯	fa nie si	1
+三月女神	san yue nv shen	1
+枫原万叶	feng yuan wan ye	1
+宵宫	xiao gong	1
+神里绫华	shen li ling hua	1
+神里绫人	shen li ling ren	1
+托马	tuo ma	1
+早柚	zao you	1
+八重神子	ba zhong shen zi	1
+玲珑油豆腐	ling long you dou fu	1
+荒泷一斗	huang long yi dou	1
+阿丑	a chou	1
+斗虫	dou chong	1
+久岐忍	jiu qi ren	1
+五郎	wu lang	1
+珊瑚宫心海	shan hu gong xin hai	1
+现人神巫女	xian ren shen wu nv	1
+剑鱼二番队	jian yu er fan dui	1
+鹿野院平藏	lu ye yuan ping cang	1
+绮良良	qi liang liang	1
+雷电将军	lei dian jiang jun	1
+一心净土	yi xin jing tu	1
+梦想一心	meng xiang yi xin	1
+影	ying	1
+真	zhen	1
+祸津御建鸣神命	huo jin yu jian ming shen ming	1
+梦见月瑞希	meng jian yue rui xi	1
+太郎丸	tai lang wan	1
+狐斋宫	hu zhai gong	1
+五百藏	wu bai cang	1
+阿釜	a fu	1
+墨田	mo tian	1
+卡帕奇莉	ka pa qi li	1
+菅名卡帕奇莉	jian ming ka pa qi li	1
+雷鸟	lei niao	1
+渊上	yuan shang	1
+亚琉	ya liu	1
+阿布拉克	a bu la ke	1
+阿倍良久	a bei liang jiu	1
+厄瑞玻斯	e rui bo si	1
+乌帽子	wu mao zi	1
+斯巴达克	si ba da ke	1
+哲平	zhe ping	1
+寝子	qin zi	1
+自称「浅濑神社代宫司」	zi cheng qian lai shen she dai gong si	1
+无名	wu ming	1
+「公义」	gong yi	1
+阿创	a chuang	1
+天目十五	tian mu shi wu	1
+鲸井小弟	jing jing xiao di	1
+苏珊	su shan	1
+卡琵莉亚	ka pi li ya	1
+瓦希德	wa xi de	1
+汤雯	tang wen	1
+范兵卫	fan bing wei	1
+远国御用	yuan guo yu yong	1
+玄冬林檎	xuan dong lin qin	1
+百代	bai dai	1
+蓝川丞	lan chuan cheng	1
+柴葉紫	chai ye zi	1
+百日白白音	bai ri bai bai yin	1
 戴因斯雷布	dai yin si lei bu	1
-戴因	dai yin	1
-拾枝者	shi zhi zhe	1
-末光之剑	mo guang zhi jian	1
 哈夫丹	ha fu dan	1
 伊尔明	yi er ming	1
-白鹄骑士	bai hu qi shi	1
-海洛塔帝	hai luo ta di	1
-维瑟弗尼尔	wei se fu ni er	1
-苏尔特洛奇	su er te luo qi	1
-雷利尔	lei li er	1
-贤者(俗名)	xian zhe su ming	1
-预言家(俗名)	yu yan jia su ming	1
-黄金(俗名)	huang jin su ming	1
-极恶骑	ji e qi	1
-猎月人	lie yue ren	1
-坎瑞亚的「五大罪人」	kan rui ya de wu da zui ren	1
-向着星辰与深渊！	xiang zhe xing chen yu shen yuan	1
-前面的区域，以后再来探索吧！	qian mian di qu yu yi hou zai lai tan suo ba	1
+香菱	xiang ling	1
+刻晴	ke qing	1
+凝光	ning guang	1
+七七	qi qi	1
+行秋	hang qiu	1
+重云	zhong yun	1
+北斗	bei dou	1
+甘雨	gan yu	1
+麒麟	qi lin	1
+胡桃	hu tao	1
+烟绯	yan fei	1
+星燕	xing yan	1
+云堇	yun jin	1
+申鹤	shen he	1
+夜兰	ye lan	1
+瑶瑶	yao yao	1
+岩神	yan shen	1
+嘉明	jia ming	1
+蓝砚	lan yan	1
+天叔	tian shu	1
+锅巴	guo ba	1
+铜雀	tong que	1
+王平安	wang ping an	1
+宝儿	bao er	1
+归终	gui zhong	1
+菲尔戈黛特	fei er ge dai te	1
+淮安	huai an	1
+言笑	yan xiao	1
+江雪	jiang xue	1
+莺儿	ying er	1
+岚姐	lan jie	1
+寒锋	han feng	1
+老章	lao zhang	1
+纪芳	ji fang	1
+茶博士刘苏	cha bo shi liu su	1
+范二爷	fan er ye	1
+索拉雅	suo la ya	1
+瑾武	jin wu	1
+玥辉	yue hui	1
+沐宁	mu ning	1
+志璇	zhi xuan	1
+塔列辛	ta lie xin	1
+海迪夫·普尔希纳	hai di fu pu er xi na	1
+克里托夫	ke li tuo fu	1
+何爷	he ye	1
+赵铁牛	zhao tie niu	1
+陈娇花	chen jiao hua	1
+彦博	yan bo	1
+赞玛兰	zan ma lan	1
+罗叔	luo shu	1
+小茂	xiao mao	1
+漱玉	shu yu	1
+远黛	yuan dai	1
+文仔	wen zai	1
+叶德	ye de	1
+沃特蒙泰涅	wo te meng tai nie	1
+琴·古恩希尔德	qin gu en xi er de	1
+代理团长	dai li tuan zhang	1
+安柏	an bai	1
+侦察骑士	zhen cha qi shi	1
+兔兔伯爵	tu tu bo jue	1
+凯亚·亚尔伯里奇	kai ya ya er bo li qi	1
+丽莎·敏兹	li sha min zi	1
+温迪	wen di	1
+雷泽	lei ze	1
+卢皮卡	lu pi ka	1
+诺艾尔	nuo ai er	1
+菲谢尔·冯·露弗施洛斯·那菲多特	fei xie er feng lu fu shi luo si na fei duo te	1
+奥兹	ao zi	1
+奥兹华尔多·赫芙那梵茵斯	ao zi hua er duo he fu na fan yin si	1
+迪卢克·莱艮芬德	di lu ke lai gen fen de	1
+暗夜英雄	an ye ying xiong	1
+可莉	ke li	1
+蹦蹦炸弹	beng beng zha dan	1
+轰轰火花	hong hong huo hua	1
+嘟嘟可	du du ke	1
+迪奥娜·凯茨莱茵	di ao na kai ci lai yin	1
+砂糖	sha tang	1
+阿贝多	a bei duo	1
+阿斯托洛吉斯·莫娜·梅姬斯图斯	a si tuo luo ji si mo na mei ji si tu si	1
+米卡·施密特	mi ka shi mi te	1
+特瓦林	te wa lin	1
+风魔龙	feng mo long	1
+四风守护	si feng shou hu	1
+奔狼的领主	ben lang de ling zhu	1
+蒂玛乌斯	di ma wu si	1
+艾琳	ai lin	1
+提米	ti mi	1
+艾拉·马斯克	ai la ma si ke	1
+利文斯通博士	li wen si tong bo shi	1
+艾迪丝博士	ai di si bo shi	1
+冒失的帕拉德	mao shi de pa la de	1
+苦恼的莉安	ku nao de li an	1
+温妮莎	wen ni sha	1
+伊洛克	yi luo ke	1
+瓦格纳	wa ge na	1
+舒茨	shu ci	1
+歌德	ge de	1
+吉丽安娜	ji li an na	1
+维多利亚	wei duo li ya	1
+维克多	wei ke duo	1
+葛罗丽	ge luo li	1
+古德温	gu de wen	1
+查耶维奇	cha ye wei qi	1
+玛拉妮	ma la ni	1
+卡齐娜	ka qi na	1
+基尼奇	ji ni qi	1
+库胡勒阿乔	ku hu le a qiao	1
+伟大圣龙 (自称)	wei da sheng long zi cheng	1
+茜特菈莉	qian te la li	1
+黑曜石奶奶	hei yao shi nai nai	1
+希诺宁	xi nuo ning	1
+伊安珊	yi an shan	1
+恰斯卡	qia si ka	1
+玛薇卡	ma wei ka	1
+火神	huo shen	1
+欧洛伦	ou luo lun	1
+瓦雷莎	wa lei sha	1
+夜神	ye shen	1
+夸恩因	kua en yin	1
+卢施	lu shi	1
+恩波索	en bo suo	1
+杜塔	du ta	1
+伦图	lun tu	1
+娜帕	na pa	1
+奇皮茨	qi pi ci	1
+约卡	yue ka	1
+豪特利	hao te li	1
+冰神	bing shen	1
+托克	tuo ke	1
+赛诺	sai nuo	1
+大风纪官	da feng ji guan	1
+风纪官	feng ji guan	1
+提纳里	ti na li	1
+柯莱	ke lai	1
+柯里安巴	ke li an ba	1
+多莉·桑歌玛哈巴依	duo li sang ge ma ha ba yi	1
+艾尔海森	ai er hai sen	1
+迪希雅	di xi ya	1
+炽鬃之狮	chi zong zhi shi	1
+妮露	ni lu	1
+花神之舞	hua shen zhi wu	1
+坎蒂丝	kan di si	1
+莱依拉	lai yi la	1
+珐露珊	fa lu shan	1
+卡维	ka wei	1
+维克拉姆	wei ke la mu	1
+里法特	li fa te	1
+纳西妲	na xi da	1
+草神	cao shen	1
+智慧之神	zhi hui zhi shen	1
+赛索斯	sai suo si	1
+花神	hua shen	1
+贤者	xian zhe	1
+六大贤者	liu da xian zhe	1
+卡瓦贾	ka wa jia	1
+阿斯法德	a si fa de	1
+鲁哈维	lu ha wei	1
+阿汉格尔	a han ge er	1
+沙漠子民	sha mo zi min	1
+拉娜	la na	1
+兰拉娜	lan la na	1
+兰罗摩	lan luo mo	1
+兰拉迦	lan la jia	1
+兰那库拉	lan na ku la	1
+兰贡迪	lan gong di	1
+兰百梨迦	lan bai li jia	1
+兰般度	lan ban du	1
+兰伽卢	lan ga lu	1
+兰利遮	lan li zhe	1
+兰罗希陀	lan luo xi tuo	1
+兰陀娑	lan tuo suo	1
+兰纳迦	lan na jia	1
+兰纳真	lan na zhen	1
+兰迦鲁	lan jia lu	1
+兰穆护昆达	lan mu hu kun da	1
+兰帝裟	lan di sha	1
+阿佩普	a pei pu	1
+龙王	long wang	1
+斯露莎	si lu sha	1
+那先朱那	na xian zhu na	1
+纳菲斯	na fei si	1
+巴兰	ba lan	1
+阿玛兹亚	a ma zi ya	1
+夏姆	xia mu	1
+伊娜姆	yi na mu	1
+奥乌兹	ao wu zi	1
 完全不对！怎么还不如吉祥物啊！	wan quan bu dui zen me hai bu ru ji xiang wu a	1
 「诶嘿」是什么意思啊…！！	ei hei shi shen me yi si a	1
 愿风神护佑你。	yuan feng shen hu you ni	1
-这个如何？	zhe ge ru he	1
-冻结吧！	dong jie ba	1
-小心着凉。	xiao xin zhao liang	1
-抱歉哦。	bao qian o	1
-…这刹那，将是你的永恒。	zhe cha na jiang shi ni de yong heng	1
-真是急性子啊你。	zhen shi ji xing zi a ni	1
-还没尽…兴…	hai mei jin xing	1
-哼，意料之外…	heng yi liao zhi wai	1
-岩石的重量令人安心	yan shi de zhong liang ling ren an xin	1
-攻守兼备	gong shou jian bei	1
-审判！	shen pan	1
-审判——喝啊！	shen pan he a	1
-在此——宣判！	zai ci xuan pan	1
-创生法·拟造阳华	chuang sheng fa ni zao yang hua	1
-拟造阳华	ni zao yang hua	1
-余款的话…我来付吧。	yu kuan de hua wo lai fu ba	1
-雨线难画。	yu xian nan hua	1
-古华深秘。	gu hua shen mi	1
-食盐之罚	shi yan zhi fa	1
-剑出，影随——	jian chu ying sui	1
-剑光如我，斩尽芜杂！	jian guang ru wo zhan jin wu za	1
-靖妖傩舞	jing yao nuo wu	1
-悲鸣吧。	bei ming ba	1
-吃饱喝饱，一路走好！	chi bao he bao yi lu zou hao	1
-天理长驱。	tian li zhang qu	1
-此乃天道。	ci nai tian dao	1
 天动万象。	tian dong wan xiang	1
 千岩牢固，重嶂不移。	qian yan lao gu zhong zhang bu yi	1
-常道恢弘，鸣神永恒！	chang dao hui hong ming shen yong heng	1
-无处可逃！	wu chu ke tao	1
 …世界…遗忘我…	shi jie yi wang wo	1
-不好笑吗？	bu hao xiao ma	1
-很冷吗？我还好。	hen leng ma wo hai hao	1
-一路顺风	yi lu shun feng	1
-好漫长…好孤独…还要多久…	hao man chang hao gu du hai yao duo jiu	1
-为了纳塔	wei le na ta	1
 秘境	mi jing	1
 炼武秘境	lian wu mi jing	1
 祝圣秘境	zhu sheng mi jing	1
 精通秘境	jing tong mi jing	1
-征讨领域	zheng tao ling yu	1
 地脉异常	di mai yi chang	1
 深境螺旋	shen jing luo xuan	1
-深境回廊	shen jing hui lang	1
 合朔之刻	he shuo zhi ke	1
 塞西莉亚苗圃	sai xi li ya miao pu	1
 仲夏庭园	zhong xia ting yuan	1
 西风之鹰的庙宇	xi feng zhi ying de miao yu	1
-忘却之峡	wang que zhi xia	1
-铭记之谷	ming ji zhi gu	1
-芬德尼尔之顶	fen de ni er zhi ding	1
-幻想真境剧诗	huan xiang zhen jing ju shi	1
-山脊守望	shan ji shou wang	1
-孤云凌霄之处	gu yun ling xiao zhi chu	1
 曲径通幽之处	qu jing tong you zhi chu	1
-华清归藏密宫	hua qing gui cang mi gong	1
-华池岩岫	hua chi yan xiu	1
-无妄引咎密宫	wu wang yin jiu mi gong	1
 墟散人离之处	xu san ren li zhi chu	1
-「伏龙树」之底	fu long shu zhi di	1
 太山府	tai shan fu	1
 震雷连山密宫	zhen lei lian shan mi gong	1
 岩中幽谷	yan zhong you gu	1
-鹤径折旋之所	he jing zhe xuan zhi suo	1
-机符遁藏之城	ji fu dun cang zhi cheng	1
-迷错幻渺之境	mi cuo huan miao zhi jing	1
-堇色之庭	jin se zhi ting	1
 砂流之庭	sha liu zhi ting	1
 千门虚舟	qian men xu zhou	1
 借景之馆	jie jing zhi guan	1
@@ -1039,8 +1544,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 池中宅邸	chi zhong zhai di	1
 茂知之壳	mao zhi zhi ke	1
 沉眠之庭	chen mian zhi ting	1
-鸣神岛·天守	ming shen dao tian shou	1
-梦想乐土之殁	meng xiang le tu zhi mo	1
 有顶塔	you ding ta	1
 昏识塔	hun shi ta	1
 缘觉塔	yuan jiao ta	1
@@ -1057,14 +1560,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 熔铁的孤塞	rong tie de gu sai	1
 地中的香海	di zhong di xiang hai	1
 净罪之井	jing zui zhi jing	1
-净琉璃工坊	jing liu li gong fang	1
-肇始之乡	zhao shi zhi xiang	1
-归寂之庭	gui ji zhi ting	1
-染境	ran jing	1
 深潮的余响	shen chao de yu xiang	1
-苍白的遗荣	cang bai de yi rong	1
-罪祸的终末	zui huo de zhong mo	1
-异界余影	yi jie yu ying	1
 临瀑之城	lin pu zhi cheng	1
 褪色的剧场	tui se de ju chang	1
 零落丘墟	ling luo qiu xu	1
@@ -1081,7 +1577,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 玄岩之塔	xuan yan zhi ta	1
 阴燃之珠	yin ran zhi zhu	1
 排异之露	pai yi zhi lu	1
-灭诤草蔓	mie zheng cao man	1
 极寒之核	ji han zhi he	1
 常燃火种	chang ran huo zhong	1
 藏雷野实	cang lei ye shi	1
@@ -1093,7 +1588,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 恒常机关之芯	heng chang ji guan zhi xin	1
 兽境王器	shou jing wang qi	1
 龙嗣伪鳍	long si wei qi	1
-蕈王钩喙	xun wang gou hui	1
 永续机芯	yong xu ji xin	1
 导光四面体	dao guang si mian ti	1
 苍砾蕊羽	cang li rui yu	1
@@ -1112,19 +1606,16 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 武炼之魂·孤影	wu lian zhi hun gu ying	1
 龙王之冕	long wang zhi mian	1
 血玉之枝	xue yu zhi zhi	1
-鎏金之鳞	liu jin zhi lin	1
 灰烬之心	hui jin zhi xin	1
 狱火之蝶	yu huo zhi die	1
 熔毁之刻	rong hui zhi ke	1
 凶将之手眼	xiong jiang zhi shou yan	1
-祸神之禊泪	huo shen zhi xi lei	1
 万劫之真意	wan jie zhi zhen yi	1
 傀儡的悬丝	kui lei de xuan si	1
 无心的渊镜	wu xin de yuan jing	1
 空行的虚铃	kong hang de xu ling	1
 生长天地之蕨草	sheng zhang tian di zhi jue cao	1
 原初绿洲之初绽	yuan chu lv zhou zhi chu zhan	1
-亘古树海之一瞬	gen gu shu hai zhi yi shun	1
 无光丝线	wu guang si xian	1
 无光涡眼	wu guang wo yan	1
 无光质块	wu guang zhi kuai	1
@@ -1187,26 +1678,20 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 尉官的徽记	wei guan de hui ji	1
 士官的徽记	shi guan de hui ji	1
 新兵的徽记	xin bing de hui ji	1
-擢金鸦印	zhuo jin ya yin	1
 藏银鸦印	cang yin ya yin	1
 寻宝鸦印	xun bao ya yin	1
 原素花蜜	yuan su hua mi	1
 微光花蜜	wei guang hua mi	1
 骗骗花蜜	pian pian hua mi	1
-破旧的刀镡	po jiu de dao tan	1
-影打刀镡	ying da dao tan	1
-名刀镡	ming dao tan	1
 隐兽指爪	yin shou zhi zhao	1
 隐兽利爪	yin shou li zhao	1
 隐兽鬼爪	yin shou gui zhao	1
-蕈兽孢子	xun shou bao zi	1
 荧光孢粉	ying guang bao fen	1
 孢囊晶尘	bao nang jing chen	1
 失活菌核	shi huo jun he	1
 休眠菌核	xiu mian jun he	1
 茁壮菌核	zhuo zhuang jun he	1
 晦暗刻像	hui an ke xiang	1
-夤夜刻像	yin ye ke xiang	1
 幽邃刻像	you sui ke xiang	1
 褪色红绸	tui se hong chou	1
 镶边红绸	xiang bian hong chou	1
@@ -1216,7 +1701,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 辉光棱晶	hui guang leng jing	1
 残毁的横脊	can hui de heng ji	1
 密固的横脊	mi gu de heng ji	1
-锲纹的横脊	qie wen de heng ji	1
 来自何处的待放之花	lai zi he chu de dai fang zhi hua	1
 何人所珍藏之花	he ren suo zhen cang zhi hua	1
 漫游者的盛放之花	man you zhe de sheng fang zhi hua	1
@@ -1326,7 +1810,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 遗迹猎者	yi ji lie zhe	1
 遗迹重机	yi ji zhong ji	1
 遗迹机兵	yi ji ji bing	1
-遗迹巡弋者	yi ji xun yi zhe	1
 遗迹侦察者	yi ji zhen cha zhe	1
 遗迹防卫者	yi ji fang wei zhe	1
 遗迹歼击者	yi ji jian ji zhe	1
@@ -1373,10 +1856,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 冰萤	bing ying	1
 愚人众·火之债务处理人	yu ren zhong huo zhi zhai wu chu li ren	1
 愚人众先遣队	yu ren zhong xian qian dui	1
-愚人众先遣队·火铳游击兵	yu ren zhong xian qian dui huo chong you ji bing	1
 愚人众先遣队·岩使游击兵	yu ren zhong xian qian dui yan shi you ji bing	1
-愚人众先遣队·冰铳重卫士	yu ren zhong xian qian dui bing chong zhong wei shi	1
-愚人众先遣队·水铳重卫士	yu ren zhong xian qian dui shui chong zhong wei shi	1
 愚人众先遣队·风拳前锋军	yu ren zhong xian qian dui feng quan qian feng jun	1
 愚人众先遣队·雷锤前锋军	yu ren zhong xian qian dui lei chui qian feng jun	1
 冬国仕女	dong guo shi nv	1
@@ -1421,7 +1901,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 雷音权现	lei yin quan xian	1
 奥赛尔	ao sai er	1
 漩涡之魔神	xuan wo zhi mo shen	1
-跋掣	ba che	1
 漩涡的余威	xuan wo de yu wei	1
 野伏·火附番	ye fu huo fu fan	1
 野伏·阵刀番	ye fu zhen dao fan	1
@@ -1446,22 +1925,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 黯色空壳·近卫	an se kong ke jin wei	1
 黑蛇骑士	hei she qi shi	1
 黑蛇骑士·斩风之剑	hei she qi shi zhan feng zhi jian	1
-黑蛇骑士·摧岩之钺	hei she qi shi cui yan zhi yue	1
 黑蛇众	hei she zhong	1
-蕈兽	xun shou	1
-浮游水蕈兽	fu you shui xun shou	1
-浮游草蕈兽	fu you cao xun shou	1
-伸缩风蕈兽	shen suo feng xun shou	1
-伸缩岩蕈兽	shen suo yan xun shou	1
-伸缩火蕈兽	shen suo huo xun shou	1
-旋转雷蕈兽	xuan zhuan lei xun shou	1
-旋转冰蕈兽	xuan zhuan bing xun shou	1
-旋转火蕈兽	xuan zhuan huo xun shou	1
-陆行水本真蕈	lu hang shui ben zhen xun	1
-陆行岩本真蕈	lu hang yan ben zhen xun	1
-有翼草本真蕈	you yi cao ben zhen xun	1
-有翼冰本真蕈	you yi bing ben zhen xun	1
-翠翎恐蕈	cui ling kong xun	1
 镀金旅团	du jin lv tuan	1
 镀金旅团·阵前斧手	du jin lv tuan zhen qian fu shou	1
 镀金旅团·机弩兵	du jin lv tuan ji nu bing	1
@@ -1537,17 +2001,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 异色生物	yi se sheng wu	1
 铁甲熔火帝皇	tie jia rong huo di huang	1
 千年珍珠骏麟	qian nian zhen zhu jun lin	1
-地方传奇	di fang chuan qi	1
-湖畔的维维安涅	hu pan de wei wei an nie	1
-湖畔的尼尼安涅	hu pan de ni ni an nie	1
-海原巡回法官	hai yuan xun hui fa guan	1
-铁皮子爵	tie pi zi jue	1
-双生妖精骑士·安洁莉卡	shuang sheng yao jing qi shi an jie li ka	1
-双生妖精骑士·弥多洛	shuang sheng yao jing qi shi mi duo luo	1
-深谷之剑·柯塔娜	shen gu zhi jian ke ta na	1
-深谷之剑·缪格雷	shen gu zhi jian miu ge lei	1
-「渐渐隐去的老兵」	jian jian yin qu de lao bing	1
-隐者王·多尔库	yin zhe wang duo er ku	1
 水形幻人	shui xing huan ren	1
 维护机关·澄金领队型	wei hu ji guan cheng jin ling dui xing	1
 吞星之鲸	tun xing zhi jing	1
@@ -1685,7 +2138,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 金贝乐棚	jin bei le peng	1
 「梦见月的舒心小站」	meng jian yue de shu xin xiao zhan	1
 北国银行	bei guo yin hang	1
-叮铃哐啷蛋卷工坊	ding ling kuang lang dan juan gong fang	1
 熟练度	shu lian du	1
 特殊料理	te shu liao li	1
 美味的〇〇	mei wei de	1
@@ -1705,7 +2157,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 鸟蛋寿司	niao dan shou si	1
 甜虾寿司	tian xia shou si	1
 干烧香鱼	gan shao xiang yu	1
-味噌汤	wei ceng tang	1
 荞麦面	qiao mai mian	1
 素鲍鱼	su bao yu	1
 薄荷豆汤	bo he dou tang	1
@@ -1793,7 +2244,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 明月蛋	ming yue dan	1
 四方和平	si fang he ping	1
 扣三丝	kou san si	1
-腌笃鲜	yan du xian	1
 琼玉果汤	qiong yu guo tang	1
 来来菜	lai lai cai	1
 轻策农家菜	qing ce nong jia cai	1
@@ -1818,7 +2268,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 米饭布丁	mi fan bu ding	1
 绯樱天妇罗	fei ying tian fu luo	1
 市井杂煮	shi jing za zhu	1
-绀田煮	gan tian zhu	1
 绯樱饼	fei ying bing	1
 渡来禽肉	du lai qin rou	1
 串串三味	chuan chuan san wei	1
@@ -1906,9 +2355,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 爪爪土豆饼	zhao zhao tu dou bing	1
 伍玖叁式营养餐	wu jiu san shi ying yang can	1
 祝圣交响乐	zhu sheng jiao xiang le	1
-绝不是下酒菜	jue bu shi xia jiu cai	1
 审判的晚宴	shen pan de wan yan	1
-提升醒脑披萨	ti sheng xing nao pi sa	1
 蒙德往事	meng de wang shi	1
 至高的智慧（生活）	zhi gao de zhi hui sheng huo	1
 鱼香吐司	yu xiang tu si	1
@@ -1926,7 +2373,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 绝境求生烤鱼	jue jing qiu sheng kao yu	1
 美梦	mei meng	1
 盛世太平	sheng shi tai ping	1
-文火慢炖腌笃鲜	wen huo man dun yan du xian	1
 幽幽大行军	you you da xing jun	1
 云遮玉	yun zhe yu	1
 轻策家常菜	qing ce jia chang cai	1
@@ -1953,7 +2399,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 朝气盒饭	zhao qi he fan	1
 一梦治愈	yi meng zhi yu	1
 巡林官精选	xun lin guan jing xuan	1
-憧憬	chong jing	1
 决斗之魂	jue dou zhi hun	1
 婆娑一舞	po suo yi wu	1
 安眠奢想	an mian she xiang	1
@@ -2009,9 +2454,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 牛奶	niu nai	1
 小麦	xiao mai	1
 面粉	mian fen	1
-星蕈	xing xun	1
-活化的星蕈	huo hua de xing xun	1
-枯焦的星蕈	ku jiao de xing xun	1
 墩墩桃	dun dun tao	1
 须弥蔷薇	xu mi qiang wei	1
 香辛果	xiang xin guo	1
@@ -2090,8 +2532,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 草之印	cao zhi yin	1
 水之印	shui zhi yin	1
 火之印	huo zhi yin	1
-璃月地灵龛之钥	li yue di ling kan zhi yao	1
-枫丹地灵龛之钥	feng dan di ling kan zhi yao	1
 「寻仙的美食家」	xun xian de mei shi jia	1
 放热瓶	fang re ping	1
 捕风瓶	bu feng ping	1
@@ -2108,7 +2548,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 异梦溶媒	yi meng rong mei	1
 浪船修理箱	lang chuan xiu li xiang	1
 狩猎陷阱	shou lie xian jing	1
-百无禁忌箓	bai wu jin ji lu	1
 「留念镜」	liu nian jing	1
 奇特的羽毛	qi te de yu mao	1
 赤羽团扇	chi yu tuan shan	1
@@ -2121,7 +2560,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 渊青宝珠	yuan qing bao zhu	1
 远眺之花	yuan tiao zhi hua	1
 高翔之羽	gao xiang zhi yu	1
-岁时之晷	sui shi zhi gui	1
 共饮之杯	gong yin zhi bei	1
 庇佑之冠	bi you zhi guan	1
 同泽之枪	tong ze zhi qiang	1
@@ -2172,17 +2610,12 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 电气水晶	dian qi shui jing	1
 紫晶块	zi jing kuai	1
 萃凝晶	cui ning jing	1
-花鳉	hua jiang	1
-琉璃花鳉	liu li hua jiang	1
-甜甜花鳉	tian tian hua jiang	1
-蓝染花鳉	lan ran hua jiang	1
 水晶宴	shui jing yan	1
 擒霞客	qin xia ke	1
 斗棘鱼	dou ji yu	1
 赤魔王	chi mo wang	1
 肺棘鱼	fei ji yu	1
 雪中君	xue zhong jun	1
-鸩棘鱼	zhen ji yu	1
 迪芙妲鳐	di fu da yao	1
 幽浮鳐	you fu yao	1
 佛玛洛鳐	fo ma luo yao	1
@@ -2193,7 +2626,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 流纹京紫蝶鱼	liu wen jing zi die yu	1
 流纹茶蝶鱼	liu wen cha die yu	1
 金赤假龙	jin chi jia long	1
-锖假龙	qiang jia long	1
 炮鲀	pao tun	1
 苦炮鲀	ku pao tun	1
 维护机关·初始能力型	wei hu ji guan chu shi neng li xing	1
@@ -2231,7 +2663,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 灵濛山夜话	ling meng shan ye hua	1
 珊瑚宫记	shan hu gong ji	1
 沉秋拾剑录	chen qiu shi jian lu	1
-鹮巷物语	huan xiang wu yu	1
 新六狐传	xin liu hu chuan	1
 转生成为雷电将军，然后天下无敌	zhuan sheng cheng wei lei dian jiang jun ran hou tian xia wu di	1
 拜托了我的狐仙宫司	bai tuo le wo de hu xian gong si	1
@@ -2263,7 +2694,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 绮筵之鼓	qi yan zhi gu	1
 森林书	sen lin shu	1
 老旧的诗琴	lao jiu de shi qin	1
-苦舍桓	ku she huan	1
 赤沙石板	chi sha shi ban	1
 晶蝶诱捕装置	jing die you bu zhuang zhi	1
 借动式鼓风装置	jie dong shi gu feng zhuang zhi	1
@@ -2279,21 +2709,15 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 悠可琴	you ke qin	1
 涤尘铃	di chen ling	1
 月浴渊之钥	yue yu yuan zhi yao	1
-苏生之辔	su sheng zhi pei	1
-神舆之辔	shen yu zhi pei	1
 忘川之水	wang chuan zhi shui	1
 龙骨花凝珠	long gu hua ning zhu	1
 老石	lao shi	1
-桓斯弥利底	huan si mi li di	1
-恒素果	heng su guo	1
-钵参花	bo can hua	1
 兰赫玛	lan he ma	1
 惟耶之实	wei ye zhi shi	1
 启封的羊皮卷	qi feng de yang pi juan	1
 遗落的能量块	yi luo de neng liang kuai	1
 棋子	qi zi	1
 激活器件	ji huo qi jian	1
-净光翎	jing guang ling	1
 俱利般地	ju li ban di	1
 俱利鼓	ju li gu	1
 忧昙花的花蕊	you tan hua de hua rui	1
@@ -2333,9 +2757,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 风之翼	feng zhi yi	1
 海风之梦	hai feng zhi meng	1
 闪耀协奏	shan yao xie zou	1
-霓裾翩跹	ni ju pian xian	1
 纱中幽兰	sha zhong you lan	1
-殷红终夜	yin hong zhong ye	1
 极夜真梦	ji ye zhen meng	1
 花时来信	hua shi lai xin	1
 叶隐芳名	ye yin fang ming	1
@@ -2346,8 +2768,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 冷花幽露	leng hua you lu	1
 莎邦之息	sha bang zhi xi	1
 倩影游侠	qian ying you xia	1
-宿雪桃紅	xiu xue tao hong	1
-歲夜歡譁	sui ye huan hua	1
 元素生命	yuan su sheng ming	1
 仙灵	xian ling	1
 仙灵之庭	xian ling zhi ting	1
@@ -2364,7 +2784,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 野林猪	ye lin zhu	1
 雪猪	xue zhu	1
 大雪猪王	da xue zhu wang	1
-蕈猪	xun zhu	1
 盗宝鼬	dao bao you	1
 新手盗宝鼬	xin shou dao bao you	1
 藏金盗宝鼬	cang jin dao bao you	1
@@ -2383,8 +2802,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 冥鱼	ming yu	1
 兰那罗	lan na luo	1
 暝彩鸟	ming cai niao	1
-驮兽	tuo shou	1
-牦牦驮兽	mao mao tuo shou	1
 骆骆驮兽	luo luo tuo shou	1
 长鬓虎	zhang bin hu	1
 棘冠鳄	ji guan e	1
@@ -2392,7 +2809,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 赤鹫	chi jiu	1
 飞蛇	fei she	1
 鳄鱼大王	e yu da wang	1
-长鬓虎罗阇	zhang bin hu luo du	1
 驮兽大王	tuo shou da wang	1
 镇灵	zhen ling	1
 风之厄灵	feng zhi e ling	1
@@ -2403,9 +2819,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 谷木的残灵	gu mu de can ling	1
 灵光游蜉	ling guang you fu	1
 甘露游蜉	gan lu you fu	1
-玳龟	dai gui	1
 纯水精灵	chun shui jing ling	1
-美露莘	mei lu shen	1
 卫兵犬	wei bing quan	1
 绅士犬	shen shi quan	1
 淑女犬	shu nv quan	1
@@ -2449,7 +2863,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 风起地	feng qi di	1
 鹰翔海滩	ying xiang hai tan	1
 达达乌帕谷	da da wu pa gu	1
-誓言岬	shi yan jia	1
 苍风高地	cang feng gao di	1
 清泉镇	qing quan zhen	1
 晨曦酒庄	chen xi jiu zhuang	1
@@ -2457,7 +2870,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 醉汉峡	zui han xia	1
 明冠山地	ming guan shan di	1
 明冠峡	ming guan xia	1
-风龙废墟	feng long fei xu	1
 龙脊雪山	long ji xue shan	1
 覆雪之路	fu xue zhi lu	1
 雪葬之都·旧宫	xue zang zhi dou jiu gong	1
@@ -2466,16 +2878,13 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 眠龙谷	mian long gu	1
 雪葬之都·近郊	xue zang zhi dou jin jiao	1
 荆夫港	jing fu gang	1
-烬寂海	jin ji hai	1
 泉之境	quan zhi jing	1
 马斯克礁	ma si ke jiao	1
 璃月	li yue	1
 璃月港	li yue gang	1
 绯云坡	fei yun po	1
-吃虎岩 / 螭虎岩	chi hu yan chi hu yan	1
 群玉阁	qun yu ge	1
 黑岩厂	hei yan chang	1
-珠钿舫	zhu dian fang	1
 黄金屋	huang jin wu	1
 璃沙郊	li sha jiao	1
 天衡山	tian heng shan	1
@@ -2487,19 +2896,14 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 明蕴镇	ming yun zhen	1
 瑶光滩	yao guang tan	1
 地中之盐	di zhong zhi yan	1
-珉林	min lin	1
-渌华池	lu hua chi	1
 天遒谷	tian qiu gu	1
-翠玦坡	cui jue po	1
 绝云间	jue yun jian	1
 南天门	nan tian men	1
 琥牢山	hu lao shan	1
 庆云顶	qing yun ding	1
 华光林	hua guang lin	1
-奥藏山	ao cang shan	1
 碧水原	bi shui yuan	1
 望舒客栈	wang shu ke zhan	1
-荻花洲	di hua zhou	1
 石门	shi men	1
 无妄坡	wu wang po	1
 轻策庄	qing ce zhuang	1
@@ -2539,7 +2943,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 稻妻人 / 稻妻的	dao qi ren dao qi de	1
 鸣神岛	ming shen dao	1
 稻妻城	dao qi cheng	1
-绀田村	gan tian cun	1
 白狐之野	bai hu zhi ye	1
 甘金岛	gan jin dao	1
 镇守之森	zhen shou zhi sen	1
@@ -2549,18 +2952,12 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 荒海	huang hai	1
 刃连岛	ren lian dao	1
 神无冢	shen wu zhong	1
-踏鞴砂	ta bei sha	1
 御影炉心	yu ying lu xin	1
 九条阵屋	jiu tiao zhen wu	1
-名椎滩	ming zhui tan	1
-八酝岛	ba yun dao	1
 无想刃狭间	wu xiang ren xia jian	1
-藤兜砦	teng dou zhai	1
-无明砦	wu ming zhai	1
 绯木村	fei mu cun	1
 蛇神之首	she shen zhi shou	1
 蛇骨矿洞	she gu kuang dong	1
-海祇岛	hai qi dao	1
 珊瑚宫	shan hu gong	1
 望泷村	wang long cun	1
 矇云神社	meng yun shen she	1
@@ -2573,17 +2970,14 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 蛇心之地	she xin zhi di	1
 龙蜥研究所	long xi yan jiu suo	1
 清籁岛	qing lai dao	1
-平海砦	ping hai zhai	1
 越石村	yue shi cun	1
 「清籁丸」	qing lai wan	1
 浅濑神社	qian lai shen she	1
-天云峠	tian yun qia	1
 鹤观	he guan	1
 知比山	zhi bi shan	1
 笈名海滨	ji ming hai bin	1
 千来神祠	qian lai shen ci	1
 逢岳之野	feng yue zhi ye	1
-菅名山	jian ming shan	1
 茂知祭场	mao zhi ji chang	1
 惑饲滩	huo si tan	1
 须弥	xu mi	1
@@ -2605,10 +2999,8 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 护世森	hu shi sen	1
 无郁稠林	wu yu chou lin	1
 卡萨扎莱宫	ka sa zha lai gong	1
-茸蕈窟	rong xun ku	1
 善见地	shan jian di	1
 禅那园	chan na yuan	1
-谒颂幽境	ye song you jing	1
 水天丛林	shui tian cong lin	1
 荼诃之座	tu he zhi zuo	1
 喀万驿	ka wan yi	1
@@ -2616,10 +3008,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 雨的尽头	yu de jin tou	1
 二净甸	er jing dian	1
 觉王之殿	jiao wang zhi dian	1
-桓那兰那	huan na lan na	1
-玛哈桓那兰那薜那	ma ha huan na lan na bi na	1
 失落的苗圃	shi luo de miao pu	1
-往昔的桓那兰那	wang xi de huan na lan na	1
 沙中故里	sha zhong gu li	1
 失梦的国土	shi meng de guo tu	1
 下风蚀地	xia feng shi di	1
@@ -2637,7 +3026,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 秘仪圣殿	mi yi sheng dian	1
 饱饮之丘	bao yin zhi qiu	1
 避让之丘	bi rang zhi qiu	1
-铄石之丘	shuo shi zhi qiu	1
 赤王陵	chi wang ling	1
 祝祭厅	zhu ji ting	1
 衡准大厅	heng zhun da ting	1
@@ -2651,9 +3039,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 神弃殿阁	shen qi dian ge	1
 「神的棋盘」	shen de qi pan	1
 亡者狭廊	wang zhe xia lang	1
-啁哳之沙	zhou zha zhi sha	1
 愚妄行宫	yu wang xing gong	1
-镔铁沙丘	bin tie sha qiu	1
 达马山	da ma shan	1
 折胫谷	zhe jing gu	1
 「三运河之地」	san yun he zhi di	1
@@ -2663,20 +3049,16 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 镇灵监牢	zhen ling jian lao	1
 生命之殿	sheng ming zhi dian	1
 君王之殿	jun wang zhi dian	1
-酣乐之殿	han le zhi dian	1
 「赤王的水晶杯」	chi wang de shui jing bei	1
 永恒绿洲	yong heng lv zhou	1
-苍漠囿土	cang mo you tu	1
 荒石苍漠	huang shi cang mo	1
 铁穆山	tie mu shan	1
 荼泥黑渊	tu ni hei yuan	1
 阻勒隘	zu le ai	1
 聚香海岸	ju xiang hai an	1
 逾渊地墟	yu yuan di xu	1
-浮罗囿	fu luo you	1
 甘露花海	gan lu hua hai	1
 锋刃林泽	feng ren lin ze	1
-跋松顶	ba song ding	1
 图莱杜拉	tu lai du la	1
 精石铜城	jing shi tong cheng	1
 遗忘之路	yi wang zhi lu	1
@@ -2809,8 +3191,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 审议之庭	shen yi zhi ting	1
 至冬	zhi dong	1
 至冬宫	zhi dong gong	1
-挪德卡莱	nuo de ka lai	1
-希汐岛	xi xi dao	1
 坎瑞亚	kan rui ya	1
 坎瑞亚人 / 坎瑞亚的	kan rui ya ren kan rui ya de	1
 七天神像	qi tian shen xiang	1
@@ -2867,7 +3247,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 奇馈宝箱	qi kui bao xiang	1
 浪船	lang chuan	1
 浪船锚点	lang chuan mao dian	1
-桓那兰那的梦之树	huan na lan na de meng zhi shu	1
 莎兰树	sha lan shu	1
 法留纳神机	fa liu na shen ji	1
 法留纳法宝	fa liu na fa bao	1
@@ -2883,8 +3262,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 觉树之堂	jiao shu zhi tang	1
 觉王之树	jiao wang zhi shu	1
 幽闭花	you bi hua	1
-桓摩达	huan mo da	1
-须罗蕈	xu luo xun	1
 阎迦由玛	yan jia you ma	1
 无郁夷摩	wu yu yi mo	1
 世界树	shi jie shu	1
@@ -2912,7 +3289,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 管道转向阀	guan dao zhuan xiang fa	1
 二相噬光元件	er xiang shi guang yuan jian	1
 二相恒光元件	er xiang heng guang yuan jian	1
-镇灵神龛	zhen ling shen kan	1
 镇灵之枝	zhen ling zhi zhi	1
 具现机关	ju xian ji guan	1
 灰余晶	hui yu jing	1
@@ -2921,14 +3297,11 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 苦离果	ku li guo	1
 灵谷木	ling gu mu	1
 蔓生灵心	man sheng ling xin	1
-明芸花	ming yun hua	1
 净觉花	jing jiao hua	1
 甘露封印	gan lu feng yin	1
 忧昙花	you tan hua	1
 浮光之路	fu guang zhi lu	1
 浮光球	fu guang qiu	1
-跋尔松	ba er song	1
-灵宝铎	ling bao duo	1
 光明火坛	guang ming huo tan	1
 灵光壁障	ling guang bi zhang	1
 遗迹重炮	yi ji zhong pao	1
@@ -3014,7 +3387,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 幕府	mu fu	1
 反抗军	fan kang jun	1
 荒泷派	huang long pai	1
-狛荷屋	bo he wu	1
 全能美食队	quan neng mei shi dui	1
 须弥教令院	xu mi jiao ling yuan	1
 教令院	jiao ling yuan	1
@@ -3053,11 +3425,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 壁炉之家	bi lu zhi jia	1
 龙遗物研究协会	long yi wu yan jiu xie hui	1
 「沃贡贡之血」	wo gong gong zhi xue	1
-愚人众	yu ren zhong	1
-伏尼契商会	fu ni qi shang hui	1
-执灯人	zhi deng ren	1
-狂猎	kuang lie	1
-霜月之子	shuang yue zhi zi	1
 赤月	chi yue	1
 黑日	hei ri	1
 魔神任务	mo shen ren wu	1
@@ -3097,7 +3464,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 镜与谜烟的彼方	jing yu mi yan de bi fang	1
 命定将焚的虹光	ming ding jiang fen de hong guang	1
 万火归一	wan huo gui yi	1
-炽烈的还魂诗	chi lie de hai hun shi	1
 间章	jian zhang	1
 世界任务	shi jie ren wu	1
 轻飘飘的花与芙萝拉	qing piao piao de hua yu fu luo la	1
@@ -3121,13 +3487,11 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 啊，新鲜的肉！	a xin xian de rou	1
 覆雪之国	fu xue zhi guo	1
 雪山迷踪	xue shan mi zong	1
-骰子、猫与卡牌的战场	tou zi mao yu ka pai de zhan chang	1
 来试试「七圣召唤」吧！	lai shi shi qi sheng zhao huan ba	1
 冒险家该干嘛	mao xian jia gai gan ma	1
 重岩之意	zhong yan zhi yi	1
 璃月港平静的一天	li yue gang ping jing de yi tian	1
 黑岩之困	hei yan zhi kun	1
-海上盛珠钿	hai shang sheng zhu dian	1
 孤舰履孤云	gu jian lv gu yun	1
 工作迫近	gong zuo po jin	1
 承仙所托	cheng xian suo tuo	1
@@ -3144,7 +3508,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 旧味难寻	jiu wei nan xun	1
 林中小书	lin zhong xiao shu	1
 怀宝应自珍	huai bao ying zi zhen	1
-古云有「螭」	gu yun you chi	1
 暂行之策	zan xing zhi ce	1
 大生意	da sheng yi	1
 夜叉之愿	ye cha zhi yuan	1
@@ -3152,9 +3515,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 灵矩有宝予何人	ling ju you bao yu he ren	1
 循仙踪兮天遒	xun xian zong xi tian qiu	1
 天遒宝迹	tian qiu bao ji	1
-恨繁囿兮作土	hen fan you xi zuo tu	1
 游戏一场	you xi yi chang	1
-渌华景画	lu hua jing hua	1
 海上拾玉	hai shang shi yu	1
 群玉阁…再现？	qun yu ge zai xian	1
 暂留此影	zan liu ci ying	1
@@ -3171,9 +3532,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 初识暗渊毒瘴现	chu shi an yuan du zhang xian	1
 踏破矿贼结新缘	ta po kuang zei jie xin yuan	1
 巨渊的馈赠	ju yuan de kui zeng	1
-神樱大祓	shen ying da fu	1
-影向祓行	ying xiang fu hang	1
-踏鞴物语	ta bei wu yu	1
 远吕羽氏遗事	yuan lv yu shi yi shi	1
 孤岛诊疗谭	gu dao zhen liao tan	1
 执望三千里	zhi wang san qian li	1
@@ -3202,9 +3560,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 孤高的美食家	gu gao de mei shi jia	1
 特别的御神签	te bie de yu shen qian	1
 映影书写札记	ying ying shu xie zha ji	1
-「海祇之牙」	hai qi zhi ya	1
-「海祇之尾」	hai qi zhi wei	1
-「海祇之心」	hai qi zhi xin	1
 海渊仙草灵验记	hai yuan xian cao ling yan ji	1
 孤独的海兽	gu du de hai shou	1
 门户清理	men hu qing li	1
@@ -3221,8 +3576,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 缝隙间的梦	feng xi jian de meng	1
 厄瑞玻斯的秘密	e rui bo si de mi mi	1
 三隅道大演武	san yu dao da yan wu	1
-八衢彦之试炼	ba qu yan zhi shi lian	1
-八衢姬之试炼	ba qu ji zhi shi lian	1
 岐之试炼	qi zhi shi lian	1
 许伯利翁哀歌	xu bo li weng ai ge	1
 庙前的叩问	miao qian de kou wen	1
@@ -3236,7 +3589,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 要求特别多的作家	yao qiu te bie duo de zuo jia	1
 倾听木簧笛的八音曲	qing ting mu huang di de ba yin qu	1
 雾海与树之祭	wu hai yu shu zhi ji	1
-日轮与菅名山	ri lun yu jian ming shan	1
 健忘大王历险记	jian wang da wang li xian ji	1
 食莲者	shi lian zhe	1
 法厄同们全跳舞	fa e tong men quan tiao wu	1
@@ -3256,7 +3608,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 失梦的苗圃	shi meng de miao pu	1
 正法矩书	zheng fa ju shu	1
 吉祥具书	ji xiang ju shu	1
-直到「桓那」痊愈	zhi dao huan na quan yu	1
 勇气戴于心上	yong qi dai yu xin shang	1
 兰纳迦的回忆	lan na jia de hui yi	1
 回忆终章	hui yi zhong zhang	1
@@ -3349,7 +3700,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 龙的归巢	long de gui chao	1
 向前冲！冲！冲！	xiang qian chong chong chong	1
 换羽时节	huan yu shi jie	1
-士的每一面	shi de mei yi mian	1
 来自英雄的认证！	lai zi ying xiong de ren zheng	1
 朝向炎崖之路	chao xiang yan ya zhi lu	1
 觐山之路	jin shan zhi lu	1
@@ -3380,7 +3730,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 映天之章	ying tian zhi zhang	1
 浪沫之章	lang mo zhi zhang	1
 白垩之章	bai e zhi zhang	1
-长杓之章	zhang shao zhi zhang	1
 锦织之章	jin zhi zhi zhang	1
 鲸天之章	jing tian zhi zhang	1
 古闻之章	gu wen zhi zhang	1
@@ -3401,7 +3750,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 郭狐之章	guo hu zhi zhang	1
 金狼之章	jin lang zhi zhang	1
 睡莲之章	shui lian zhi zhang	1
-天隼之章	tian sun zhi zhang	1
 蝎尾鬃狮之章	xie wei zong shi zhi zhang	1
 智慧主之章	zhi hui zhu zhi zhang	1
 黑斑猫之章	hei ban mao zhi zhang	1
@@ -3476,7 +3824,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 全能美食队·烹饪对决	quan neng mei shi dui peng ren dui jue	1
 全能美食队·厨道的极意	quan neng mei shi dui chu dao de ji yi	1
 神明啊，回应我吧！	shen ming a hui ying wo ba	1
-神龛啊，再次显灵吧！	shen kan a zai ci xian ling ba	1
 烟花试玩计划	yan hua shi wan ji hua	1
 万端珊瑚事件簿·搜索工作	wan duan shan hu shi jian bu sou suo gong zuo	1
 万端珊瑚事件簿·合适的身份	wan duan shan hu shi jian bu he shi de shen fen	1
@@ -3601,7 +3948,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 黄色染料	huang se ran liao	1
 红色染料	hong se ran liao	1
 布匹	bu pi	1
-杉木	shan mu	1
 垂香木	chui xiang mu	1
 竹节	zhu jie	1
 却砂木	que sha mu	1
@@ -3615,7 +3961,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 辉木	hui mu	1
 业果木	ye guo mu	1
 证悟木	zheng wu mu	1
-柽木	cheng mu	1
 刺葵木	ci kui mu	1
 悬铃木	xuan ling mu	1
 椴木	duan mu	1
@@ -3627,7 +3972,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 白栗栎木	bai li li mu	1
 灰灰楼林木	hui hui lou lin mu	1
 千籁至音·缪绕	qian lai zhi yin miu rao	1
-千籁至音·飖扬	qian lai zhi yin yao yang	1
 地域特产	di yu te chan	1
 嘟嘟莲	du du lian	1
 塞西莉亚花	sai xi li ya hua	1
@@ -3639,22 +3983,18 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 钩钩果	gou gou guo	1
 琉璃百合	liu li bai he	1
 清心	qing xin	1
-霓裳花	ni chang hua	1
 琉璃袋	liu li dai	1
 绝云椒椒	jue yun jiao jiao	1
-石珀	shi po	1
 夜泊石	ye bo shi	1
 星螺	xing luo	1
 海灵芝	hai ling zhi	1
 绯樱绣球	fei ying xiu qiu	1
 鸣草	ming cao	1
-血斛	xue hu	1
 赤蕊	chi rui	1
 鬼兜虫	gui dou chong	1
 晶化骨髓	jing hua gu sui	1
 天云草实	tian yun cao shi	1
 珊瑚真珠	shan hu zhen zhu	1
-幽灯蕈	you deng xun	1
 劫波莲	jie bo lian	1
 月莲	yue lian	1
 树王圣体菇	shu wang sheng ti gu	1
@@ -3756,11 +4096,9 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 陀裟多	tuo sha duo	1
 赫曼努比斯	he man nu bi si	1
 迪弗	di fu	1
-那菈	na la	1
 无忧节	wu you jie	1
 大铁块	da tie kuai	1
 无留陀	wu liu tuo	1
-桓那	huan na	1
 巴螺迦	ba luo jia	1
 兰迦拉梨	lan jia la li	1
 雨林	yu lin	1
@@ -3891,9 +4229,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 装备牌	zhuang bei pai	1
 支援牌	zhi yuan pai	1
 事件牌	shi jian pai	1
-元素骰	yuan su tou	1
-投掷（元素骰）	tou zhi yuan su tou	1
-重投（元素骰）	zhong tou yuan su tou	1
 幸运牌币	xing yun pai bi	1
 影幻牌面	ying huan pai mian	1
 热斗模式	re dou mo shi	1
@@ -3959,9 +4294,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 「天光」的教导	tian guang de jiao dao	1
 「天光」的指引	tian guang de zhi yin	1
 「天光」的哲学	tian guang de zhe xue	1
-「诤言」的教导	zheng yan de jiao dao	1
-「诤言」的指引	zheng yan de zhi yin	1
-「诤言」的哲学	zheng yan de zhe xue	1
 「巧思」的教导	qiao si de jiao dao	1
 「巧思」的指引	qiao si de zhi yin	1
 「巧思」的哲学	qiao si de zhe xue	1
@@ -3992,12 +4324,10 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 桔桔薄饼	ju ju bao bing	1
 高塔孤王的碎梦	gao ta gu wang de sui meng	1
 高塔孤王的断片	gao ta gu wang de duan pian	1
-高塔孤王的残垣	gao ta gu wang de can yuan	1
 高塔孤王的破瓦	gao ta gu wang de po wa	1
 凛风奔狼的怀乡	lin feng ben lang de huai xiang	1
 凛风奔狼的断牙	lin feng ben lang de duan ya	1
 凛风奔狼的裂齿	lin feng ben lang de lie chi	1
-凛风奔狼的始龀	lin feng ben lang de shi chen	1
 狮牙斗士的理想	shi ya dou shi de li xiang	1
 狮牙斗士的镣铐	shi ya dou shi de liao kao	1
 狮牙斗士的铁链	shi ya dou shi de tie lian	1
@@ -4047,7 +4377,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 无垢之海的酒盏	wu gou zhi hai de jiu zhan	1
 无垢之海的苦盏	wu gou zhi hai de ku zhan	1
 纯圣露滴的真粹	chun sheng lu di de zhen cui	1
-纯圣露滴的醴泉	chun sheng lu di de li quan	1
 纯圣露滴的凝华	chun sheng lu di de ning hua	1
 纯圣露滴的滤渣	chun sheng lu di de lv zha	1
 贡祭炽心的惶恐	gong ji chi xin de huang kong	1
@@ -4097,14 +4426,12 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 狼牙	lang ya	1
 灰河渡手	hui he du shou	1
 马腾斯万能护养剂	ma teng si wan neng hu yang ji	1
-船坞长剑	chuan wu chang jian	1
 水仙十字之剑	shui xian shi zi zhi jian	1
 息燧之笛	xi sui zhi di	1
 弥坚骨	mi jian gu	1
 厄水之祸	e shui zhi huo	1
 风鹰剑	feng ying jian	1
 天空之刃	tian kong zhi ren	1
-斫锋之刃	zhuo feng zhi ren	1
 磐岩结绿	pan yan jie lv	1
 苍古自由之誓	cang gu zi you zhi shi	1
 雾切之回光	wu qie zhi hui guang	1
@@ -4138,7 +4465,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 海皇香脂	hai huang xiang zhi	1
 恶王丸	e wang wan	1
 森林王器	sen lin wang qi	1
-玛海菈的水色	ma hai la de shui se	1
 饰铁之花	shi tie zhi hua	1
 不凋的绢华	bu diao de juan hua	1
 浪影阔剑	lang ying kuo jian	1
@@ -4158,7 +4484,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 新手长枪	xin shou chang qiang	1
 铁尖枪	tie jian qiang	1
 白缨枪	bai ying qiang	1
-钺矛	yue mao	1
 黑缨枪	hei ying qiang	1
 匣里灭辰	xia li mie chen	1
 试作星镰	shi zuo xing lian	1
@@ -4171,7 +4496,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 千岩长枪	qian yan chang qiang	1
 喜多院十文字	xi duo yuan shi wen zi	1
 「渔获」	yu huo	1
-赤穗酒枡	chi sui jiu sheng	1
 断浪长鳍	duan lang zhang qi	1
 贯月矢	guan yue shi	1
 风信之锋	feng xin zhi feng	1
@@ -4184,9 +4508,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 且住亭御咄	qie zhu ting yu duo	1
 和璞鸢	he pu yuan	1
 天空之脊	tian kong zhi ji	1
-贯虹之槊	guan hong zhi shuo	1
 护摩之杖	hu mo zhi zhang	1
-薙草之稻光	zhi cao zhi dao guang	1
 息灾	xi zai	1
 赤沙之杖	chi sha zhi zhang	1
 赤月之形	chi yue zhi xing	1
@@ -4202,8 +4524,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 绝弦	jue xian	1
 祭礼弓	ji li gong	1
 宗室长弓	zong shi zhang gong	1
-弓藏	gong cang	1
-试作澹月	shi zuo dan yue	1
 钢轮弓	gang lun gong	1
 黑岩战弓	hei yan zhan gong	1
 苍翠猎弓	cang cui lie gong	1
@@ -4215,7 +4535,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 霞色宝珠	xia se bao zhu	1
 竭泽	jie ze	1
 王下近侍	wang xia jin shi	1
-鹮穿之喙	huan chuan zhi hui	1
 凝恒的脂蜡	ning heng de zhi la	1
 静谧之曲	jing mi zhi qu	1
 烈阳之嗣	lie yang zhi si	1
@@ -4225,7 +4544,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 缀花之翎	zhui hua zhi ling	1
 天空之翼	tian kong zhi yi	1
 阿莫斯之弓	a mo si zhi gong	1
-终末嗟叹之诗	zhong mo jie tan zhi shi	1
 飞雷之弦振	fei lei zhi xian zhen	1
 冬极白星	dong ji bai xing	1
 若水	ruo shui	1
@@ -4239,13 +4557,11 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 讨龙英杰谭	tao long ying jie tan	1
 异世界行记	yi shi jie hang ji	1
 翡玉法珠	fei yu fa zhu	1
-甲级宝珏	jia ji bao jue	1
 西风秘典	xi feng mi dian	1
 流浪乐章	liu lang le zhang	1
 祭礼残章	ji li can zhang	1
 宗室秘法录	zong shi mi fa lu	1
 匣里日月	xia li ri yue	1
-试作金珀	shi zuo jin po	1
 万国诸海图谱	wan guo zhu hai tu pu	1
 黑岩绯玉	hei yan fei yu	1
 昭心	zhao xin	1
@@ -4270,7 +4586,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 神乐之真意	shen le zhi zhen yi	1
 千夜浮梦	qian ye fu meng	1
 图莱杜拉的回忆	tu lai du la de hui yi	1
-碧落之珑	bi luo zhi long	1
 万世流涌大典	wan shi liu yong da dian	1
 金流监督	jin liu jian du	1
 鹤鸣余音	he ming yu yin	1
@@ -4314,7 +4629,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 尼娅	ni ya	1
 安杜	an du	1
 伊马雷	yi ma lei	1
-纳博爾	na bo er	1
 剪影辑帧	jian ying ji zhen	1
 异域鱼鱼追渔行动	yi yu yu yu zhui yu xing dong	1
 疑似宝石独角鱼	yi shi bao shi du jiao yu	1
@@ -4335,7 +4649,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 银阁	yin ge	1
 铁之助	tie zhi zhu	1
 「噩梦碎片」	e meng sui pian	1
-漱玉工奇鬥蟲大玄境	shu yu gong qi dou chong da xuan jing	1
 衔勇诚砺之证	xian yong cheng li zhi zheng	1
 凶魁巨怪觇候录	xiong kui ju guai chan hou lu	1
 春曦画桃符	chun xi hua tao fu	1
@@ -4358,7 +4671,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 破碎旧录之规复	po sui jiu lu zhi gui fu	1
 冒险家试炼·蜕变篇	mao xian jia shi lian tui bian pian	1
 强风猛进之述演	qiang feng meng jin zhi shu yan	1
-勒拉	le la	1
 谷中	gu zhong	1
 寻溯蜜虫之宝	xun su mi chong zhi bao	1
 蜜虫之宝	mi chong zhi bao	1
@@ -4375,7 +4687,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 探寻灵感	tan xun ling gan	1
 嘟嘟可砰砰历险记	du du ke peng peng li xian ji	1
 「炫彩呆子」的涂鸦手记	xuan cai dai zi de tu ya shou ji	1
-「「凝静的海色」	ning jing de hai se	1
 荆棘与勋冠	jing ji yu xun guan	1
 提瓦特忆画	ti wa te yi hua	1
 善良促销	shan liang cu xiao	1
@@ -4411,7 +4722,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 波波拉诺	bo bo la nuo	1
 埃斯诺尔	ai si nuo er	1
 罗泽尔	luo ze er	1
-小杜林	xiao du lin	1
 「邪龙」绘卷	xie long hui juan	1
 纺坠终久之梦	fang zhui zhong jiu zhi meng	1
 安固诸方之述演	an gu zhu fang zhi shu yan	1
@@ -4442,6 +4752,9 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 幻光奇技实录	huan guang qi ji shi lu	1
 极限驱策法	ji xian qu ce fa	1
 巧像入帧	qiao xiang ru zhen	1
+巴蒂斯特	ba di si te	1
+薇若妮卡	wei ruo ni ka	1
+莫里斯	mo li si	1
 图形对抗实验录	tu xing dui kang shi yan lu	1
 特尔克西的奇幻历险	te er ke xi de qi huan li xian	1
 小小灵蕈大幻戏	xiao xiao ling xun da huan xi	1
@@ -4478,7 +4791,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 佐西摩斯	zuo xi mo si	1
 小水珠	xiao shui zhu	1
 水形幻灵	shui xing huan ling	1
-核心轮縠	he xin lun hu	1
 呼呼飞车	hu hu fei che	1
 欢呼激流	huan hu ji liu	1
 先成图	xian cheng tu	1
@@ -4503,7 +4815,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 铸境研炼·无量疾战	zhu jing yan lian wu liang ji zhan	1
 决斗！召唤之巅！	jue dou zhao huan zhi dian	1
 召唤王大奖赛	zhao huan wang da jiang sai	1
-伽吠毗陀	ga fei pi tuo	1
 古拉卜	gu la bo	1
 诸景巡礼	zhu jing xun li	1
 零时召唤	ling shi zhao huan	1
@@ -4525,7 +4836,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 忆昔诸途巡历	yi xi zhu tu xun li	1
 风沙轰鸣	feng sha hong ming	1
 对沙虫用杀虫炮	dui sha chong yong sha chong pao	1
-施芮娅	shi rui ya	1
 维纳亚克	wei na ya ke	1
 合剂演进	he ji yan jin	1
 风花的呼吸	feng hua de hu xi	1
@@ -4533,8 +4843,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 逐花棋	zhu hua qi	1
 风物之歌	feng wu zhi ge	1
 风物留影	feng wu liu ying	1
-灵蕈棋阵	ling xun qi zhen	1
-小小灵蕈	xiao xiao ling xun	1
 妙妙琼脂	miao miao qiong zhi	1
 振晶的复核实验	zhen jing de fu he shi yan	1
 阿纳托尔	a na tuo er	1
@@ -4544,8 +4852,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 虹色巡回	hong se xun hui	1
 海灯音乐节	hai deng yin yue jie	1
 德沃沙克	de wo sha ke	1
-萌蘖的竹笋	meng nie de zhu sun	1
-磬弦奏华夜	qing xian zou hua ye	1
 光焰蹈跃	guang yan dao yue	1
 幕前二三言	mu qian er san yan	1
 纸映成戏	zhi ying cheng xi	1
@@ -4565,7 +4871,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 独眼小僧	du yan xiao seng	1
 河童	he tong	1
 狐妖	hu yao	1
-智巧灵蕈大竞逐	zhi qiao ling xun da jing zhu	1
 「月莲杯」驯兽师大赛	yue lian bei xun shou shi da sai	1
 意智宝珠	yi zhi bao zhu	1
 埃尔欣根	ai er xin gen	1
@@ -4628,7 +4933,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 振晶的研究	zhen jing de yan jiu	1
 帕特里克	pa te li ke	1
 画外旅照	hua wai lv zhao	1
-三界路飨祭	san jie lu xiang ji	1
 睦疏之匣	mu shu zhi xia	1
 常世之荚	chang shi zhi jia	1
 深海髓矿	shen hai sui kuang	1
@@ -4694,9 +4998,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 风物之诗琴	feng wu zhi shi qin	1
 霄灯	xiao deng	1
 磐陀裂生之花	pan tuo lie sheng zhi hua	1
-嵯峨群峰之翼	cuo e qun feng zhi yi	1
-星罗圭璧之晷	xing luo gui bi zhi gui	1
-巉岩琢塑之樽	chan yan zhuo su zhi zun	1
 不动玄石之相	bu dong xuan shi zhi xiang	1
 战狂的蔷薇	zhan kuang de qiang wei	1
 战狂的翎羽	zhan kuang de ling yu	1
@@ -4745,7 +5046,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 教官的胸花	jiao guan de xiong hua	1
 教官的帽子	jiao guan de mao zi	1
 教官的茶杯	jiao guan de cha bei	1
-渡火者的决绝	du huo zhe de jue jue	1
 渡火者的解脱	du huo zhe de jie tuo	1
 渡火者的煎熬	du huo zhe de jian ao	1
 渡火者的醒悟	du huo zhe de xing wu	1
@@ -4782,9 +5082,7 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 无常之面	wu chang zhi mian	1
 勋绩之花	xun ji zhi hua	1
 昭武翎羽	zhao wu ling yu	1
-金铜时晷	jin tong shi gui	1
 盟誓金爵	meng shi jin jue	1
-将帅兜鍪	jiang shuai dou mou	1
 雷鸟的怜悯	lei niao de lian min	1
 雷灾的孑遗	lei zai de jie yi	1
 雷霆的时计	lei ting de shi ji	1
@@ -4830,7 +5128,6 @@ I·伊万诺夫娜·N	_I yi wan nuo fu na _N	1
 稽古·御馆绘卷	ji gu yu guan hui juan	1
 稽古·恶王亭	ji gu e wang ting	1
 稽古·御前府邸	ji gu yu qian fu di	1
-稽古·砺伏之巢床	ji gu li fu zhi chao chuang	1
 骸馆	hai guan	1
 红莲的真剑试合	hong lian de zhen jian shi he	1
 追忆：永恒的守护者	zhui yi yong heng de shou hu zhe	1
