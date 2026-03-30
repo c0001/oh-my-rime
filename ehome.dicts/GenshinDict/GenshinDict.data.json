@@ -1,5 +1,4911 @@
 [
   {
+    "en": "Sightseeing With Friends",
+    "ja": "チエキノコンの旅日記",
+    "zhCN": "灵蕈旅记",
+    "zhTW": "靈蕈旅記",
+    "pronunciationJa": "チエキノコンのたびにっき",
+    "notesEn": "Limited Time Event in v6.4(LunaV)",
+    "notes": "v6.4(LunaV) 期間限定イベント",
+    "notesZh": "v6.4(LunaV) 中的限时活动",
+    "tags": [
+      "event"
+    ],
+    "id": "sightseeing-with-friends",
+    "createdAt": "2026-03-29",
+    "updatedAt": "2026-03-29"
+  },
+  {
+    "en": "Operation Stronghold Defense",
+    "ja": "拠点防衛線",
+    "zhCN": "据点防卫总动员",
+    "zhTW": "據點防衛總動員",
+    "pronunciationJa": "きょてんぼうえいせん",
+    "notesEn": "Limited Time Event in v6.4(LunaV)",
+    "notes": "v6.4(LunaV) 期間限定イベント",
+    "notesZh": "v6.4(LunaV) 中的限时活动",
+    "tags": [
+      "event",
+      "nodkrai"
+    ],
+    "id": "operation-stronghold-defense",
+    "createdAt": "2026-03-29",
+    "updatedAt": "2026-03-29"
+  },
+  {
+    "en": "Marine",
+    "ja": "マリン",
+    "zhCN": "玛因",
+    "zhTW": "瑪因",
+    "notes": "v5.7 期間限定イベント「ハチャメチャ・カラフルバズーカ」やv6.4(LunaV) 期間限定イベント「チエキノコンの旅日記」などに登場するメリュジーヌ",
+    "tags": [
+      "event",
+      "character-sub",
+      "fontaine"
+    ],
+    "id": "marine",
+    "createdAt": "2026-03-29",
+    "updatedAt": "2026-03-29"
+  },
+  {
+    "en": "Blue Bolt",
+    "ja": "青霆",
+    "zhCN": "青霆",
+    "zhTW": "青霆",
+    "notes": "v6.4(LunaV) 期間限定イベント「拠点防衛線」に登場する人物",
+    "tags": [
+      "event",
+      "character-sub",
+      "natlan"
+    ],
+    "id": "blue-bolt",
+    "createdAt": "2026-03-29",
+    "updatedAt": "2026-03-29"
+  },
+  {
+    "en": "Sproutie",
+    "ja": "あかたましっぽ",
+    "zhCN": "洋葱尾巴",
+    "zhTW": "洋蔥尾巴",
+    "notes": "v6.4(LunaV) 期間限定イベント「拠点防衛線」に登場する青雷イタチ",
+    "tags": [
+      "event",
+      "character-sub"
+    ],
+    "id": "sproutie",
+    "createdAt": "2026-03-29",
+    "updatedAt": "2026-03-29"
+  },
+  {
+    "en": "Jacques",
+    "ja": "ジャック(フォンテーヌ)",
+    "zhCN": "杰克(枫丹)",
+    "zhTW": "傑克(楓丹)",
+    "tags": [
+      "fontaine",
+      "character-sub"
+    ],
+    "notes": "魔神任務第4章第2幕に登場するキャラクター。原題には (フォンテーヌ) はついていません。システム制約によりキーを重複させないための処置です。",
+    "notesZh": "魔神任务 第四章·第二幕「仿若无因飘落的轻雨」中的登场角色。原标题不包括（枫丹）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    "notesZhTW": "魔神任務 第四章·第二幕「仿若無因飄落的輕雨」中的登場角色。原标题不包括（楓丹）。這是為了防止由於系統限制而出現重複密鑰的措施。",
+    "id": "jacques",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2023-09-15"
+  },
+  {
+    "en": "Diona Kätzlein",
+    "ja": "ディオナ・カッツェレイン",
+    "zhCN": "迪奥娜·凯茨莱茵",
+    "zhTW": "迪奧娜·凱茨萊茵",
+    "notes": "英語版における読みは「ダイオナ」。「キャッツテール」バーテンダー",
+    "tags": [
+      "mondstadt",
+      "character-main"
+    ],
+    "id": "diona-katzlein",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2023-04-09"
+  },
+  {
+    "en": "Cyrus(Mondstadt)",
+    "ja": "サイリュス",
+    "zhCN": "塞琉斯",
+    "zhTW": "塞琉斯",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notesEn": "The original title does not have (Mondstadt). Added due to constraints of key generation.",
+    "notes": "モンド城下にいる人物。モンドの冒険者協会の支部長。英語の原題には (Mondstadt) はついていません。システム制約によりキーを重複させないための処置です。",
+    "notesZh": "蒙德冒险家协会的分会长。原英文标题不包括（Mondstadt）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    "notesZhTW": "蒙德冒險家協會的分會長。原英文標題不包括（Mondstadt）。這是為了防止由於系統限制而出現重複密鑰的措施。",
+    "id": "cyrusmondstadt",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Margaret",
+    "ja": "マーガレット",
+    "zhCN": "玛格丽特",
+    "zhTW": "瑪格麗特",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城にいる人物。キャッツテールの店主",
+    "notesEn": "Boss at Cat's Tail.",
+    "notesZh": "猫尾酒馆的店主。",
+    "notesZhTW": "貓尾酒館的店主。",
+    "id": "margaret",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2023-04-09"
+  },
+  {
+    "en": "Ellin",
+    "ja": "エリン",
+    "zhCN": "艾琳",
+    "zhTW": "艾琳",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城にいる人物。ヘルマンの娘",
+    "id": "ellin",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Timmie",
+    "ja": "ティミー",
+    "zhCN": "提米",
+    "zhTW": "提米",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城に架かる橋にいる人物",
+    "id": "timmie",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Ella Musk",
+    "ja": "エラ・マスク",
+    "zhCN": "艾拉·马斯克",
+    "zhTW": "艾拉·馬斯克",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城にいる人物。イーディス博士の姉",
+    "id": "ella-musk",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Dr. Livingstone",
+    "ja": "リヴィングストン博士",
+    "zhCN": "利文斯通博士",
+    "zhTW": "利文斯通博士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "ダダウパの谷にいる人物",
+    "id": "dr-livingstone",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Dr. Edith",
+    "ja": "イーディス博士",
+    "zhCN": "艾迪丝博士",
+    "zhTW": "艾迪絲博士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "風立ちの地にいる人物。エラ・マスクの妹",
+    "id": "dr-edith",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Huffman Schmidt",
+    "ja": "ホフマン・シュミット",
+    "zhCN": "霍夫曼·施密特",
+    "zhTW": "霍夫曼·施密特",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城にいる西風騎士。ミカの兄",
+    "notesZh": "米卡的哥哥。",
+    "notesZhTW": "米卡的哥哥。",
+    "variants": {
+      "en": [
+        "Huffman",
+        "Schmidt"
+      ],
+      "ja": [
+        "ホフマン",
+        "シュミット"
+      ]
+    },
+    "id": "huffman-schmidt",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2023-03-25"
+  },
+  {
+    "en": "Reckless Pallad",
+    "ja": "うっかりパラド",
+    "zhCN": "冒失的帕拉德",
+    "zhTW": "冒失的帕拉德",
+    "notes": "ランダムクエスト「パラドの苦境」などに登場する人物。モンド城郊外にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "reckless-pallad",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Wagner",
+    "ja": "ワーグナー",
+    "zhCN": "瓦格纳",
+    "zhTW": "瓦格納",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城にいる人物。鍛冶屋の店主",
+    "id": "wagner",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Schulz",
+    "ja": "シュッツ",
+    "zhCN": "舒茨",
+    "zhTW": "舒茨",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城にいる人物。鍛冶屋の弟子",
+    "id": "schulz",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Glory",
+    "ja": "グローリー",
+    "zhCN": "葛罗丽",
+    "zhTW": "葛羅麗",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城にいる人物",
+    "id": "glory",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Godwin",
+    "ja": "グッドウィン",
+    "zhCN": "古德温",
+    "zhTW": "古德溫",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城郊外にいる、ファルカの遠征に置いていかれた西風騎士",
+    "id": "godwin",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-11-27"
+  },
+  {
+    "en": "Nantuck",
+    "ja": "ナンタック",
+    "zhCN": "楠塔克",
+    "zhTW": "楠塔克",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城下シードル湖沿いにいる人物。モンドの漁師",
+    "notesEn": "Mondstadt Angler.",
+    "notesZh": "蒙德的渔夫。",
+    "notesZhTW": "蒙德的漁夫。",
+    "id": "nantuck",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Marjorie",
+    "ja": "マージョリー",
+    "zhCN": "玛乔丽",
+    "zhTW": "瑪喬麗",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "モンド城にいる人物。「栄光の風」の店主",
+    "notesZh": "「荣光之风」的店主。",
+    "notesZhTW": "「榮光之風」的店主。",
+    "id": "marjorie",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2023-04-03"
+  },
+  {
+    "en": "Sansa",
+    "ja": "サンサ",
+    "zhCN": "莎莎",
+    "zhTW": "莎莎",
+    "notes": "世界任務「自由の風に向かって」に登場する人物。モンド城にいる",
+    "notesZh": "世界任务「致自由之风」中的登场角色。",
+    "notesZhTW": "世界任務「致自由之風」中的登場角色。",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "sansa",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2025-01-16"
+  },
+  {
+    "en": "Harry",
+    "ja": "ハリー",
+    "zhCN": "哈里",
+    "zhTW": "哈利",
+    "notes": "望風海角にいる西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "harry",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Vind",
+    "ja": "フィンド",
+    "zhCN": "芬德",
+    "zhTW": "芬德",
+    "notes": "デイリー任務「まだ見ぬ新たな嵐」などに登場する人物。望風海角にいる西風教会のシスター",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "vind",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Lorgar",
+    "ja": "ローガー",
+    "zhCN": "洛伽",
+    "zhTW": "洛伽",
+    "notes": "星落としの湖にいる冒険者",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "lorgar",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Marla",
+    "ja": "マーラ",
+    "zhCN": "玛拉",
+    "zhTW": "瑪拉",
+    "notes": "清泉町もしくは星拾いの崖にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "marla",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Marvin",
+    "ja": "マーヴィン",
+    "zhCN": "玛文",
+    "zhTW": "瑪文",
+    "notes": "モンド城もしくは星拾いの崖にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "marvin",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Sharp",
+    "ja": "鋒",
+    "zhCN": "锋",
+    "zhTW": "鋒",
+    "notes": "モンド城もしくは星拾いの崖にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "sharp",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Doolan",
+    "ja": "ドゥーラン",
+    "zhCN": "杜兰",
+    "zhTW": "杜蘭",
+    "notes": "千風の神殿にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "doolan",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Patchi the Curious",
+    "ja": "好奇心旺盛なパチ",
+    "zhCN": "好奇的帕琪",
+    "zhTW": "好奇的帕琪",
+    "notes": "千風の神殿にいる人物。学者",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "patchi-the-curious",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Chloris",
+    "ja": "クロリス",
+    "zhCN": "克罗丽丝",
+    "zhTW": "克羅麗絲",
+    "notes": "千風の神殿にいる人物。植物学者",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "chloris",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Lynn",
+    "ja": "リン",
+    "zhCN": "琳",
+    "zhTW": "琳",
+    "notes": "ランダムクエスト「リンの悩み」に登場する人物。普段はモンド城郊外にいる。冒険者",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "lynn",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Ematol",
+    "ja": "エマート",
+    "zhCN": "艾玛托",
+    "zhTW": "艾瑪托",
+    "notes": "ファニーヤと共にいくつかのイベントに登場する西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub",
+      "event"
+    ],
+    "id": "ematol",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Phonia",
+    "ja": "ファニーヤ",
+    "zhCN": "方妮雅",
+    "zhTW": "方妮雅",
+    "notes": "エマートと共にいくつかのイベントに登場する、爆弾好きな西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub",
+      "event"
+    ],
+    "id": "phonia",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Sage(Mondstadt)",
+    "ja": "セージ",
+    "zhCN": "萨基",
+    "zhTW": "薩基",
+    "notesEn": "The original title does not have (Mondstadt). Added due to constraints of key generation.",
+    "notes": "モンド城下にいる人物。英語の原題には (Mondstadt) はついていません。システム制約によりキーを重複させないための処置です。",
+    "notesZh": "原英文标题不包括（Mondstadt）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "sagemondstadt",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Rosemary",
+    "ja": "ローズマリー",
+    "zhCN": "罗斯玛丽",
+    "zhTW": "蘿絲瑪麗",
+    "notes": "モンド城下にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "rosemary",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Parsley",
+    "ja": "パスリー",
+    "zhCN": "帕斯里",
+    "zhTW": "帕斯里",
+    "notes": "モンド城下にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "parsley",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Swan",
+    "ja": "スワン",
+    "zhCN": "斯万",
+    "zhTW": "斯萬",
+    "notes": "モンド城にいる西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "swan",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Lawrence",
+    "ja": "ロレンス",
+    "zhCN": "劳伦斯",
+    "zhTW": "勞倫斯",
+    "notes": "モンド城にいる西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "lawrence",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Ulfr",
+    "ja": "ウルファ",
+    "zhCN": "乌尔法",
+    "zhTW": "烏爾法",
+    "notes": "モンド城下シードル湖沿いにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "ulfr",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Mtwa",
+    "ja": "ムトヴァ",
+    "zhCN": "穆托瓦",
+    "zhTW": "穆托瓦",
+    "notes": "ナタ魔神任務の後、モンド城外シードル湖沿いに現れる人物。ナタ「龍の遺物研究会」メンバー",
+    "tags": [
+      "mondstadt",
+      "natlan",
+      "character-sub"
+    ],
+    "id": "mtwa",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Jones",
+    "ja": "ジョーンズ",
+    "zhCN": "琼斯",
+    "zhTW": "琼斯",
+    "notes": "モンド城下シードル湖沿いにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "jones",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Arthur",
+    "ja": "アーサー",
+    "zhCN": "阿瑟尔",
+    "zhTW": "亞瑟",
+    "notes": "モンド城下シードル湖沿いにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "arthur",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Guy",
+    "ja": "ゲイル",
+    "zhCN": "盖伊",
+    "zhTW": "蓋伊",
+    "notes": "モンド城にいる西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "guy",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Flora",
+    "ja": "フローラ",
+    "zhCN": "芙萝拉",
+    "zhTW": "芙蘿拉",
+    "notes": "モンド城にいる人物。「花言葉」の店主",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "flora",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Donna",
+    "ja": "ドンナ",
+    "zhCN": "唐娜",
+    "zhTW": "唐娜",
+    "notes": "モンド城にいる人物。「花言葉」のアルバイト",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "donna",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Prince",
+    "ja": "「リトルプリンス」",
+    "zhCN": "「小王子」",
+    "zhTW": "「小王子」",
+    "notes": "キャッツテールにいる「看板猫」",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "prince",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Shuyun",
+    "ja": "ジョイン",
+    "zhCN": "恕筠",
+    "zhTW": "恕筠",
+    "notes": "キャッツテールの店員",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "shuyun",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Makri",
+    "ja": "マクリ",
+    "zhCN": "马克利",
+    "zhTW": "馬克利",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "makri",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Nanaya Yuumi",
+    "ja": "七夜由美",
+    "pronunciationJa": "ななやゆうみ",
+    "zhCN": "七夜由美",
+    "zhTW": "七夜由美",
+    "notes": "キャッツテールにいる七聖召喚プレイヤー",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "nanaya-yuumi",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Gary",
+    "ja": "伽禄",
+    "zhCN": "伽禄",
+    "zhTW": "伽祿",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "gary",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Atra",
+    "ja": "アトラ",
+    "zhCN": "阿特拉",
+    "zhTW": "阿特拉",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "atra",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Belén",
+    "ja": "ベーレン",
+    "zhCN": "贝莲",
+    "zhTW": "貝蓮",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "belen",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Sara",
+    "ja": "サラ",
+    "zhCN": "莎拉",
+    "zhTW": "莎拉",
+    "notes": "モンド城にいる人物。「鹿狩り」のスタッフ",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "sara",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Eury",
+    "ja": "ユーリ",
+    "zhCN": "优律",
+    "zhTW": "優律",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "eury",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Norma",
+    "ja": "ノルマ",
+    "zhCN": "诺玛",
+    "zhTW": "諾瑪",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "norma",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Blanche(Mondstadt)",
+    "ja": "ブランシュ",
+    "zhCN": "布兰琪",
+    "zhTW": "布蘭琪",
+    "notesEn": "The original title does not have (Mondstadt). Added due to constraints of key generation.",
+    "notes": "モンド城にいる人物。「モンドショップ」の店員。英語の原題には (Mondstadt) はついていません。システム制約によりキーを重複させないための処置です。",
+    "notesZh": "原英文标题不包括（Mondstadt）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "blanchemondstadt",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Alfry",
+    "ja": "エルフィ",
+    "zhCN": "艾尔菲",
+    "zhTW": "艾爾菲",
+    "notes": "モンド城にいる人物。冒険者",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "alfry",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Mikhail",
+    "ja": "ミハイル",
+    "zhCN": "米哈伊尔",
+    "zhTW": "米哈伊爾",
+    "notes": "モンド城にいる、噂話好きのファデュイ",
+    "tags": [
+      "mondstadt",
+      "fatui",
+      "character-sub"
+    ],
+    "id": "mikhail",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Lyudmila",
+    "ja": "リュドミラ",
+    "zhCN": "柳德米拉",
+    "zhTW": "柳德米拉",
+    "notes": "モンド城にいる、噂話好きのファデュイ",
+    "tags": [
+      "mondstadt",
+      "fatui",
+      "character-sub"
+    ],
+    "id": "lyudmila",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Anna",
+    "ja": "アナ",
+    "zhCN": "安娜",
+    "zhTW": "安娜",
+    "notes": "デイリー任務「病み上がり」「冒険者、アナ!」などに登場する人物。モンド城にいる。冒険者。アンソニーの妹",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "anna",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Anthony",
+    "ja": "アンソニー",
+    "zhCN": "安东尼",
+    "zhTW": "安東尼",
+    "notes": "デイリー任務「病み上がり」「冒険者、アナ!」などに登場する人物。モンド城にいる。アナの兄",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "anthony",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Luke",
+    "ja": "ルーク",
+    "zhCN": "卢克",
+    "zhTW": "路克",
+    "notes": "モンド城にいる人物。ファデュイ",
+    "tags": [
+      "mondstadt",
+      "fatui",
+      "character-sub"
+    ],
+    "id": "luke",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Herman",
+    "ja": "ヘルマン",
+    "zhCN": "赫尔曼",
+    "zhTW": "赫爾曼",
+    "notes": "モンド城にいる人物。エリンの父親",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "herman",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Athos(Mondstadt)",
+    "ja": "アトス",
+    "zhCN": "阿托",
+    "zhTW": "阿托",
+    "notesEn": "The original title does not have (Mondstadt). Added due to constraints of key generation.",
+    "notes": "モンド城にいる人物。西風騎士団。英語の原題には (Mondstadt) はついていません。システム制約によりキーを重複させないための処置です。",
+    "notesZh": "原英文标题不包括（Mondstadt）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "athosmondstadt",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Porthos",
+    "ja": "ポルトス",
+    "zhCN": "波尔托",
+    "zhTW": "波爾托",
+    "notes": "モンド城にいる西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "porthos",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Wyratt",
+    "ja": "ワイラット",
+    "zhCN": "威拉格",
+    "zhTW": "威拉格",
+    "notes": "モンド城にいる西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "wyratt",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Wood",
+    "ja": "ウッド",
+    "zhCN": "伍德",
+    "zhTW": "伍德",
+    "notes": "モンド城にいる西風騎士",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "wood",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Vile",
+    "ja": "ヴァル",
+    "zhCN": "薇尔",
+    "zhTW": "薇爾",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "vile",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Grace",
+    "ja": "グレイス",
+    "zhCN": "葛瑞丝",
+    "zhTW": "葛瑞絲",
+    "notes": "モンド城にいる西風教会のシスター",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "grace",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Susie",
+    "ja": "スージー",
+    "zhCN": "苏西",
+    "zhTW": "蘇西",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "susie",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Monroe",
+    "ja": "モンロー",
+    "zhCN": "门罗",
+    "zhTW": "門羅",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "monroe",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Sayid",
+    "ja": "サイード",
+    "zhCN": "萨义德",
+    "zhTW": "薩伊德",
+    "notes": "モンド城にいるスメール教令院の学者",
+    "tags": [
+      "mondstadt",
+      "sumeru",
+      "character-sub"
+    ],
+    "id": "sayid",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Aramis",
+    "ja": "アラミス",
+    "zhCN": "阿拉米",
+    "zhTW": "阿拉米",
+    "notes": "モンド城にいる人物。西風騎士団",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "aramis",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Otto",
+    "ja": "アート",
+    "zhCN": "奥特",
+    "zhTW": "奧特",
+    "notes": "モンド城にいる人物。西風騎士団",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "otto",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Albert",
+    "ja": "アルバート",
+    "zhCN": "艾伯特",
+    "zhTW": "阿爾伯特",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "albert",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Miles",
+    "ja": "マイルズ",
+    "zhCN": "麦尔斯",
+    "zhTW": "邁爾斯",
+    "notes": "モンド城にいる人物。西風騎士団",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "miles",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Charles",
+    "ja": "チャールズ",
+    "zhCN": "查尔斯",
+    "zhTW": "查爾斯",
+    "notes": "モンド城にいる人物。「エンジェルズシェア」バーテンダー",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "charles",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Six-Fingered José",
+    "ja": "ジョセ",
+    "zhCN": "六指乔瑟",
+    "zhTW": "六指喬瑟",
+    "notes": "モンド城にいる人物。吟遊詩人",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "six-fingered-jose",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Quinn",
+    "ja": "クイン",
+    "zhCN": "昆恩",
+    "zhTW": "昆恩",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "quinn",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Helen",
+    "ja": "ヘレン",
+    "zhCN": "海伦",
+    "zhTW": "海倫",
+    "notes": "モンド城にいる人物。吟遊詩人",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "helen",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Beatrice",
+    "ja": "ベアトリーチェ",
+    "zhCN": "贝雅特丽奇",
+    "zhTW": "貝雅特麗奇",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "beatrice",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Nimrod",
+    "ja": "ニムロド",
+    "zhCN": "宁禄",
+    "zhTW": "寧錄",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "nimrod",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Xi'er",
+    "ja": "喜児",
+    "zhCN": "喜儿",
+    "zhTW": "喜兒",
+    "notes": "モンド城にいる人物",
+    "tags": [
+      "mondstadt",
+      "liyue",
+      "character-sub"
+    ],
+    "id": "xier",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Shiliu",
+    "ja": "石榴",
+    "zhCN": "石榴",
+    "zhTW": "石榴",
+    "notes": "モンド城にいる人物。商人",
+    "tags": [
+      "mondstadt",
+      "liyue",
+      "character-sub"
+    ],
+    "id": "shiliu",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Jack",
+    "ja": "ジャック(モンド)",
+    "zhCN": "杰克(蒙德)",
+    "zhTW": "傑克(蒙德)",
+    "notes": "モンド城にいる人物。冒険者。原題には (モンド) はついていません。システム制約によりキーを重複させないための処置です。",
+    "notesZh": "原标题不包括（蒙德）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    "notesZhTW": "原标题不包括（蒙德）。這是為了防止由於系統限制而出現重複密鑰的措施。",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "jack",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Will",
+    "ja": "ウィル",
+    "zhCN": "小威",
+    "zhTW": "小威",
+    "notes": "鷹飛びの浜にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "will",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Jill",
+    "ja": "ジル",
+    "zhCN": "小吉",
+    "zhTW": "小吉",
+    "notes": "鷹飛びの浜にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "jill",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Mack",
+    "ja": "マイク",
+    "zhCN": "麦克",
+    "zhTW": "麥克",
+    "notes": "鷹飛びの浜にいる人物。西風騎士団",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "mack",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Hopkins the Marvelous",
+    "ja": "不思議なホプキンス",
+    "zhCN": "神奇的霍普金斯",
+    "zhTW": "神奇的霍普金斯",
+    "notes": "清泉町にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "hopkins-the-marvelous",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Old Finch",
+    "ja": "フィンチじいさん",
+    "zhCN": "老芬奇",
+    "zhTW": "老芬奇",
+    "notes": "v4.1 期間限定イベント「流れゆく水に詩を紡いで」に登場する人物。清泉町にいる",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "old-finch",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Jotun",
+    "ja": "ヨトゥン",
+    "zhCN": "约顿",
+    "zhTW": "約頓",
+    "notes": "清泉町にいる人物。狩人",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "jotun",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Allan",
+    "ja": "エレン",
+    "zhCN": "艾伦",
+    "zhTW": "艾倫",
+    "notes": "清泉町にいる人物。狩人",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "allan",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Olaf",
+    "ja": "オラフ",
+    "zhCN": "奥拉夫",
+    "zhTW": "歐拉夫",
+    "notes": "伝説任務「長杓の章」で登場する人物。清泉町にいる。狩人",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "olaf",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Brook",
+    "ja": "ブロック",
+    "zhCN": "布洛克",
+    "zhTW": "布洛克",
+    "notes": "清泉町にいる人物。料理人",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "brook",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Pepe",
+    "ja": "ペペ",
+    "zhCN": "佩佩",
+    "zhTW": "佩佩",
+    "notes": "清泉町にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "pepe",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Myweiss",
+    "ja": "マイワイス",
+    "zhCN": "梅薇丝",
+    "zhTW": "梅薇絲",
+    "notes": "清泉町にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "myweiss",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Farrah",
+    "ja": "ファオラ",
+    "zhCN": "法拉",
+    "zhTW": "法拉",
+    "notes": "酔漢峡にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "farrah",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Wyatt",
+    "ja": "ワイアット",
+    "zhCN": "怀尔德",
+    "zhTW": "懷爾德",
+    "notes": "酔漢峡にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "wyatt",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Ross the Quick",
+    "ja": "早足のロス",
+    "zhCN": "快腿罗斯",
+    "zhTW": "快腿羅斯",
+    "notes": "奔狼領のシードル湖沿いにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "ross-the-quick",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Ernest",
+    "ja": "アーネスト",
+    "zhCN": "恩内斯特",
+    "zhTW": "厄尼斯特",
+    "notes": "アカツキワイナリーにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "ernest",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Connor",
+    "ja": "コナー",
+    "zhCN": "康纳",
+    "zhTW": "康納",
+    "notes": "アカツキワイナリーにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "connor",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Moco",
+    "ja": "モコ",
+    "zhCN": "摩可",
+    "zhTW": "摩可",
+    "notes": "アカツキワイナリーにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "moco",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Hillie",
+    "ja": "ヘイリー",
+    "zhCN": "海莉",
+    "zhTW": "海莉",
+    "notes": "アカツキワイナリーにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "hillie",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Tunner",
+    "ja": "トゥナー",
+    "zhCN": "特纳",
+    "zhTW": "特納",
+    "notes": "アカツキワイナリーにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "tunner",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Elzer",
+    "ja": "エルザー",
+    "zhCN": "埃泽",
+    "zhTW": "埃澤",
+    "notes": "アカツキワイナリーにいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "elzer",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Stevens",
+    "ja": "スティーブンス",
+    "zhCN": "史蒂文斯",
+    "zhTW": "史蒂文斯",
+    "notes": "蒼風の高地にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "stevens",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Iris(Mondstadt)",
+    "ja": "玉霞(ぎょくか)",
+    "zhCN": "玉霞",
+    "zhTW": "玉霞",
+    "notesEn": "The original title does not have (Mondstadt). Added due to constraints of key generation.",
+    "notes": "蒼風の高地にある、ドラゴンスパイン麓のキャンプにいる冒険者。サイリュスの姉。英語の原題には (Mondstadt) はついていません。システム制約によりキーを重複させないための処置です。",
+    "notesZh": "原英文标题不包括（Mondstadt）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "irismondstadt",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Harris",
+    "ja": "ハリス",
+    "zhCN": "哈里斯",
+    "zhTW": "哈里斯",
+    "notes": "蒼風の高地にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "harris",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Joserf",
+    "ja": "ジョセフ",
+    "zhCN": "乔瑟夫",
+    "zhTW": "喬瑟夫",
+    "notes": "世界任務「純白の謎影・再会」に登場する人物。蒼風の高地にいる",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "joserf",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Joel",
+    "ja": "ジョエル",
+    "zhCN": "乔尔",
+    "zhTW": "喬爾",
+    "notes": "世界任務「雪山迷走」「純白の謎影・希望」「純白の謎影・再会」などに登場する人物。蒼風の高地にいる",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "joel",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Manly Jack",
+    "ja": "漢のジャック",
+    "zhCN": "男子汉杰克",
+    "zhTW": "男子漢傑克",
+    "notes": "蒼風の高地にいる人物",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "manly-jack",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Pavel",
+    "ja": "パベル",
+    "zhCN": "帕维尔",
+    "zhTW": "帕維爾",
+    "notes": "蒼風の高地にいる人物。ファデュイ",
+    "tags": [
+      "mondstadt",
+      "fatui",
+      "character-sub"
+    ],
+    "id": "pavel",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Cyrus(Sumeru)",
+    "ja": "ジュライセン",
+    "zhCN": "居勒什",
+    "zhTW": "居勒什",
+    "tags": [
+      "sumeru",
+      "character-sub"
+    ],
+    "notesEn": "The original title does not have (Sumeru). Added due to constraints of key generation.",
+    "notes": "スメール教令院におけるリサとセノの師。英語の原題には (Sumeru) はついていません。システム制約によりキーを重複させないための処置です。",
+    "notesZh": "须弥教令院中丽莎和赛诺的老师。原英文标题不包括（Sumeru）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    "notesZhTW": "須彌教令院中麗莎和賽諾的老師。原英文標題不包括（Sumeru）。這是為了防止由於系統限制而出現重複密鑰的措施。",
+    "id": "cyrussumeru",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Floral Whisper",
+    "ja": "花言葉",
+    "zhCN": "花语",
+    "zhTW": "花語",
+    "tags": [
+      "mondstadt",
+      "facility"
+    ],
+    "id": "floral-whisper",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Mondstadt General Goods",
+    "ja": "モンドショップ",
+    "zhTW": "蒙德百货",
+    "zhCN": "蒙德百貨",
+    "tags": [
+      "mondstadt",
+      "facility"
+    ],
+    "id": "mondstadt-general-goods",
+    "updatedAt": "2026-03-16",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "en": "Rostam",
+    "ja": "ルースタン",
+    "zhCN": "鲁斯坦",
+    "zhTW": "魯斯坦",
+    "notes": "「天狼の章」に登場する人物。500年前の北風騎士。ローランドの師匠",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "rostam",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Wolf Pup",
+    "ja": "幼い狼",
+    "zhCN": "幼狼",
+    "zhTW": "幼狼",
+    "notes": "ルースタンの称号",
+    "tags": [
+      "mondstadt",
+      "title"
+    ],
+    "id": "wolf-pup",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Arundolyn",
+    "ja": "エレンドリン",
+    "zhCN": "艾伦德林",
+    "zhTW": "艾倫德林",
+    "notes": "伝説任務「天狼の章」に登場する人物。500年前の「西風騎士団」大団長",
+    "tags": [
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "arundolyn",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Lion of Light",
+    "ja": "光の獅子",
+    "zhCN": "光之獅",
+    "zhTW": "光之獅",
+    "notes": "エレンドリンの称号",
+    "tags": [
+      "mondstadt",
+      "title"
+    ],
+    "id": "lion-of-light",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Linnea",
+    "ja": "リンネア",
+    "zhCN": "莉奈娅",
+    "zhTW": "莉奈婭",
+    "tags": [
+      "nodkrai",
+      "character-main"
+    ],
+    "id": "linnea",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Lohen",
+    "ja": "ローエン",
+    "zhCN": "洛恩",
+    "zhTW": "洛恩",
+    "notes": "西風騎士団所属",
+    "tags": [
+      "nodkrai",
+      "mondstadt",
+      "character-main"
+    ],
+    "id": "lohen",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Roland",
+    "ja": "ローランド",
+    "zhCN": "罗兰",
+    "zhTW": "羅蘭",
+    "notes": "伝説任務「天狼の章」に登場する人物。500年前の北風騎士。ルースタンの弟子",
+    "tags": [
+      "nodkrai",
+      "mondstadt",
+      "character-sub"
+    ],
+    "id": "roland",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "White Knight",
+    "ja": "純白の騎士",
+    "zhCN": "純白骑士",
+    "zhTW": "純白騎士",
+    "notes": "ローランドの称号",
+    "tags": [
+      "nodkrai",
+      "mondstadt",
+      "title"
+    ],
+    "id": "white-knight",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Bloodstained Knight",
+    "ja": "血染めの騎士",
+    "zhCN": "血染黑的骑士",
+    "zhTW": "血染黑的騎士",
+    "notes": "ローランドの称号",
+    "tags": [
+      "nodkrai",
+      "mondstadt",
+      "title"
+    ],
+    "id": "bloodstained-knight",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Virtanen",
+    "ja": "ヴィルタネン",
+    "zhCN": "沃尔塔宁",
+    "zhTW": "沃爾塔寧",
+    "notes": "伝説任務「天狼の章」に登場する人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "virtanen",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Vytautas",
+    "ja": "フィタウタス",
+    "zhCN": "维道塔什",
+    "zhTW": "維道塔什",
+    "notes": "伝説任務「天狼の章」に登場する人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "vytautas",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Elixir of the Heretic",
+    "ja": "異端の薬瓶",
+    "zhCN": "异端的瓶剂",
+    "zhTW": "異端的瓶劑",
+    "pronunciationJa": "いたんのやくびん",
+    "tags": [
+      "drop-boss",
+      "nodkrai"
+    ],
+    "id": "elixir-of-the-heretic",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Mask of the Virtuous Doctor",
+    "ja": "賢医の仮面",
+    "zhCN": "医的假面",
+    "zhTW": "賢醫的假面",
+    "pronunciationJa": "けんいのかめん",
+    "tags": [
+      "drop-boss",
+      "nodkrai"
+    ],
+    "id": "mask-of-the-virtuous-doctor",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Madman's Restraint",
+    "ja": "狂人の誓約",
+    "zhCN": "狂人的约束",
+    "zhTW": "狂人的約束",
+    "pronunciationJa": "きょうじんのせいやく",
+    "tags": [
+      "drop-boss",
+      "nodkrai"
+    ],
+    "id": "madmans-restraint",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Remnant of the Dreadwing",
+    "ja": "悪夢の枯骸",
+    "zhCN": "魇翼枯骸",
+    "zhTW": "魘翼枯骸",
+    "pronunciationJa": "あくむのかれむ",
+    "tags": [
+      "nodkrai",
+      "drop"
+    ],
+    "id": "remnant-of-the-dreadwing",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Prismatic Severed Tail",
+    "ja": "稜光の断尾",
+    "zhCN": "棱光的断尾",
+    "zhTW": "稜光的斷尾",
+    "pronunciationJa": "りょうこうのたんび",
+    "tags": [
+      "nodkrai",
+      "drop"
+    ],
+    "id": "prismatic-severed-tail",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Radiant Moongecko",
+    "ja": "集光の月ヤモリ",
+    "zhCN": "蕴光月守宫",
+    "zhTW": "蘊光月守宮",
+    "pronunciationJa": "しゅうこうのつきヤモリ",
+    "tags": [
+      "nodkrai",
+      "enemy-boss"
+    ],
+    "id": "radiant-moongecko",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Golden-Tempered Jade",
+    "ja": "鍛金冷玉",
+    "zhCN": "淬金冷玉",
+    "zhTW": "淬金冷玉",
+    "tags": [
+      "food"
+    ],
+    "id": "golden-tempered-jade",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Hearty Indulgence",
+    "ja": "「爽快」",
+    "zhCN": "「酣畅」",
+    "zhTW": "「酣暢」",
+    "tags": [
+      "food",
+      "mondstadt"
+    ],
+    "notesEn": "Varka's specialty",
+    "notes": "ファルカのオリジナル料理",
+    "notesZh": "法尔伽的特色料理",
+    "id": "hearty-indulgence",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "A letter Carried by the Wind",
+    "ja": "風が運んできた手紙",
+    "zhCN": "由风捎来的信",
+    "zhTW": "由風捎來的信",
+    "pronunciationJa": "かぜがはこんできたてがみ",
+    "tags": [
+      "item",
+      "mondstadt"
+    ],
+    "id": "a-letter-carried-by-the-wind",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Varka's Secret Stash of Cash",
+    "ja": "ファルカのへそくり",
+    "zhCN": "法尔伽的私房钱",
+    "zhTW": "法爾伽的私房錢",
+    "tags": [
+      "item",
+      "mondstadt"
+    ],
+    "id": "varkas-secret-stash-of-cash",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Lupus Majoris Chapter",
+    "ja": "天狼の章",
+    "zhCN": "天狼之章",
+    "zhTW": "天狼之章",
+    "pronunciationJa": "てんろうのしょう",
+    "notes": "ファルカの伝説任務",
+    "tags": [
+      "fontaine",
+      "quest-story"
+    ],
+    "id": "lupus-majoris-chapter",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Gest of the Mighty Wolf",
+    "ja": "狼の武勲詩",
+    "zhCN": "狼的武功歌",
+    "zhTW": "狼的武功歌",
+    "tags": [
+      "weapon",
+      "claymore"
+    ],
+    "id": "gest-of-the-mighty-wolf",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Phantasmal Gift: Star Omen",
+    "ja": "幻のギフト・スターオーメン",
+    "zhCN": "幻礼·星兆",
+    "zhTW": "幻禮·星兆",
+    "notesEn": "v6.4(LunaV) Limited Time Event \"Homeward, He Who Caught the Wind\" Reward. An item to changes the appearance of the catalyst weapon to a witch's crystal ball.",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」報酬。法器武器の見た目を魔女の水晶玉に変えるアイテム",
+    "notesZh": "v6.4(LunaV) 限时活动「捕风的归客」奖励",
+    "tags": [
+      "weapon",
+      "catalyst",
+      "event"
+    ],
+    "id": "phantasmal-gift-star-omen",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Travelers' Tales: Moongaze Chapter",
+    "ja": "のんびり旅行記 観月の章",
+    "zhCN": "游逸旅闻·望月之章",
+    "zhTW": "遊逸旅聞·望月之章",
+    "notesEn": "Limited Time Event in v6.4(LunaV)",
+    "notes": "v6.4(LunaV) 期間限定イベント",
+    "notesZh": "v6.4(LunaV) 中的限时活动",
+    "tags": [
+      "event"
+    ],
+    "id": "travelers-tales-moongaze-chapter",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Homeward, He Who Caught the Wind",
+    "ja": "風を捕まえる帰郷者",
+    "zhCN": "捕风的归客",
+    "zhTW": "捕風的歸客",
+    "pronunciationJa": "かぜをつかまえるききょうしゃ",
+    "notesEn": "Limited Time Event in v6.4(LunaV)",
+    "notes": "v6.4(LunaV) 期間限定イベント",
+    "notesZh": "v6.4(LunaV) 中的限时活动",
+    "tags": [
+      "event",
+      "mondstadt"
+    ],
+    "id": "homeward-he-who-caught-the-wind",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Echoes of Memory",
+    "ja": "思い出のまちがい探し",
+    "zhCN": "错忆寻迹",
+    "zhTW": "錯憶尋跡",
+    "pronunciationJa": "おもいでのまちがいさがし",
+    "notesEn": "v6.4(LunaV) Sub-events of the Limited Time Event \"Homeward, He Who Caught the Wind\"",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」の子イベント",
+    "notesZh": "限时活动「捕风的归客」v6.4(LunaV) 子活动",
+    "tags": [
+      "event",
+      "mondstadt"
+    ],
+    "id": "echoes-of-memory",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Favonius Falcon's Recon Log",
+    "ja": "西風の鷹の偵察記録",
+    "zhCN": "西风迅鷹侦战录",
+    "zhTW": "西風迅鷹偵戰錄",
+    "pronunciationJa": "せいふうのたかのていさつきろく",
+    "notesEn": "v6.4(LunaV) Sub-events of the Limited Time Event \"Homeward, He Who Caught the Wind\"",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」の子イベント",
+    "notesZh": "限时活动「捕风的归客」v6.4(LunaV) 子活动",
+    "tags": [
+      "event",
+      "mondstadt"
+    ],
+    "id": "favonius-falcons-recon-log",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "A Chat Over Fine Drinks",
+    "ja": "酒とともに語らおう",
+    "zhCN": "闲叙邀佳酌",
+    "zhTW": "閒敘邀佳酌",
+    "pronunciationJa": "さけとともにかたらおう",
+    "notesEn": "v6.4(LunaV) Sub-events of the Limited Time Event \"Homeward, He Who Caught the Wind\"",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」の子イベント",
+    "notesZh": "限时活动「捕风的归客」v6.4(LunaV) 子活动",
+    "tags": [
+      "event",
+      "mondstadt"
+    ],
+    "id": "a-chat-over-fine-drinks",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Lionfang's Radiant Onslaught",
+    "ja": "輝かしき獅牙の激闘",
+    "zhCN": "狮牙辉影疾斗",
+    "zhTW": "獅牙輝影疾鬥",
+    "pronunciationJa": "かがやかしきしがのげきとう",
+    "notesEn": "v6.4(LunaV) Sub-events of the Limited Time Event \"Homeward, He Who Caught the Wind\"",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」の子イベント",
+    "notesZh": "限时活动「捕风的归客」v6.4(LunaV) 子活动",
+    "tags": [
+      "event",
+      "mondstadt"
+    ],
+    "id": "lionfangs-radiant-onslaught",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Eija",
+    "ja": "イェーガー",
+    "zhCN": "耶嘉",
+    "zhTW": "耶嘉",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」に登場する人物。西風騎士団所属",
+    "tags": [
+      "event",
+      "character-sub",
+      "mondstadt"
+    ],
+    "id": "eija",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Vesper",
+    "ja": "スイカズラ",
+    "zhCN": "灰郁香",
+    "zhTW": "灰鬱香",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」に登場するキャラクター。西風騎士団偵察鷹",
+    "tags": [
+      "event",
+      "character-sub",
+      "mondstadt"
+    ],
+    "id": "vesper",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Hedwig",
+    "ja": "ヘドウィグ",
+    "zhCN": "赫得蔚格",
+    "zhTW": "赫得蔚格",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」に登場する人物。西風騎士団所属",
+    "tags": [
+      "event",
+      "character-sub",
+      "mondstadt"
+    ],
+    "id": "hedwig",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Glenfidia",
+    "ja": "グランフィディア",
+    "zhCN": "格兰菲狄",
+    "zhTW": "格蘭菲狄",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」に登場する人物。西風騎士団所属",
+    "tags": [
+      "event",
+      "character-sub",
+      "mondstadt"
+    ],
+    "id": "glenfidia",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Horken",
+    "ja": "ホーケンス",
+    "zhCN": "霍肯",
+    "zhTW": "霍肯",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」に登場する人物。西風騎士団所属",
+    "tags": [
+      "event",
+      "character-sub",
+      "mondstadt"
+    ],
+    "id": "horken",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Valerina",
+    "ja": "ヴァレリナ",
+    "zhCN": "瓦乐瑞娜",
+    "zhTW": "瓦樂瑞娜",
+    "notes": "v4.5 期間限定イベント「モフモフの城、にゃん冒険！」、v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」などに登場する人物。冒険者",
+    "tags": [
+      "event",
+      "character-sub",
+      "mondstadt"
+    ],
+    "id": "valerina",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Helene",
+    "ja": "エレーヌ",
+    "zhCN": "伊莲",
+    "zhTW": "伊蓮",
+    "notes": "v4.3 期間限定イベント「薔薇と銃士」、v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」などに登場する人物",
+    "tags": [
+      "event",
+      "character-sub",
+      "fontaine",
+      "mondstadt"
+    ],
+    "id": "helene",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Dunkhas",
+    "ja": "ダンクハス",
+    "zhCN": "敦克哈斯",
+    "zhTW": "敦克哈斯",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」に登場する人物。西風騎士団諜報員",
+    "tags": [
+      "event",
+      "character-sub",
+      "mondstadt"
+    ],
+    "id": "dunkhas",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Elishka",
+    "ja": "エリシュカ",
+    "zhCN": "埃利什卡",
+    "zhTW": "埃利什卡",
+    "notes": "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」に登場する人物。西風騎士団諜報員",
+    "tags": [
+      "event",
+      "character-sub",
+      "mondstadt"
+    ],
+    "id": "elishka",
+    "updatedAt": "2026-03-09",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "en": "Dandy",
+    "ja": "ダンディ",
+    "zhCN": "丹迪",
+    "zhTW": "丹迪",
+    "tags": [
+      "character-sub"
+    ],
+    "notes": "各地でタイムアタックに誘う人物。冒険者",
+    "id": "dandy",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Madame Ping",
+    "ja": "ピンばあや",
+    "zhCN": "萍姥姥",
+    "zhTW": "萍姥姥",
+    "tags": [
+      "liyue",
+      "character-sub",
+      "sereniteapot"
+    ],
+    "notesEn": "Streetward Rambler's popular name",
+    "notes": "璃月港にいる人物。歌塵浪市真君の俗名",
+    "notesZh": "歌尘浪市真君入世后的称呼。",
+    "notesZhTW": "歌塵浪市真君入世後的稱呼。",
+    "id": "madame-ping",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Uncle Tian",
+    "ja": "天おじ",
+    "zhCN": "天叔",
+    "zhTW": "天叔",
+    "pronunciationJa": "てんおじ",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物",
+    "id": "uncle-tian",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Wang Ping'an",
+    "ja": "平安",
+    "zhCN": "王平安",
+    "zhTW": "王平安",
+    "pronunciationJa": "へいあん",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "魈の伝説任務に登場する人物。璃沙郊にいる",
+    "id": "wang-pingan",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Starsnatcher",
+    "ja": "掇星攫辰天君",
+    "zhCN": "掇星攫辰天君",
+    "zhTW": "掇星攫辰天君",
+    "tags": [
+      "liyue",
+      "title"
+    ],
+    "notes": "魈の伝説任務に登場する人物",
+    "pinyins": [
+      {
+        "char": "掇",
+        "pron": "duō"
+      },
+      {
+        "char": "攫",
+        "pron": "jué"
+      }
+    ],
+    "zhuyins": [
+      {
+        "char": "掇",
+        "pron": "ㄉㄨㄛ"
+      },
+      {
+        "char": "攫",
+        "pron": "ㄐㄩㄝˊ"
+      }
+    ],
+    "id": "starsnatcher",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Chef Mao",
+    "ja": "卯師匠",
+    "zhCN": "卯师傅",
+    "zhTW": "卯師傅",
+    "pronunciationJa": "うーししょう",
+    "notesEn": "Xiangling's father",
+    "notes": "璃月港にいる人物。香菱の父",
+    "notesZh": "香菱的父亲。",
+    "notesZhTW": "香菱的父親。",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "id": "chef-mao",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Bao'er",
+    "ja": "宝児",
+    "zhCN": "宝儿",
+    "zhTW": "寶兒",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "帰離原にいる人物。宝盗団のメンバー",
+    "id": "baoer",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Verr Goldet",
+    "ja": "ヴェル・ゴレット",
+    "zhCN": "菲尔戈黛特",
+    "zhTW": "菲爾戈黛特",
+    "tags": [
+      "liyue",
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物。望舒旅館のオーナー",
+    "id": "verr-goldet",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Huai'an",
+    "ja": "淮安",
+    "zhCN": "淮安",
+    "zhTW": "淮安",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物",
+    "id": "huaian",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Smiley Yanxiao",
+    "ja": "言笑",
+    "zhCN": "言笑",
+    "zhTW": "言笑",
+    "pronunciationJa": "げんしょう",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "「望舒旅館」料理人",
+    "variants": {
+      "en": [
+        "Yanxiao"
+      ]
+    },
+    "id": "smiley-yanxiao",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Jiangxue",
+    "ja": "江雪",
+    "zhCN": "江雪",
+    "zhTW": "江雪",
+    "notes": "望舒旅館にいる人物",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "id": "jiangxue",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Jiawei",
+    "ja": "嘉瑋",
+    "zhCN": "嘉玮",
+    "zhTW": "嘉瑋",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。漁師",
+    "notesEn": "Liyue Angler.",
+    "notesZh": "璃月的渔夫。",
+    "notesZhTW": "璃月的漁夫。",
+    "id": "jiawei",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2023-09-23"
+  },
+  {
+    "en": "Ying'er",
+    "ja": "鶯",
+    "zhCN": "莺儿",
+    "zhTW": "鶯兒",
+    "pronunciationJa": "うぐいす",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。英語版における発音は「インガー」",
+    "id": "yinger",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2023-03-10"
+  },
+  {
+    "en": "Shitou",
+    "ja": "石商",
+    "zhCN": "石头",
+    "zhTW": "石頭",
+    "pronunciationJa": "せきしょう",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。鉱石を売っている店「解翠行」の店主",
+    "notesEn": "Owner of the ore shop \"Jade Mystery\".",
+    "notesZh": "赌石铺「解翠行」的店主。",
+    "notesZhTW": "賭石鋪「解翠行」的店主。",
+    "id": "shitou",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2023-07-29"
+  },
+  {
+    "en": "Lan",
+    "ja": "嵐姉",
+    "zhCN": "岚姐",
+    "zhTW": "嵐姐",
+    "pronunciationJa": "あらしねえ",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "デイリー任務「剣はいずこ？」などに登場する人物。普段は璃月港にいる",
+    "id": "lan",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2023-03-10"
+  },
+  {
+    "en": "Hanfeng, \"Cold Blade\"",
+    "ja": "寒鋒",
+    "zhCN": "寒锋",
+    "zhTW": "寒鋒",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物",
+    "variants": {
+      "en": [
+        "Hanfeng"
+      ]
+    },
+    "id": "hanfeng-cold-blade",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Master Zhang",
+    "ja": "章",
+    "zhCN": "老章",
+    "zhTW": "老章",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港の鍛冶屋",
+    "variants": {
+      "en": [
+        "Zhang"
+      ]
+    },
+    "id": "master-zhang",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Jifang",
+    "ja": "紀芳",
+    "zhCN": "纪芳",
+    "zhTW": "紀芳",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「万文集舎」オーナー",
+    "id": "jifang",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Tea Master Liu Su",
+    "ja": "茶博士劉蘇",
+    "zhCN": "茶博士刘苏",
+    "zhTW": "茶博士劉蘇",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notesEn": "Storyteller",
+    "notes": "璃月港にいる人物。講談師",
+    "id": "tea-master-liu-su",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Fan Er'ye",
+    "ja": "範二",
+    "zhCN": "范二爷",
+    "zhTW": "範二爺",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notesEn": "Boss, Tea House",
+    "notes": "璃月港にいる人物。「和裕茶屋」のオーナー",
+    "id": "fan-erye",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Soraya",
+    "ja": "ソラヤー",
+    "zhCN": "索拉雅",
+    "zhTW": "索拉雅",
+    "tags": [
+      "liyue",
+      "sumeru",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物",
+    "id": "soraya",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Jinwu",
+    "ja": "瑾武",
+    "zhCN": "瑾武",
+    "zhTW": "瑾武",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "層岩巨淵・地下鉱区にいる人物",
+    "id": "jinwu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Yuehui",
+    "ja": "玥輝",
+    "zhCN": "玥辉",
+    "zhTW": "玥輝",
+    "pronunciationJa": "げつき",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "層岩巨淵にいる人物",
+    "id": "yuehui",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Muning",
+    "ja": "沐寧",
+    "zhCN": "沐宁",
+    "zhTW": "沐寧",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "層岩巨淵にいる人物",
+    "id": "muning",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Zhiqiong",
+    "ja": "志璇",
+    "zhCN": "志璇",
+    "zhTW": "志璇",
+    "pronunciationJa": "しせん",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "世界任務「層岩巨淵深遊記」などに登場する人物。層岩巨淵・地下鉱区で地図作成をしていた",
+    "id": "zhiqiong",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Taliesin",
+    "ja": "タリエシン",
+    "zhCN": "塔列辛",
+    "zhTW": "塔列辛",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "層岩巨淵・地下鉱区にいる人物",
+    "id": "taliesin",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Khedive Pursina",
+    "ja": "ヘディーヴ・プルシナ",
+    "zhCN": "海迪夫·普尔希纳",
+    "zhTW": "海迪夫·普爾希納",
+    "tags": [
+      "liyue",
+      "sumeru",
+      "character-sub"
+    ],
+    "notes": "層岩巨淵・地下鉱区にいる人物",
+    "id": "khedive-pursina",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-08-26"
+  },
+  {
+    "en": "Clitopho",
+    "ja": "クレイトポン",
+    "zhCN": "克里托夫",
+    "zhTW": "克里托夫",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "層岩巨淵にいる人物。元宝盗団のメンバー",
+    "id": "clitopho",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Uncle He",
+    "ja": "何爺",
+    "zhCN": "何爷",
+    "zhTW": "何爺",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "世界任務「失踪した鉱夫」に登場する人物",
+    "id": "uncle-he",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Zhihu",
+    "ja": "志華",
+    "zhCN": "志华",
+    "zhTW": "志華",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "デイリー依頼「よい兆し」などに登場する人物。璃月港にいる",
+    "id": "zhihu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Gou San'er",
+    "ja": "犬三",
+    "zhCN": "狗三儿",
+    "zhTW": "狗三兒",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。倉庫の管理人",
+    "id": "gou-saner",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Linling",
+    "ja": "霖鈴",
+    "zhCN": "霖铃",
+    "zhTW": "霖鈴",
+    "pronunciationJa": "りんれい",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "デイリー任務「港の船」などに登場する人物。璃月港にいる",
+    "id": "linling",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Captain Wu",
+    "ja": "呉船長",
+    "zhCN": "吴船长",
+    "zhTW": "吳船長",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物",
+    "id": "captain-wu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Degui",
+    "ja": "徳貴",
+    "zhCN": "德贵",
+    "zhTW": "德貴",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「三杯酔」のオーナー",
+    "id": "degui",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Zhiruo",
+    "ja": "シニャク",
+    "zhCN": "芷若",
+    "zhTW": "芷若",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "デイリー任務「剣が旅立つ日」に登場する人物。璃月港にある「三杯酔」の接待係",
+    "id": "zhiruo",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Su Er'niang",
+    "ja": "蘇二おば",
+    "zhCN": "苏二娘",
+    "zhTW": "蘇二娘",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。屋台の店主",
+    "id": "su-erniang",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Freki",
+    "ja": "フレーキ",
+    "zhCN": "弗莱琪",
+    "zhTW": "弗萊琪",
+    "tags": [
+      "liyue",
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。モンド人旅行者",
+    "id": "freki",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Geri",
+    "ja": "ジェリー",
+    "zhCN": "杰里",
+    "zhTW": "傑里",
+    "tags": [
+      "liyue",
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。モンド人旅行者",
+    "id": "geri",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Chen the Sharp",
+    "ja": "快刀陳",
+    "zhCN": "快刀陈",
+    "zhTW": "快刀陳",
+    "notesEn": "Street Food Vendor",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。惣菜屋の店主",
+    "id": "chen-the-sharp",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Iron Tongue Tian",
+    "ja": "田饒舌",
+    "zhCN": "田铁嘴",
+    "zhTW": "田鐵嘴",
+    "notesEn": "Storyteller",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。講談師",
+    "id": "iron-tongue-tian",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Dongsheng",
+    "ja": "東昇",
+    "zhCN": "东升",
+    "zhTW": "東升",
+    "pronunciationJa": "とうしょう",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。青果店の店主",
+    "id": "dongsheng",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Granny Shan",
+    "ja": "山ばあや",
+    "zhCN": "阿山婆",
+    "zhTW": "阿山婆",
+    "pronunciationJa": "やまばあや",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。おもちゃ屋の店主",
+    "id": "granny-shan",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Tai",
+    "ja": "阿泰",
+    "zhCN": "阿泰",
+    "zhTW": "阿泰",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。骨董屋",
+    "id": "tai",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Qian",
+    "ja": "ケンシ",
+    "zhCN": "乾子",
+    "zhTW": "乾子",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。元炭鉱夫",
+    "id": "qian",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Chuyi",
+    "ja": "楚儀",
+    "zhCN": "楚仪",
+    "zhTW": "楚儀",
+    "pronunciationJa": "そぎ",
+    "notesEn": "Hostess, Yanshang Teahouse",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「岩上茶室」の接待係",
+    "id": "chuyi",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "The Halberd",
+    "ja": "戟",
+    "zhCN": "戟",
+    "zhTW": "戟",
+    "notesEn": "Security, Yanshang Teahouse",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「岩上茶室」の用心棒",
+    "id": "the-halberd",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "The Fang",
+    "ja": "牙",
+    "zhCN": "牙",
+    "zhTW": "牙",
+    "notesEn": "Security, Yanshang Teahouse",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「岩上茶室」の用心棒",
+    "id": "the-fang",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Ferrylady",
+    "ja": "渡し守",
+    "zhCN": "摆渡人",
+    "zhTW": "擺渡人",
+    "pronunciationJa": "わたしもり",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notesEn": "Undertaker, Wangsheng Funeral Parlor",
+    "notes": "璃月港にいる人物。往生堂の葬儀担当者",
+    "id": "ferrylady",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Ixkotii",
+    "ja": "イコホティ",
+    "zhCN": "伊柯蒂",
+    "zhTW": "伊柯蒂",
+    "tags": [
+      "liyue",
+      "natlan",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。ナタの商人",
+    "id": "ixkotii",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Changshun",
+    "ja": "長順",
+    "zhCN": "长顺",
+    "zhTW": "長順",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。商人",
+    "id": "changshun",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Yi Zhu",
+    "ja": "一柱",
+    "zhCN": "一柱",
+    "zhTW": "一柱",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。一弦は妹",
+    "id": "yi-zhu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Yi Xian",
+    "ja": "一弦",
+    "zhCN": "一弦",
+    "zhTW": "一弦",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。一柱は兄",
+    "id": "yi-xian",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Tiantian",
+    "ja": "テンテン",
+    "zhCN": "甜甜",
+    "zhTW": "甜甜",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。冒険者",
+    "id": "tiantian",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Linlang",
+    "ja": "琳琅",
+    "zhCN": "琳琅",
+    "zhTW": "琳琅",
+    "notesEn": "Owner, Xigu Antiques",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「希古居」の店主",
+    "id": "linlang",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Qiming",
+    "ja": "綺命",
+    "zhCN": "绮命",
+    "zhTW": "綺命",
+    "notesEn": "Fortune Teller",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。占い師",
+    "id": "qiming",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Nadia",
+    "ja": "ナディヤ",
+    "zhCN": "娜蒂亚",
+    "zhTW": "娜蒂亞",
+    "tags": [
+      "liyue",
+      "fatui",
+      "snezhnaya",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「北国銀行」夜勤の守衛",
+    "id": "nadia",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Vlad",
+    "ja": "ヴラド",
+    "zhCN": "弗拉德",
+    "zhTW": "弗拉德",
+    "tags": [
+      "liyue",
+      "fatui",
+      "snezhnaya",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「北国銀行」日勤の守衛",
+    "id": "vlad",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Ekaterina",
+    "ja": "エカテリーナ",
+    "zhCN": "叶卡捷琳娜",
+    "zhTW": "葉卡捷琳娜",
+    "tags": [
+      "liyue",
+      "fatui",
+      "snezhnaya",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「北国銀行」の受付係",
+    "id": "ekaterina",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Andrei",
+    "ja": "アンドレイ",
+    "zhCN": "安德烈",
+    "zhTW": "安德烈",
+    "notesEn": "Manager, North Bank",
+    "tags": [
+      "liyue",
+      "snezhnaya",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「北国銀行」マネージャー",
+    "id": "andrei",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Xingxi",
+    "ja": "星希",
+    "zhCN": "星稀",
+    "zhTW": "星稀",
+    "notesEn": "Owner, Mingxing Jewelry",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「明星斎」のオーナー",
+    "id": "xingxi",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Xu",
+    "ja": "阿旭",
+    "zhCN": "阿旭",
+    "zhTW": "阿旭",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。飛雲商会の従業員",
+    "id": "xu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Licai",
+    "ja": "璃彩",
+    "zhCN": "璃彩",
+    "zhTW": "璃彩",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「琉璃亭」の接待係",
+    "id": "licai",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Yueshu",
+    "ja": "月疏",
+    "zhCN": "月疏",
+    "zhTW": "月疏",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「新月軒」の接待係",
+    "id": "yueshu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Xiuhua",
+    "ja": "秀華",
+    "zhCN": "秀华",
+    "zhTW": "秀華",
+    "notesEn": "Guesthouse Waitress",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「白駒逆旅」の受付係",
+    "id": "xiuhua",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Ivanovich",
+    "ja": "イヴァノヴィチ",
+    "zhCN": "伊凡诺维奇",
+    "zhTW": "伊凡諾維奇",
+    "tags": [
+      "liyue",
+      "snezhnaya",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。スネージナヤの商人",
+    "id": "ivanovich",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Bolai",
+    "ja": "博来",
+    "zhCN": "博来",
+    "zhTW": "博來",
+    "notesEn": "Boss, Wanyou Boutique",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「万有商舗」のオーナー",
+    "id": "bolai",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Bu'yun",
+    "ja": "歩雲",
+    "zhCN": "步云",
+    "zhTW": "步雲",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物",
+    "id": "buyun",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Gentry De'an",
+    "ja": "徳安公",
+    "zhCN": "德安公",
+    "zhTW": "德安公",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物",
+    "id": "gentry-dean",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Huixin",
+    "ja": "慧心",
+    "zhCN": "慧心",
+    "zhTW": "慧心",
+    "pronunciationJa": "すいしん",
+    "notesEn": "Secretary, Yuehai Pavilion",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。「月海亭」の秘書",
+    "id": "huixin",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Herbalist Gui",
+    "ja": "桂",
+    "zhCN": "阿桂",
+    "zhTW": "阿桂",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "璃月港にいる人物。不卜廬の薬剤師",
+    "id": "herbalist-gui",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Shuzhi",
+    "ja": "淑之",
+    "zhCN": "淑之",
+    "zhTW": "淑之",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "雲来の海にいる人物",
+    "id": "shuzhi",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Uncle Liu",
+    "ja": "劉じぃ",
+    "zhCN": "老刘伯",
+    "zhTW": "老劉伯",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "雲来の海にいる人物",
+    "id": "uncle-liu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Bluffy",
+    "ja": "直",
+    "zhCN": "阿直",
+    "zhTW": "阿直",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "雲来の海にいる人物。宿屋の従業員",
+    "id": "bluffy",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Mr. Zhu",
+    "ja": "朱店主",
+    "zhCN": "朱老板",
+    "zhTW": "朱老闆",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "雲来の海にいる人物。宿屋のオーナー",
+    "id": "mr-zhu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Dummy",
+    "ja": "デク",
+    "zhCN": "阿笨",
+    "zhTW": "阿笨",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "雲来の海にいる人物。宿屋の従業員",
+    "id": "dummy",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Granny Ruoxin",
+    "ja": "若心",
+    "zhCN": "若心",
+    "zhTW": "若心",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物。軽策荘の管理人",
+    "id": "granny-ruoxin",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Ms. Bai",
+    "ja": "小白",
+    "zhCN": "小白",
+    "zhTW": "小白",
+    "notesEn": "Miller",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物。製粉所のオーナー",
+    "id": "ms-bai",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Yundan",
+    "ja": "雲淡",
+    "zhCN": "云淡",
+    "zhTW": "雲淡",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物",
+    "id": "yundan",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Uncle Ghast",
+    "ja": "鬼じぃ",
+    "zhCN": "鬼伯伯",
+    "zhTW": "鬼伯伯",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物",
+    "id": "uncle-ghast",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Little Yi",
+    "ja": "阿義",
+    "zhCN": "阿义",
+    "zhTW": "阿義",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物",
+    "id": "little-yi",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Master Lu",
+    "ja": "ルーじぃ",
+    "zhCN": "路爷",
+    "zhTW": "路爺",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物",
+    "id": "master-lu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Little Liu",
+    "ja": "六",
+    "zhCN": "小六",
+    "zhTW": "小六",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物",
+    "id": "little-liu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Little You",
+    "ja": "佑",
+    "zhCN": "阿佑",
+    "zhTW": "阿佑",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "軽策荘にいる人物",
+    "id": "little-you",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Pan Guan'er",
+    "ja": "判官",
+    "zhCN": "判官儿",
+    "zhTW": "判官兒",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "絶雲の間にいる人物",
+    "id": "pan-guaner",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Pops Zhou",
+    "ja": "周じぃ",
+    "zhCN": "老周叔",
+    "zhTW": "老周叔",
+    "notesEn": "Vendor, Pop's Teas",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "石門にいる人物。大椀茶店のオーナー",
+    "id": "pops-zhou",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Aunt Qiao",
+    "ja": "喬おば",
+    "zhCN": "乔姨",
+    "zhTW": "喬姨",
+    "pronunciationJa": "きょうおば",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "石門にいる人物",
+    "id": "aunt-qiao",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Jianqiu",
+    "ja": "鑑秋",
+    "zhCN": "鉴秋",
+    "zhTW": "鑒秋",
+    "pronunciationJa": "かんしゅう",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "石門にいる人物",
+    "id": "jianqiu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Huachu",
+    "ja": "花初",
+    "zhCN": "花初",
+    "zhTW": "花初",
+    "pronunciationJa": "かしょ",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "石門にいる人物",
+    "id": "huachu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Sleepy",
+    "ja": "惚け者",
+    "zhCN": "大迷糊",
+    "zhTW": "大迷糊",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "石門にいる人物",
+    "id": "sleepy",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Qinglian",
+    "ja": "青蓮",
+    "zhCN": "青莲",
+    "zhTW": "青蓮",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "石門の南にある村にいる人物",
+    "id": "qinglian",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Zhuyu",
+    "ja": "グミ",
+    "zhCN": "茱萸",
+    "zhTW": "茱萸",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "石門の南にある村にいる人物",
+    "id": "zhuyu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Hui",
+    "ja": "フェイ",
+    "zhCN": "辉子",
+    "zhTW": "輝子",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "荻花洲にいる人物",
+    "id": "hui",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Strong",
+    "ja": "大壮",
+    "zhCN": "大壮",
+    "zhTW": "大壮",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "荻花洲にいるキャラクター。犬",
+    "id": "strong",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Hulu",
+    "ja": "ヒョウタン",
+    "zhCN": "葫芦",
+    "zhTW": "葫蘆",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "荻花洲にいる人物。商人",
+    "id": "hulu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Yu",
+    "ja": "羽",
+    "zhCN": "小羽",
+    "zhTW": "小羽",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "荻花洲にいる人物",
+    "id": "yu",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Yuhua",
+    "ja": "毓華",
+    "zhCN": "毓华",
+    "zhTW": "毓華",
+    "notesEn": "Inn waitress",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "望舒旅館の受付係",
+    "id": "yuhua",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Madame Qin",
+    "ja": "秦夫人",
+    "zhCN": "秦夫人",
+    "zhTW": "秦夫人",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物",
+    "id": "madame-qin",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Master Hui",
+    "ja": "輝おぼっちゃん",
+    "zhCN": "辉少",
+    "zhTW": "輝少",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物",
+    "id": "master-hui",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Xi the Maid",
+    "ja": "茜",
+    "zhCN": "小茜",
+    "zhTW": "小茜",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物",
+    "id": "xi-the-maid",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Huangshan",
+    "ja": "黄衣",
+    "zhCN": "黄衫",
+    "zhTW": "黄衫",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物",
+    "id": "huangshan",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Qingzhou",
+    "ja": "清昼",
+    "zhCN": "清昼",
+    "zhTW": "清晝",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物",
+    "id": "qingzhou",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Zhen Qiang",
+    "ja": "甄強",
+    "zhCN": "甄强",
+    "zhTW": "甄強",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "望舒旅館にいる人物",
+    "id": "zhen-qiang",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Little Yue",
+    "ja": "小月",
+    "zhCN": "小月",
+    "zhTW": "小月",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "死兆星号にいる人物",
+    "id": "little-yue",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Furong",
+    "ja": "芙蓉",
+    "zhCN": "芙蓉",
+    "zhTW": "芙蓉",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "死兆星号にいる人物",
+    "id": "furong",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Huixing",
+    "ja": "絵星",
+    "zhCN": "绘星",
+    "zhTW": "繪星",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "死兆星号にいる人物",
+    "id": "huixing",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Mora-Grubber",
+    "ja": "銭目",
+    "zhCN": "钱眼儿",
+    "zhTW": "錢眼兒",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "死兆星号にいる人物",
+    "id": "mora-grubber",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Sea Drake",
+    "ja": "海龍",
+    "zhCN": "海龙",
+    "zhTW": "海龍",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "死兆星号にいる人物",
+    "id": "sea-drake",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Juza",
+    "ja": "重佐",
+    "zhCN": "重佐",
+    "zhTW": "重佐",
+    "pronunciationJa": "じゅうさ",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "死兆星号にいる人物",
+    "id": "juza",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Iron Ingot",
+    "ja": "鉄塊",
+    "zhCN": "铁块儿",
+    "zhTW": "鐵塊兒",
+    "pronunciationJa": "てっかい",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "遁玉の丘にいる人物",
+    "id": "iron-ingot",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Ziwei",
+    "ja": "紫微",
+    "zhCN": "紫微",
+    "zhTW": "紫微",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "遁玉の丘にいる人物",
+    "id": "ziwei",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Little Que'er",
+    "ja": "小鳥",
+    "zhCN": "小雀儿",
+    "zhTW": "小雀兒",
+    "pronunciationJa": "ことり",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "デイリー任務「稽古の邪魔」「剣が旅立つ日」などに登場する人物。奥蔵山と華光の林の山間にいる",
+    "id": "little-queer",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Vermeer",
+    "ja": "フェルメール",
+    "zhCN": "梵米尔",
+    "zhTW": "梵米爾",
+    "tags": [
+      "liyue",
+      "mondstadt",
+      "character-sub"
+    ],
+    "notes": "世界任務「漉華の風景画」に登場する人物。漉華の池にいる",
+    "id": "vermeer",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Xinghuo",
+    "ja": "星火",
+    "zhCN": "星火",
+    "zhTW": "星火",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "帰離原にいる人物。千岩軍",
+    "id": "xinghuo",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Echo",
+    "ja": "エコウ",
+    "zhCN": "艾珂",
+    "zhTW": "艾珂",
+    "tags": [
+      "liyue",
+      "character-sub"
+    ],
+    "notes": "帰離原にいる人物。千岩軍",
+    "id": "echo",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Wanmin Restaurant",
+    "ja": "万民堂",
+    "zhCN": "万民堂",
+    "zhTW": "萬民堂",
+    "pronunciationJa": "ばんみんどう",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある食堂",
+    "id": "wanmin-restaurant",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Bubu Pharmacy",
+    "ja": "不卜廬",
+    "zhCN": "不卜庐",
+    "zhTW": "不卜廬",
+    "pronunciationJa": "ふぼくろ",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある薬屋",
+    "variants": {
+      "ja": [
+        "不卜盧"
+      ]
+    },
+    "id": "bubu-pharmacy",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Wanwen Bookhouse",
+    "ja": "万文集舎",
+    "zhCN": "万文集舍",
+    "zhTW": "萬文集舍",
+    "pronunciationJa": "まんぶんしゅうしゃ",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある書店",
+    "id": "wanwen-bookhouse",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Yanshang Teahouse",
+    "ja": "岩上茶室",
+    "zhCN": "岩上茶室",
+    "zhTW": "岩上茶室",
+    "pronunciationJa": "がんじょうちゃしつ",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある茶屋",
+    "id": "yanshang-teahouse",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Liuli Pavilion",
+    "ja": "琉璃亭",
+    "zhCN": "琉璃亭",
+    "zhTW": "琉璃亭",
+    "pronunciationJa": "るりてい",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある店",
+    "variants": {
+      "ja": [
+        "瑠璃亭"
+      ]
+    },
+    "id": "liuli-pavilion",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Xinyue Kiosk",
+    "ja": "新月軒",
+    "zhCN": "新月轩",
+    "zhTW": "新月軒",
+    "pronunciationJa": "しんげつけん",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある店",
+    "id": "xinyue-kiosk",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Third-Round Knockout",
+    "ja": "三杯酔",
+    "zhCN": "三碗不过港",
+    "zhTW": "三碗不過港",
+    "pronunciationJa": "さんばいよい",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある酒場",
+    "id": "third-round-knockout",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Heyu Tea House",
+    "ja": "和裕茶館",
+    "zhCN": "和裕茶馆",
+    "zhTW": "和裕茶館",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある茶館",
+    "id": "heyu-tea-house",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Scent of Spring",
+    "ja": "春香窯",
+    "zhCN": "春香窑",
+    "zhTW": "春香窯",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある鶯の店",
+    "id": "scent-of-spring",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2023-03-10"
+  },
+  {
+    "en": "The Jade Mystery",
+    "ja": "解翠行",
+    "zhCN": "解翠行",
+    "zhTW": "解翠行",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある石商の鉱石店",
+    "id": "the-jade-mystery",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2023-07-29"
+  },
+  {
+    "en": "Mingxing Jewelry",
+    "ja": "明星斎",
+    "zhCN": "明星斋",
+    "zhTW": "明星齋",
+    "pronunciationJa": "みょうじょうさい",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある岩の印をアイテムと交換できる店",
+    "id": "mingxing-jewelry",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2023-04-03"
+  },
+  {
+    "en": "Baiju Guesthouse",
+    "ja": "白駒逆旅",
+    "zhCN": "白驹逆旅",
+    "zhTW": "白駒逆旅",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある旅館",
+    "id": "baiju-guesthouse",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Xigu Antiques",
+    "ja": "希古居",
+    "zhCN": "希古居",
+    "zhTW": "希古居",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある店",
+    "id": "xigu-antiques",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Wanyou Boutique",
+    "ja": "万有商舗",
+    "zhCN": "万有铺子",
+    "zhTW": "萬有鋪子",
+    "tags": [
+      "liyue",
+      "facility"
+    ],
+    "notes": "璃月港にある店",
+    "id": "wanyou-boutique",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Wangshan Hall",
+    "ja": "王山庁",
+    "zhCN": "王山厅",
+    "zhTW": "王山廳",
+    "tags": [
+      "liyue",
+      "location"
+    ],
+    "notes": "霊濛山に存在する「古華派」の本拠地",
+    "id": "wangshan-hall",
+    "updatedAt": "2026-03-01",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "en": "Rollon",
+    "ja": "ロロン",
+    "zhCN": "罗洛",
+    "zhTW": "羅洛",
+    "notes": "クリフサイド・キャンプにいる人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "rollon",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Anleifr",
+    "ja": "アンライフ",
+    "zhCN": "安莱夫",
+    "zhTW": "安萊夫",
+    "notes": "クリフサイド・キャンプにいる人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "anleifr",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Bjorn",
+    "ja": "ビョルン",
+    "zhCN": "比约恩",
+    "zhTW": "比約恩",
+    "notes": "クリフサイド・キャンプにいる人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "bjorn",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Egle",
+    "ja": "エーグル",
+    "zhCN": "伊捷莉",
+    "zhTW": "伊捷莉",
+    "notes": "クリフサイド・キャンプにいる人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "egle",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Olav",
+    "ja": "オラヴィ",
+    "zhCN": "奥拉维",
+    "zhTW": "奧拉維",
+    "notes": "ピラミダにいる人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "olav",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Vacarao",
+    "ja": "ヴァカロー",
+    "zhCN": "瓦加劳",
+    "zhTW": "瓦加勞",
+    "notes": "波追いの峠にいる人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "vacarao",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lantainen",
+    "ja": "ランタネン",
+    "zhCN": "兰塔宁",
+    "zhTW": "蘭塔寧",
+    "notes": "海を望めぬ峰にいる人物。ライトキーパー",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "lantainen",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Solovei",
+    "ja": "ソロヴィ",
+    "zhCN": "索洛维",
+    "zhTW": "索洛維",
+    "notes": "ライトキーパー創設者",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "solovei",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Alia",
+    "ja": "アリエー",
+    "zhCN": "爱莉厄",
+    "zhTW": "愛莉厄",
+    "notes": "過去の詠月使。月下見聞「逆位置の塔」「夜明けはいつか訪れる」などに登場する人物",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "alia",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Aedon",
+    "ja": "アドン",
+    "zhCN": "阿咚",
+    "zhTW": "阿咚",
+    "notes": "イルーガが連れているキャラクター",
+    "tags": [
+      "nodkrai",
+      "character-sub"
+    ],
+    "id": "aedon",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Sugar Sculpture: Illuga",
+    "ja": "飴細工・イルーガ",
+    "zhCN": "糖雕·叶洛亚",
+    "zhTW": "糖雕·葉洛亞",
+    "pronunciationJa": "あめざいく・イルーガ",
+    "notes": "チームにイルーガが加入した状態でナシャタウンにいるウナーヤタに話しかけると貰える飴細工。期限は24時間",
+    "tags": [
+      "food"
+    ],
+    "id": "sugar-sculpture-illuga",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Fireside Merriment",
+    "ja": "キャンプファイヤーの狂喜",
+    "zhCN": "篝火边的欢腾",
+    "zhTW": "篝火邊的歡騰",
+    "tags": [
+      "food",
+      "nodkrai"
+    ],
+    "id": "fireside-merriment",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-12"
+  },
+  {
+    "en": "Crispy Spring Rolls",
+    "ja": "カリカリ春巻き",
+    "zhCN": "香炸春卷",
+    "zhTW": "香炸春捲",
+    "tags": [
+      "food"
+    ],
+    "id": "crispy-spring-rolls",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lucky Snow Delight",
+    "ja": "豊穣瑞雪餅",
+    "zhCN": "穰穰瑞雪糕",
+    "zhTW": "穰穰瑞雪糕",
+    "tags": [
+      "food"
+    ],
+    "id": "lucky-snow-delight",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Flavor of Spring",
+    "ja": "春鮮揚げ",
+    "zhCN": "炸春鲜",
+    "zhTW": "炸春鮮",
+    "tags": [
+      "food",
+      "nodkrai"
+    ],
+    "notesEn": "Zibai's specialty",
+    "notes": "茲白のオリジナル料理",
+    "notesZh": "兹白的特色料理",
+    "id": "flavor-of-spring",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Nightwatch Soup",
+    "ja": "夜廻りのスープ",
+    "zhCN": "夜守暖汤",
+    "zhTW": "夜守暖湯",
+    "pronunciationJa": "よまわりのスープ",
+    "tags": [
+      "food",
+      "nodkrai"
+    ],
+    "notesEn": "Illuga's specialty",
+    "notes": "イルーガのオリジナル料理",
+    "notesZh": "叶洛亚的特色料理",
+    "id": "nightwatch-soup",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "The First Iron Coin",
+    "ja": "「最初の鉄銭」",
+    "zhCN": "「最初的铁钱」",
+    "zhTW": "「最初的鐵錢」",
+    "tags": [
+      "item",
+      "liyue"
+    ],
+    "pronunciationJa": "さいしょのてつせん",
+    "notes": "月下見聞「寒鴉の系譜」報酬",
+    "id": "the-first-iron-coin",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lang-Gan",
+    "ja": "琅玕",
+    "zhCN": "琅玕",
+    "zhTW": "琅玕",
+    "notes": "層岩巨淵の位置に、かつて存在していた国",
+    "pronunciationJa": "ろうかん",
+    "tags": [
+      "liyue",
+      "location"
+    ],
+    "id": "lang-gan",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Arrow of Terpikeranuas",
+    "ja": "テルピケラウナスの矢",
+    "zhCN": "德肋庇革劳诺之箭",
+    "zhTW": "德肋庇革勞諾之箭",
+    "pronunciationJa": "テルピケラウナスのや",
+    "tags": [
+      "nodkrai",
+      "object"
+    ],
+    "id": "arrow-of-terpikeranuas",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Tower of Inversion",
+    "ja": "逆位置の塔",
+    "zhCN": "逆位之塔",
+    "zhTW": "逆位之塔",
+    "pronunciationJa": "ぎゃくいちのとう",
+    "tags": [
+      "nodkrai",
+      "quest-world",
+      "quest-selenic"
+    ],
+    "id": "tower-of-inversion",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-12"
+  },
+  {
+    "en": "Echoes of a Forsaken Song",
+    "ja": "追放者の淋しい歌",
+    "zhCN": "放逐者的荒歌",
+    "zhTW": "放逐者的荒歌",
+    "pronunciationJa": "ついほうしゃのさびしいうた",
+    "tags": [
+      "nodkrai",
+      "quest-selenic"
+    ],
+    "id": "echoes-of-a-forsaken-song",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Return to Sender",
+    "ja": "主のもとへ",
+    "zhCN": "物归原主",
+    "zhTW": "物歸原主",
+    "pronunciationJa": "しゅのもとへ",
+    "tags": [
+      "nodkrai",
+      "quest-selenic"
+    ],
+    "id": "return-to-sender",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-12"
+  },
+  {
+    "en": "When War Songs Rise",
+    "ja": "戦歌を口ずさむ時",
+    "zhCN": "战歌吟唱时",
+    "zhTW": "戰歌吟唱時",
+    "pronunciationJa": "せんかをくちずさむとき",
+    "tags": [
+      "nodkrai",
+      "quest-selenic"
+    ],
+    "id": "when-war-songs-rise",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Reverberation of Heroic Spirits",
+    "ja": "英霊の残響",
+    "zhCN": "英灵的残响",
+    "zhTW": "英靈的殘響",
+    "pronunciationJa": "えいれいのざんきょう",
+    "tags": [
+      "nodkrai",
+      "quest-selenic"
+    ],
+    "id": "reverberation-of-heroic-spirits",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-12"
+  },
+  {
+    "en": "Wind-Stirred Ripples",
+    "ja": "波風",
+    "zhCN": "风起微澜",
+    "zhTW": "風起微瀾",
+    "pronunciationJa": "なみかぜ",
+    "tags": [
+      "nodkrai",
+      "quest-selenic"
+    ],
+    "id": "wind-stirred-ripples",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-12"
+  },
+  {
+    "en": "The Last Night, the First Light",
+    "ja": "夜明けはいつか訪れる",
+    "zhCN": "终至破晓",
+    "zhTW": "終至破曉",
+    "pronunciationJa": "よあけはいつかおとずれる",
+    "tags": [
+      "nodkrai",
+      "quest-selenic"
+    ],
+    "id": "the-last-night-the-first-light",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "The Raven's Legacy",
+    "ja": "寒鴉の系譜",
+    "zhCN": "寒鸦的系谱",
+    "zhTW": "寒鴉的系譜",
+    "pronunciationJa": "かんがのけいふ",
+    "tags": [
+      "nodkrai",
+      "quest-selenic"
+    ],
+    "id": "the-ravens-legacy",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-12"
+  },
+  {
+    "en": "To Turn Each Sin Against the Sinner",
+    "ja": "罪を以って罪人を罰す",
+    "zhCN": "以罪行惩戒罪人",
+    "zhTW": "以罪行懲戒罪人",
+    "pronunciationJa": "つみをもってつみひとをばっす",
+    "tags": [
+      "nodkrai",
+      "quest-world",
+      "quest-selenic"
+    ],
+    "id": "to-turn-each-sin-against-the-sinner",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-12"
+  },
+  {
+    "en": "Winter Icelea",
+    "ja": "ヴィンテル草",
+    "zhCN": "冬凌草",
+    "zhTW": "冬凌草",
+    "pronunciationJa": "ヴィンテルそう",
+    "tags": [
+      "specialty",
+      "nodkrai"
+    ],
+    "id": "winter-icelea",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Pine Amber",
+    "ja": "琥珀香",
+    "zhCN": "松珀香",
+    "zhTW": "松珀香",
+    "pronunciationJa": "こはくこう",
+    "tags": [
+      "specialty",
+      "nodkrai"
+    ],
+    "id": "pine-amber",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lightbearing Moonshard",
+    "ja": "三日月の含光",
+    "zhCN": "朏魄含光",
+    "zhTW": "朏魄含光",
+    "pronunciationJa": "みかづきのがんこう",
+    "tags": [
+      "weapon",
+      "sword"
+    ],
+    "id": "lightbearing-moonshard",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lantern Rite",
+    "ja": "海灯祭",
+    "zhCN": "海灯节",
+    "zhTW": "海燈節",
+    "pronunciationJa": "かいとうさい",
+    "notes": "v1.3、v2.4、v3.4、v4.4、v5.3 及び v6.3(LunaIV) 期間限定イベント。璃月の祭り。",
+    "tags": [
+      "liyue",
+      "event"
+    ],
+    "id": "lantern-rite",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2022-01-01"
+  },
+  {
+    "en": "Moonlit Patrol Exercise",
+    "ja": "巡月演習",
+    "zhCN": "月引周巡之述演",
+    "zhTW": "月引週巡之述演",
+    "tags": [
+      "event",
+      "nodkrai"
+    ],
+    "notesEn": "Limited Time Event in v6.3(LunaIV)",
+    "pronunciationJa": "じゅんげつえんしゅう",
+    "notes": "v6.3(LunaIV) 期間限定イベント",
+    "notesZh": "v6.3(LunaIV) 中的限时活动",
+    "id": "moonlit-patrol-exercise",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "A Lanternlit Ode to the Silver Moon",
+    "ja": "天を翔ける玉輪の軌跡",
+    "zhCN": "奔霄颂玉轮",
+    "zhTW": "奔霄頌玉輪",
+    "tags": [
+      "event",
+      "liyue"
+    ],
+    "notesEn": "Limited Time Event in v6.3(LunaIV)",
+    "pronunciationJa": "てんをかけるぎょくりんのきせき",
+    "notes": "v6.3(LunaIV) 期間限定イベント",
+    "notesZh": "v6.3(LunaIV) 中的限时活动",
+    "id": "a-lanternlit-ode-to-the-silver-moon",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Vigorous Brushstrokes",
+    "ja": "龍飛鳳舞",
+    "zhCN": "笔腾墨跃",
+    "zhTW": "筆騰墨躍",
+    "tags": [
+      "event",
+      "liyue"
+    ],
+    "notesEn": "v6.3(LunaIV) Sub-events of the Limited Time Event \"A Lanternlit Ode to the Silver Moon\"",
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」の子イベント",
+    "notesZh": "限时活动「奔霄颂玉轮」v6.3(LunaIV) 子活动",
+    "id": "vigorous-brushstrokes",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Wishes Contended, Fortunes Won",
+    "ja": "如意闘彩",
+    "zhCN": "如意斗彩",
+    "zhTW": "如意鬥彩",
+    "tags": [
+      "event",
+      "liyue"
+    ],
+    "notesEn": "v6.3(LunaIV) Sub-events of the Limited Time Event \"A Lanternlit Ode to the Silver Moon\"",
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」の子イベント",
+    "notesZh": "限时活动「奔霄颂玉轮」v6.3(LunaIV) 子活动",
+    "id": "wishes-contended-fortunes-won",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "The Moonlit Adeptus's Trail",
+    "ja": "月影の仙跡",
+    "zhCN": "月映仙踪",
+    "zhTW": "月映仙蹤",
+    "tags": [
+      "event",
+      "liyue"
+    ],
+    "notesEn": "v6.3(LunaIV) Sub-events of the Limited Time Event \"A Lanternlit Ode to the Silver Moon\"",
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」の子イベント",
+    "notesZh": "限时活动「奔霄颂玉轮」v6.3(LunaIV) 子活动",
+    "id": "the-moonlit-adeptuss-trail",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "The White Horse Adeptus Meets the White Horse Adeptus in Liyue Harbor",
+    "ja": "白馬の仙人、璃月港で白馬の仙人を見る",
+    "zhCN": "白马仙人在璃月港参观白马仙人",
+    "zhTW": "白馬仙人在璃月港參觀白馬仙人",
+    "tags": [
+      "event",
+      "liyue",
+      "item"
+    ],
+    "pronunciationJa": "はくばのせんにん りーゆえこうではくばのせんにんをみる",
+    "notesEn": "v6.3(LunaIV) Limited Time Event \"A Lanternlit Ode to the Silver Moon\" Reward",
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」報酬",
+    "notesZh": "v6.3(LunaIV) 限时活动「奔霄颂玉轮」奖励",
+    "id": "the-white-horse-adeptus-meets-the-white-horse-adeptus-in-liyue-harbor",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Pingxi",
+    "ja": "萍渓",
+    "zhCN": "萍溪",
+    "zhTW": "萍溪",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物",
+    "id": "pingxi",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Manmu",
+    "ja": "満目",
+    "zhCN": "满目",
+    "zhTW": "滿目",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物",
+    "id": "manmu",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Baofei",
+    "ja": "バオフェイ",
+    "zhCN": "报菲",
+    "zhTW": "報菲",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物",
+    "id": "baofei",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Wenji",
+    "ja": "聞冀",
+    "zhCN": "闻冀",
+    "zhTW": "聞冀",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物",
+    "id": "wenji",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Guilan",
+    "ja": "桂瀾",
+    "zhCN": "桂澜",
+    "zhTW": "桂瀾",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物",
+    "id": "guilan",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lu Xiangxiang",
+    "ja": "盧香香",
+    "zhCN": "卢香香",
+    "zhTW": "盧香香",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "pronunciationJa": "ろこうこう",
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物。盧じいの孫",
+    "id": "lu-xiangxiang",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lu Weng",
+    "ja": "盧じい",
+    "zhCN": "卢翁",
+    "zhTW": "盧翁",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "pronunciationJa": "ろじい",
+    "notesEn": "Owner, Baiju Guesthouse. v6.3(LunaIV) Limited Time Event \"A Lanternlit Ode to the Silver Moon\" character",
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物。「白駒逆旅」旅館のオーナー",
+    "id": "lu-weng",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lil' Li",
+    "ja": "力くん",
+    "zhCN": "阿力",
+    "zhTW": "阿力",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "pronunciationJa": "りきくん",
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物",
+    "id": "lil-li",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Lil' Tian",
+    "ja": "甘ちゃん",
+    "zhCN": "阿甜",
+    "zhTW": "阿甜",
+    "tags": [
+      "event",
+      "character-sub",
+      "liyue"
+    ],
+    "pronunciationJa": "あまちゃん",
+    "notes": "v6.3(LunaIV) 期間限定イベント「天を翔ける玉輪の軌跡」に登場する人物",
+    "id": "lil-tian",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "en": "Hot in a Flash, or Cold Just as Fast?",
+    "ja": "「瞬影」レンズ! 早くも人気に陰りあり!?",
+    "zhCN": "「瞬影」镜头! 瞬间遇冷?",
+    "zhTW": "「瞬影」鏡頭! 瞬間遇冷?",
+    "tags": [
+      "event",
+      "fontaine"
+    ],
+    "pronunciationJa": "しゅんえいレンズ はやくもにんきにかげりあり",
+    "notesEn": "v6.3(LunaIV) Story of the Limited Time Event Limited \"Shutterflash Memory Hunt\"",
+    "notes": "v6.3(LunaIV) 期間限定イベント「一瞬一瞬が最高の思い出!」内ストーリー",
+    "notesZh": "限时活动「瞬影旅集」v6.3(LunaIV) 活动故事",
+    "id": "hot-in-a-flash-or-cold-just-as-fast",
+    "updatedAt": "2026-02-26",
+    "createdAt": "2026-02-12"
+  },
+  {
     "en": "The Doctor",
     "ja": "博士",
     "zhCN": "博士",
@@ -36,8 +4942,8 @@
     ],
     "notes": "メリュシー村に住むメリュジーヌ",
     "id": "flo",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Virda",
@@ -50,8 +4956,8 @@
     ],
     "notes": "メリュシー村に住むメリュジーヌ",
     "id": "virda",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Laume",
@@ -64,8 +4970,8 @@
     ],
     "notes": "メリュシー村に住むメリュジーヌ",
     "id": "laume",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Granna",
@@ -78,8 +4984,8 @@
     ],
     "notes": "メリュシー村に住むメリュジーヌ",
     "id": "granna",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Pahsiv",
@@ -92,8 +4998,8 @@
     ],
     "notes": "世界任務「エリニュスのはぐれ精霊」や「海の精霊たちの贈り物」に登場するメリュジーヌ。世界任務「海の精霊たちの贈り物」で、ヴィシャップからメリュジーヌに進化したことが、ヌヴィレットによって明かされている",
     "id": "pahsiv",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Hiljetta",
@@ -108,8 +5014,8 @@
       "enemy-legend"
     ],
     "id": "hiljetta",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Alida",
@@ -122,8 +5028,8 @@
       "character-sub"
     ],
     "id": "alida",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Illki",
@@ -137,8 +5043,8 @@
       "character-sub"
     ],
     "id": "illki",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Koski",
@@ -151,8 +5057,8 @@
       "character-sub"
     ],
     "id": "koski",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Mahla",
@@ -165,8 +5071,8 @@
       "character-sub"
     ],
     "id": "mahla",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Maika",
@@ -179,8 +5085,8 @@
       "character-sub"
     ],
     "id": "maika",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Oskari",
@@ -193,8 +5099,8 @@
       "character-sub"
     ],
     "id": "oskari",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Janusz",
@@ -207,8 +5113,8 @@
       "character-sub"
     ],
     "id": "janusz",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Alena",
@@ -221,8 +5127,8 @@
       "character-sub"
     ],
     "id": "alena",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Kuzmich",
@@ -235,8 +5141,8 @@
       "character-sub"
     ],
     "id": "kuzmich",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Ulyana",
@@ -249,8 +5155,8 @@
       "character-sub"
     ],
     "id": "ulyana",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Inga",
@@ -263,8 +5169,8 @@
       "character-sub"
     ],
     "id": "inga",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Beryna",
@@ -277,8 +5183,8 @@
       "character-sub"
     ],
     "id": "beryna",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Levonty",
@@ -291,8 +5197,8 @@
       "character-sub"
     ],
     "id": "levonty",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Radoslaw",
@@ -305,8 +5211,8 @@
       "character-sub"
     ],
     "id": "radoslaw",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Lauri",
@@ -319,8 +5225,8 @@
       "character-sub"
     ],
     "id": "lauri",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Ivar",
@@ -333,8 +5239,8 @@
       "character-sub"
     ],
     "id": "ivar",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Dragana",
@@ -347,8 +5253,8 @@
       "character-sub"
     ],
     "id": "dragana",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Paivio",
@@ -361,8 +5267,8 @@
       "character-sub"
     ],
     "id": "paivio",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Kofitse",
@@ -375,8 +5281,8 @@
       "character-sub"
     ],
     "id": "kofitse",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Gabieta",
@@ -389,8 +5295,8 @@
       "character-sub"
     ],
     "id": "gabieta",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Dzenana",
@@ -404,8 +5310,8 @@
       "character-sub"
     ],
     "id": "dzenana",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Malusha",
@@ -418,8 +5324,8 @@
       "character-sub"
     ],
     "id": "malusha",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Lyubertsi",
@@ -432,8 +5338,8 @@
       "character-sub"
     ],
     "id": "lyubertsi",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Hertta",
@@ -446,8 +5352,8 @@
       "character-sub"
     ],
     "id": "hertta",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Wszebor",
@@ -460,8 +5366,8 @@
       "character-sub"
     ],
     "id": "wszebor",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Patolichev",
@@ -474,8 +5380,8 @@
       "character-sub"
     ],
     "id": "patolichev",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Nikita",
@@ -488,8 +5394,8 @@
       "character-sub"
     ],
     "id": "nikita",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Winfried",
@@ -503,8 +5409,8 @@
       "character-sub"
     ],
     "id": "winfried",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Erminie",
@@ -518,8 +5424,8 @@
       "character-sub"
     ],
     "id": "erminie",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Anselm",
@@ -533,8 +5439,8 @@
       "character-sub"
     ],
     "id": "anselm",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Laurent",
@@ -548,8 +5454,8 @@
       "character-sub"
     ],
     "id": "laurent",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Nannina",
@@ -563,8 +5469,8 @@
       "character-sub"
     ],
     "id": "nannina",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Ekbert",
@@ -578,8 +5484,8 @@
       "character-sub"
     ],
     "id": "ekbert",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Leifhelm",
@@ -593,8 +5499,8 @@
       "character-sub"
     ],
     "id": "leifhelm",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Donatas",
@@ -608,8 +5514,8 @@
       "character-sub"
     ],
     "id": "donatas",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Read Miller",
@@ -623,8 +5529,8 @@
       "character-sub"
     ],
     "id": "read-miller",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Avrelian",
@@ -638,8 +5544,8 @@
       "character-sub"
     ],
     "id": "avrelian",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Eternal Moon Goddess",
@@ -667,8 +5573,8 @@
       "character-sub"
     ],
     "id": "aria",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Canon",
@@ -681,8 +5587,8 @@
       "character-sub"
     ],
     "id": "canon",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Sonnet",
@@ -695,8 +5601,8 @@
       "character-sub"
     ],
     "id": "sonnet",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Moonchild's Treasures",
@@ -709,8 +5615,8 @@
       "domain"
     ],
     "id": "moonchilds-treasures",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "False Moon Institute",
@@ -723,8 +5629,8 @@
       "domain"
     ],
     "id": "false-moon-institute",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Knuckle Duckle",
@@ -737,8 +5643,8 @@
       "enemy-boss"
     ],
     "id": "knuckle-duckle",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Frostnight Herra",
@@ -766,8 +5672,8 @@
       "enemy"
     ],
     "id": "surging-currents-frostnight-scion",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Gilded Sunshard: Frostnight Scion",
@@ -780,8 +5686,8 @@
       "enemy"
     ],
     "id": "gilded-sunshard-frostnight-scion",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Fisher of Hidden Depths",
@@ -794,8 +5700,8 @@
       "enemy"
     ],
     "id": "fisher-of-hidden-depths",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Lord of the Hidden Depths: Whisperer of Nightmares",
@@ -808,8 +5714,8 @@
       "enemy-boss"
     ],
     "id": "lord-of-the-hidden-depths-whisperer-of-nightmares",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Crab Tsar",
@@ -838,8 +5744,8 @@
       "enemy-legend"
     ],
     "id": "hexadecatonic-mandragora",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "\"The Homesick Lone Wolf\"",
@@ -853,8 +5759,8 @@
       "enemy-legend"
     ],
     "id": "the-homesick-lone-wolf",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Sugar Sculpture: Kuuhenki",
@@ -867,8 +5773,8 @@
       "food"
     ],
     "id": "sugar-sculpture-kuuhenki",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Sugar Sculpture: Nefer",
@@ -881,8 +5787,8 @@
       "food"
     ],
     "id": "sugar-sculpture-nefer",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Sugar Sculpture: Jahoda",
@@ -895,8 +5801,8 @@
       "food"
     ],
     "id": "sugar-sculpture-jahoda",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Sugar Sculpture: Columbina",
@@ -909,8 +5815,8 @@
       "food"
     ],
     "id": "sugar-sculpture-columbina",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Veggie Pot Soup",
@@ -921,20 +5827,8 @@
       "food"
     ],
     "id": "veggie-pot-soup",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
-  },
-  {
-    "en": "Fireside Merriment",
-    "ja": "キャンプファイヤーの狂喜",
-    "zhCN": "篝火边的欢腾",
-    "zhTW": "篝火邊的歡騰",
-    "tags": [
-      "food"
-    ],
-    "id": "fireside-merriment",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Mushroom Phantasm",
@@ -945,8 +5839,8 @@
       "food"
     ],
     "id": "mushroom-phantasm",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Berry Herbal Candy",
@@ -957,8 +5851,8 @@
       "food"
     ],
     "id": "berry-herbal-candy",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Moonlit Mirage",
@@ -973,8 +5867,8 @@
     "notes": "コロンビーナのオリジナル料理",
     "notesZh": "哥伦比娅的特色料理",
     "id": "moonlit-mirage",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Moon-Prayer Blossom From Columbina",
@@ -987,8 +5881,8 @@
       "nodkrai"
     ],
     "id": "moon-prayer-blossom-from-columbina",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Marionette's Notebook",
@@ -1002,8 +5896,8 @@
       "fontaine"
     ],
     "id": "marionettes-notebook",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "As Heaven and Earth Are Made Anew",
@@ -1013,8 +5907,8 @@
     "pronunciationJa": "あらたなるてんち",
     "notes": "旅人のコスチューム",
     "id": "as-heaven-and-earth-are-made-anew",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Melusent Gift",
@@ -1024,8 +5918,8 @@
     "pronunciationJa": "メリュジーヌのおくりもの",
     "notes": "ヌヴィレットのコスチューム",
     "id": "melusent-gift",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Rainlit Bamboo Reverie",
@@ -1035,8 +5929,8 @@
     "pronunciationJa": "ちくりんにひびくあまおと",
     "notes": "ヨォーヨのコスチューム",
     "id": "rainlit-bamboo-reverie",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Violet Ibis",
@@ -1048,8 +5942,8 @@
       "inazuma"
     ],
     "id": "violet-ibis",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Blunthorn Rhino",
@@ -1061,8 +5955,8 @@
       "living-being"
     ],
     "id": "blunthorn-rhino",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Mandragora",
@@ -1074,8 +5968,8 @@
       "living-being"
     ],
     "id": "mandragora",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Slothsheep",
@@ -1087,8 +5981,8 @@
       "living-being"
     ],
     "id": "slothsheep",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Thornback Gecko",
@@ -1100,8 +5994,8 @@
       "living-being"
     ],
     "id": "thornback-gecko",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Pale-Furred Wolf",
@@ -1114,8 +6008,8 @@
       "living-being"
     ],
     "id": "pale-furred-wolf",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Radiant Glacial Wolf",
@@ -1128,8 +6022,8 @@
       "living-being"
     ],
     "id": "radiant-glacial-wolf",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Cinderneck Stork",
@@ -1142,8 +6036,8 @@
       "living-being"
     ],
     "id": "cinderneck-stork",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Voidsea Outlook",
@@ -1156,8 +6050,8 @@
       "location"
     ],
     "id": "voidsea-outlook",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Piramida",
@@ -1169,8 +6063,8 @@
       "location"
     ],
     "id": "piramida",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Dreadshade Mire",
@@ -1183,8 +6077,8 @@
       "location"
     ],
     "id": "dreadshade-mire",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Meeting Point: The Witch's Garden",
@@ -1197,8 +6091,8 @@
       "location"
     ],
     "id": "meeting-point-the-witchs-garden",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Wavechaser Plain",
@@ -1211,8 +6105,8 @@
       "location"
     ],
     "id": "wavechaser-plain",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Pillar of Embla",
@@ -1225,8 +6119,8 @@
       "location"
     ],
     "id": "pillar-of-embla",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Wing of Keres",
@@ -1239,8 +6133,8 @@
       "location"
     ],
     "id": "wing-of-keres",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Favonius Keep",
@@ -1253,8 +6147,8 @@
       "location"
     ],
     "id": "favonius-keep",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Cliffwatch Camp",
@@ -1266,8 +6160,8 @@
       "location"
     ],
     "id": "cliffwatch-camp",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Armvartnir",
@@ -1280,8 +6174,8 @@
       "location"
     ],
     "id": "armvartnir",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Ashveil Peak",
@@ -1294,8 +6188,8 @@
       "location"
     ],
     "id": "ashveil-peak",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Kipumaki Cliff",
@@ -1308,8 +6202,8 @@
       "location"
     ],
     "id": "kipumaki-cliff",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Special Territory Research Institute",
@@ -1322,8 +6216,8 @@
       "location"
     ],
     "id": "special-territory-research-institute",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "A Traveler on a Winter's Night",
@@ -1337,8 +6231,8 @@
     ],
     "notes": "空月の歌 第七幕",
     "id": "a-traveler-on-a-winters-night",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "True Moon",
@@ -1352,8 +6246,8 @@
     ],
     "notes": "空月の歌 第八幕",
     "id": "true-moon",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "A Toast Beneath the Moon",
@@ -1367,8 +6261,8 @@
       "quest-world"
     ],
     "id": "a-toast-beneath-the-moon",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "A Gift From the Sea Spirits",
@@ -1381,22 +6275,8 @@
       "quest-world"
     ],
     "id": "a-gift-from-the-sea-spirits",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
-  },
-  {
-    "en": "Reverberation of Heroic Spirits",
-    "ja": "英霊の残響",
-    "zhCN": "英灵的残响",
-    "zhTW": "英靈的殘響",
-    "pronunciationJa": "えいれいのざんきょう",
-    "tags": [
-      "nodkrai",
-      "quest-world"
-    ],
-    "id": "reverberation-of-heroic-spirits",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Prelude to the Night Vigil",
@@ -1409,64 +6289,8 @@
       "quest-world"
     ],
     "id": "prelude-to-the-night-vigil",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
-  },
-  {
-    "en": "Return to Sender",
-    "ja": "主のもとへ",
-    "zhCN": "物归原主",
-    "zhTW": "物歸原主",
-    "pronunciationJa": "しゅのもとへ",
-    "tags": [
-      "nodkrai",
-      "quest-world"
-    ],
-    "id": "return-to-sender",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
-  },
-  {
-    "en": "The Raven's Legacy",
-    "ja": "寒鴉の系譜",
-    "zhCN": "寒鸦的系谱",
-    "zhTW": "寒鴉的系譜",
-    "pronunciationJa": "かんがのけいふ",
-    "tags": [
-      "nodkrai",
-      "quest-world"
-    ],
-    "id": "the-ravens-legacy",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
-  },
-  {
-    "en": "Wind-Stirred Ripples",
-    "ja": "波風",
-    "zhCN": "风起微澜",
-    "zhTW": "風起微瀾",
-    "pronunciationJa": "なみかぜ",
-    "tags": [
-      "nodkrai",
-      "quest-world"
-    ],
-    "id": "wind-stirred-ripples",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
-  },
-  {
-    "en": "Tower of Inversion",
-    "ja": "逆位置の塔",
-    "zhCN": "逆位之塔",
-    "zhTW": "逆位之塔",
-    "pronunciationJa": "ぎゃくいちのとう",
-    "tags": [
-      "nodkrai",
-      "quest-world"
-    ],
-    "id": "tower-of-inversion",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Witch's Lodge",
@@ -1479,22 +6303,8 @@
       "quest-world"
     ],
     "id": "witchs-lodge",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
-  },
-  {
-    "en": "To Turn Each Sin Against the Sinner",
-    "ja": "罪を以って罪人を罰す",
-    "zhCN": "以罪行惩戒罪人",
-    "zhTW": "以罪行懲戒罪人",
-    "pronunciationJa": "つみをもってつみひとをばっす",
-    "tags": [
-      "nodkrai",
-      "quest-world"
-    ],
-    "id": "to-turn-each-sin-against-the-sinner",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "The Moonlit Watcher",
@@ -1507,8 +6317,8 @@
       "quest-world"
     ],
     "id": "the-moonlit-watcher",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "On This Intoxicating Night",
@@ -1521,8 +6331,8 @@
       "quest-world"
     ],
     "id": "on-this-intoxicating-night",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Nocturne's Curtain Call",
@@ -1535,8 +6345,8 @@
       "catalyst"
     ],
     "id": "nocturnes-curtain-call",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Shutterflash Memory Hunt",
@@ -1552,25 +6362,8 @@
     "notes": "v6.3(LunaIV) 期間限定イベント",
     "notesZh": "v6.3(LunaIV) 中的限时活动",
     "id": "shutterflash-memory-hunt",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
-  },
-  {
-    "en": "Hot in a Flash, or Cold Just as Fast?",
-    "ja": "「瞬影」レンズ! 早くも人気に陰りあり!?",
-    "zhCN": "「瞬影」镜头! 瞬间遇冷?",
-    "zhTW": "「瞬影」鏡頭! 瞬間遇冷?",
-    "tags": [
-      "event",
-      "fontaine"
-    ],
-    "pronunciationJa": "しゅんえいレンズ はやくもにんきにかげりあり",
-    "notesEn": "v6.1(LunaIV) Story of the Limited Time Event Limited \"Shutterflash Memory Hunt\"",
-    "notes": "v6.3(LunaIV) 期間限定イベント「一瞬一瞬が最高の思い出!」内ストーリー",
-    "notesZh": "限时活动「瞬影旅集」v6.3(LunaIV) 活动故事",
-    "id": "hot-in-a-flash-or-cold-just-as-fast",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Ninette",
@@ -1584,8 +6377,8 @@
     ],
     "notes": "v6.3(LunaIV) 期間限定イベント『「瞬影」レンズ! 早くも人気に陰りあり!?』に登場する人物",
     "id": "ninette",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "Heroic Clash: Saurian Brawl",
@@ -1600,8 +6393,8 @@
     "notes": "v6.2(LunaIII) 期間限定イベント",
     "notesZh": "v6.2(LunaIII) 中的限时活动",
     "id": "heroic-clash-saurian-brawl",
-    "createdAt": "2026-02-12",
-    "updatedAt": "2026-02-12"
+    "updatedAt": "2026-02-12",
+    "createdAt": "2026-02-12"
   },
   {
     "en": "A Surprise From a Fellow Comics Fan",
@@ -14504,22 +19297,6 @@
     "createdAt": "2023-09-17"
   },
   {
-    "en": "Jacques",
-    "ja": "ジャック",
-    "zhCN": "杰克",
-    "zhTW": "傑克",
-    "tags": [
-      "fontaine",
-      "character-sub"
-    ],
-    "notes": "魔神任務第4章第2幕に登場するキャラクター",
-    "notesZh": "魔神任务 第四章·第二幕「仿若无因飘落的轻雨」中的登场角色。",
-    "notesZhTW": "魔神任務 第四章·第二幕「仿若無因飄落的輕雨」中的登場角色。",
-    "id": "jacques",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2023-09-15"
-  },
-  {
     "en": "Phantom Weasel",
     "ja": "怪盗マーテン",
     "zhCN": "怪盗貂将",
@@ -17233,24 +22010,6 @@
     "createdAt": "2024-04-09"
   },
   {
-    "en": "Madame Ping",
-    "ja": "ピンばあや",
-    "zhCN": "萍姥姥",
-    "zhTW": "萍姥姥",
-    "tags": [
-      "liyue",
-      "character-sub",
-      "sereniteapot"
-    ],
-    "notesEn": "Streetward Rambler's popular name",
-    "notes": "歌塵浪市真君の俗名",
-    "notesZh": "歌尘浪市真君入世后的称呼。",
-    "notesZhTW": "歌塵浪市真君入世後的稱呼。",
-    "id": "madame-ping",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2022-01-01"
-  },
-  {
     "en": "Streetward Rambler",
     "ja": "歌塵浪市真君",
     "pronunciationJa": "かじんろういちしんくん",
@@ -17595,23 +22354,6 @@
     "createdAt": "2022-01-01"
   },
   {
-    "en": "Chef Mao",
-    "ja": "卯師匠",
-    "zhCN": "卯师傅",
-    "zhTW": "卯師傅",
-    "pronunciationJa": "うーししょう",
-    "notes": "香菱の父",
-    "notesZh": "香菱的父亲。",
-    "notesZhTW": "香菱的父親。",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "chef-mao",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2022-01-01"
-  },
-  {
     "en": "Yan'er",
     "ja": "イェン",
     "zhCN": "胭儿",
@@ -17825,41 +22567,6 @@
     "id": "ms-yu",
     "updatedAt": "2025-07-08",
     "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Jiawei",
-    "ja": "嘉瑋",
-    "zhCN": "嘉玮",
-    "zhTW": "嘉瑋",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "notes": "璃月の漁師",
-    "notesEn": "Liyue Angler.",
-    "notesZh": "璃月的渔夫。",
-    "notesZhTW": "璃月的漁夫。",
-    "id": "jiawei",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2023-09-23"
-  },
-  {
-    "en": "Shitou",
-    "ja": "石商",
-    "zhCN": "石头",
-    "zhTW": "石頭",
-    "pronunciationJa": "せきしょう",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "notes": "鉱石を売っている店「解翠行」の店主",
-    "notesEn": "Owner of the ore shop \"Jade Mystery\".",
-    "notesZh": "赌石铺「解翠行」的店主。",
-    "notesZhTW": "賭石鋪「解翠行」的店主。",
-    "id": "shitou",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2023-07-29"
   },
   {
     "en": "Anton Melnikov",
@@ -18625,23 +23332,6 @@
     "createdAt": "2023-03-10"
   },
   {
-    "en": "Cyrus",
-    "ja": "サイリュス / ジュライセン",
-    "zhCN": "塞琉斯 / 居勒什",
-    "zhTW": "塞琉斯 / 居勒什",
-    "tags": [
-      "mondstadt",
-      "sumeru",
-      "character-sub"
-    ],
-    "notes": "サイリュスはモンドの冒険者協会の支部長。ジュライセンはスメール教令院におけるリサとセノの師。英語版ではどちらも Cyrus と表記される。発音も同じで、どちらも「サイラス」。",
-    "notesZh": "塞琉斯是蒙德冒险家协会的分会长。居勒什是须弥教令院中丽莎和赛诺的老师。在英文版中两人都被称作「Cyrus」，发音也相同。",
-    "notesZhTW": "塞琉斯是蒙德冒險家協會的分會長。居勒什是須彌教令院中麗莎和賽諾的老師。在英文版中兩人都被稱作「Cyrus」，發音也相同。",
-    "id": "cyrus",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2023-03-10"
-  },
-  {
     "en": "Adelinde",
     "ja": "アデリン",
     "zhCN": "爱德琳",
@@ -18675,23 +23365,6 @@
     "createdAt": "2022-01-01"
   },
   {
-    "en": "Margaret",
-    "ja": "マーガレット",
-    "zhCN": "玛格丽特",
-    "zhTW": "瑪格麗特",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "notes": "キャッツテールの店主",
-    "notesEn": "Boss at Cat's Tail.",
-    "notesZh": "猫尾酒馆的店主。",
-    "notesZhTW": "貓尾酒館的店主。",
-    "id": "margaret",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2023-04-09"
-  },
-  {
     "en": "Draff Kätzlein",
     "ja": "ドゥラフ・カッツェレイン",
     "zhCN": "杜拉夫·凯茨莱茵",
@@ -18707,32 +23380,6 @@
     "id": "draff-katzlein",
     "updatedAt": "2025-07-08",
     "createdAt": "2023-04-09"
-  },
-  {
-    "en": "Huffman Schmidt",
-    "ja": "ホフマン・シュミット",
-    "zhCN": "霍夫曼·施密特",
-    "zhTW": "霍夫曼·施密特",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "notes": "ミカの兄",
-    "notesZh": "米卡的哥哥。",
-    "notesZhTW": "米卡的哥哥。",
-    "variants": {
-      "en": [
-        "Huffman",
-        "Schmidt"
-      ],
-      "ja": [
-        "ホフマン",
-        "シュミット"
-      ]
-    },
-    "id": "huffman-schmidt",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2023-03-25"
   },
   {
     "en": "Seamus Pegg",
@@ -18751,39 +23398,6 @@
     "createdAt": "2022-01-01"
   },
   {
-    "en": "Nantuck",
-    "ja": "ナンタック",
-    "zhCN": "楠塔克",
-    "zhTW": "楠塔克",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "notes": "モンドの漁師",
-    "notesEn": "Mondstadt Angler.",
-    "notesZh": "蒙德的渔夫。",
-    "notesZhTW": "蒙德的漁夫。",
-    "id": "nantuck",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Marjorie",
-    "ja": "マージョリー",
-    "zhCN": "玛乔丽",
-    "zhTW": "瑪喬麗",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "notes": "「栄光の風」の店主",
-    "notesZh": "「荣光之风」的店主。",
-    "notesZhTW": "「榮光之風」的店主。",
-    "id": "marjorie",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2023-04-03"
-  },
-  {
     "en": "Wolfy",
     "ja": "子オオカミ",
     "zhCN": "小狼",
@@ -18799,22 +23413,6 @@
     "id": "wolfy",
     "updatedAt": "2025-07-08",
     "createdAt": "2024-07-08"
-  },
-  {
-    "en": "Sansa",
-    "ja": "サンサ",
-    "zhCN": "莎莎",
-    "zhTW": "莎莎",
-    "notes": "世界任務「自由の風に向かって」に登場する人物",
-    "notesZh": "世界任务「致自由之风」中的登场角色。",
-    "notesZhTW": "世界任務「致自由之風」中的登場角色。",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "sansa",
-    "updatedAt": "2025-07-08",
-    "createdAt": "2025-01-16"
   },
   {
     "en": "Umoja",
@@ -25174,39 +29772,6 @@
       }
     ],
     "id": "baizhu",
-    "updatedAt": "2025-06-17",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Starsnatcher",
-    "ja": "掇星攫辰天君",
-    "zhCN": "掇星攫辰天君",
-    "zhTW": "掇星攫辰天君",
-    "tags": [
-      "liyue",
-      "title"
-    ],
-    "pinyins": [
-      {
-        "char": "掇",
-        "pron": "duō"
-      },
-      {
-        "char": "攫",
-        "pron": "jué"
-      }
-    ],
-    "zhuyins": [
-      {
-        "char": "掇",
-        "pron": "ㄉㄨㄛ"
-      },
-      {
-        "char": "攫",
-        "pron": "ㄐㄩㄝˊ"
-      }
-    ],
-    "id": "starsnatcher",
     "updatedAt": "2025-06-17",
     "createdAt": "2022-01-01"
   },
@@ -32183,18 +36748,6 @@
     "createdAt": "2022-01-01"
   },
   {
-    "en": "Dandy",
-    "ja": "ダンディ",
-    "zhCN": "丹迪",
-    "zhTW": "丹迪",
-    "tags": [
-      "character-sub"
-    ],
-    "id": "dandy",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
     "en": "Phanes",
     "ja": "パネース",
     "zhCN": "法涅斯",
@@ -33391,20 +37944,6 @@
     "createdAt": "2025-01-01"
   },
   {
-    "en": "Uncle Tian",
-    "ja": "天おじ",
-    "zhCN": "天叔",
-    "zhTW": "天叔",
-    "pronunciationJa": "てんおじ",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "uncle-tian",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
     "en": "Guoba",
     "zhCN": "锅巴",
     "zhTW": "鍋巴",
@@ -33432,33 +37971,6 @@
     "createdAt": "2022-01-01"
   },
   {
-    "en": "Wang Ping'an",
-    "ja": "平安",
-    "zhCN": "王平安",
-    "zhTW": "王平安",
-    "pronunciationJa": "へいあん",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "wang-pingan",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Bao'er",
-    "ja": "宝児",
-    "zhCN": "宝儿",
-    "zhTW": "寶兒",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "baoer",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
     "en": "Guizhong",
     "ja": "帰終",
     "zhCN": "归终",
@@ -33470,289 +37982,6 @@
     ],
     "notes": "発音は「グウェィヂョン」(<a href=\"https://youtu.be/p10yiwULJA8?t=179\" target=\"_blank\" rel=\"noopener\">参考動画</a>)",
     "id": "guizhong",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Verr Goldet",
-    "ja": "ヴェル・ゴレット",
-    "zhCN": "菲尔戈黛特",
-    "zhTW": "菲爾戈黛特",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "verr-goldet",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Huai'an",
-    "ja": "淮安",
-    "zhCN": "淮安",
-    "zhTW": "淮安",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "huaian",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Smiley Yanxiao",
-    "ja": "言笑",
-    "zhCN": "言笑",
-    "zhTW": "言笑",
-    "pronunciationJa": "げんしょう",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "variants": {
-      "en": [
-        "Yanxiao"
-      ]
-    },
-    "id": "smiley-yanxiao",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Jiangxue",
-    "ja": "江雪",
-    "zhCN": "江雪",
-    "zhTW": "江雪",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "jiangxue",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Ying'er",
-    "ja": "鶯",
-    "zhCN": "莺儿",
-    "zhTW": "鶯兒",
-    "pronunciationJa": "うぐいす",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "notes": "英語版における発音は「インガー」",
-    "id": "yinger",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2023-03-10"
-  },
-  {
-    "en": "Lan",
-    "ja": "嵐姉",
-    "zhCN": "岚姐",
-    "zhTW": "嵐姐",
-    "pronunciationJa": "あらしねえ",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "lan",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2023-03-10"
-  },
-  {
-    "en": "Hanfeng, \"Cold Blade\"",
-    "ja": "寒鋒",
-    "zhCN": "寒锋",
-    "zhTW": "寒鋒",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "variants": {
-      "en": [
-        "Hanfeng"
-      ]
-    },
-    "id": "hanfeng-cold-blade",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Master Zhang",
-    "ja": "章",
-    "zhCN": "老章",
-    "zhTW": "老章",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "variants": {
-      "en": [
-        "Zhang"
-      ]
-    },
-    "id": "master-zhang",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Jifang",
-    "ja": "紀芳",
-    "zhCN": "纪芳",
-    "zhTW": "紀芳",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "jifang",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Tea Master Liu Su",
-    "ja": "茶博士劉蘇",
-    "zhCN": "茶博士刘苏",
-    "zhTW": "茶博士劉蘇",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "tea-master-liu-su",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Fan Er'ye",
-    "ja": "範二",
-    "zhCN": "范二爷",
-    "zhTW": "範二爺",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "fan-erye",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Soraya",
-    "ja": "ソラヤー",
-    "zhCN": "索拉雅",
-    "zhTW": "索拉雅",
-    "tags": [
-      "liyue",
-      "sumeru",
-      "character-sub"
-    ],
-    "id": "soraya",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Jinwu",
-    "ja": "瑾武",
-    "zhCN": "瑾武",
-    "zhTW": "瑾武",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "jinwu",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Yuehui",
-    "ja": "玥輝",
-    "zhCN": "玥辉",
-    "zhTW": "玥輝",
-    "pronunciationJa": "げつき",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "yuehui",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Muning",
-    "ja": "沐寧",
-    "zhCN": "沐宁",
-    "zhTW": "沐寧",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "muning",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Zhiqiong",
-    "ja": "志璇",
-    "zhCN": "志璇",
-    "zhTW": "志璇",
-    "pronunciationJa": "しせん",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "zhiqiong",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Taliesin",
-    "ja": "タリエシン",
-    "zhCN": "塔列辛",
-    "zhTW": "塔列辛",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "taliesin",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Khedive Pursina",
-    "ja": "ヘディーヴ・プルシナ",
-    "zhCN": "海迪夫·普尔希纳",
-    "zhTW": "海迪夫·普爾希納",
-    "tags": [
-      "liyue",
-      "sumeru",
-      "character-sub"
-    ],
-    "id": "khedive-pursina",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-08-26"
-  },
-  {
-    "en": "Clitopho",
-    "ja": "クレイトポン",
-    "zhCN": "克里托夫",
-    "zhTW": "克里托夫",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "clitopho",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Uncle He",
-    "ja": "何爺",
-    "zhCN": "何爷",
-    "zhTW": "何爺",
-    "tags": [
-      "liyue",
-      "character-sub"
-    ],
-    "id": "uncle-he",
     "updatedAt": "2025-05-05",
     "createdAt": "2022-01-01"
   },
@@ -34175,20 +38404,6 @@
     "createdAt": "2022-01-01"
   },
   {
-    "en": "Diona Kätzlein",
-    "ja": "ディオナ・カッツェレイン",
-    "zhCN": "迪奥娜·凯茨莱茵",
-    "zhTW": "迪奧娜·凱茨萊茵",
-    "notes": "英語版における読みは「ダイオナ」",
-    "tags": [
-      "mondstadt",
-      "character-main"
-    ],
-    "id": "diona-katzlein",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2023-04-09"
-  },
-  {
     "en": "Sucrose",
     "ja": "スクロース",
     "zhCN": "砂糖",
@@ -34322,84 +38537,6 @@
     "createdAt": "2022-01-01"
   },
   {
-    "en": "Ellin",
-    "ja": "エリン",
-    "zhCN": "艾琳",
-    "zhTW": "艾琳",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "ellin",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Timmie",
-    "ja": "ティミー",
-    "zhCN": "提米",
-    "zhTW": "提米",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "timmie",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Ella Musk",
-    "ja": "エラ・マスク",
-    "zhCN": "艾拉·马斯克",
-    "zhTW": "艾拉·馬斯克",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "ella-musk",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Dr. Livingstone",
-    "ja": "リヴィングストン博士",
-    "zhCN": "利文斯通博士",
-    "zhTW": "利文斯通博士",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "dr-livingstone",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Dr. Edith",
-    "ja": "イーディス博士",
-    "zhCN": "艾迪丝博士",
-    "zhTW": "艾迪絲博士",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "dr-edith",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Reckless Pallad",
-    "ja": "うっかりパラド",
-    "zhCN": "冒失的帕拉德",
-    "zhTW": "冒失的帕拉德",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "reckless-pallad",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
     "en": "Troubled Lianne",
     "ja": "悩むリリアン",
     "zhCN": "苦恼的莉安",
@@ -34435,32 +38572,6 @@
       "character-sub"
     ],
     "id": "eroch",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Wagner",
-    "ja": "ワーグナー",
-    "zhCN": "瓦格纳",
-    "zhTW": "瓦格納",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "wagner",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Schulz",
-    "ja": "シュッツ",
-    "zhCN": "舒茨",
-    "zhTW": "舒茨",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "schulz",
     "updatedAt": "2025-05-05",
     "createdAt": "2022-01-01"
   },
@@ -34516,32 +38627,6 @@
     "id": "viktor",
     "updatedAt": "2025-05-05",
     "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Glory",
-    "ja": "グローリー",
-    "zhCN": "葛罗丽",
-    "zhTW": "葛羅麗",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "glory",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Godwin",
-    "ja": "グッドウィン",
-    "zhCN": "古德温",
-    "zhTW": "古德溫",
-    "tags": [
-      "mondstadt",
-      "character-sub"
-    ],
-    "id": "godwin",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-11-27"
   },
   {
     "en": "Tsarevich",
@@ -43682,114 +47767,6 @@
     "createdAt": "2022-01-01"
   },
   {
-    "en": "Wanmin Restaurant",
-    "ja": "万民堂",
-    "zhCN": "万民堂",
-    "zhTW": "萬民堂",
-    "pronunciationJa": "ばんみんどう",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "id": "wanmin-restaurant",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Bubu Pharmacy",
-    "ja": "不卜廬",
-    "zhCN": "不卜庐",
-    "zhTW": "不卜廬",
-    "pronunciationJa": "ふぼくろ",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "variants": {
-      "ja": [
-        "不卜盧"
-      ]
-    },
-    "id": "bubu-pharmacy",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Wanwen Bookhouse",
-    "ja": "万文集舎",
-    "zhCN": "万文集舍",
-    "zhTW": "萬文集舍",
-    "pronunciationJa": "まんぶんしゅうしゃ",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "id": "wanwen-bookhouse",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Yanshang Teahouse",
-    "ja": "岩上茶室",
-    "pronunciationJa": "がんじょうちゃしつ",
-    "zhCN": "岩上茶室",
-    "zhTW": "岩上茶室",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "id": "yanshang-teahouse",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Liuli Pavilion",
-    "ja": "琉璃亭",
-    "zhCN": "琉璃亭",
-    "zhTW": "琉璃亭",
-    "pronunciationJa": "るりてい",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "variants": {
-      "ja": [
-        "瑠璃亭"
-      ]
-    },
-    "id": "liuli-pavilion",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Xinyue Kiosk",
-    "ja": "新月軒",
-    "zhCN": "新月轩",
-    "zhTW": "新月軒",
-    "pronunciationJa": "しんげつけん",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "id": "xinyue-kiosk",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Third-Round Knockout",
-    "ja": "三杯酔",
-    "zhCN": "三碗不过港",
-    "zhTW": "三碗不過港",
-    "pronunciationJa": "さんばいよい",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "id": "third-round-knockout",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
     "en": "Hanfeng's Ironmongers",
     "ja": "寒鋒鉄器",
     "zhCN": "寒锋铁器",
@@ -43802,62 +47779,6 @@
     "id": "hanfengs-ironmongers",
     "updatedAt": "2025-05-05",
     "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Heyu Tea House",
-    "ja": "和裕茶館",
-    "zhCN": "和裕茶馆",
-    "zhTW": "和裕茶館",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "id": "heyu-tea-house",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
-  },
-  {
-    "en": "Scent of Spring",
-    "ja": "春香窯",
-    "zhCN": "春香窑",
-    "zhTW": "春香窯",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "notes": "鶯の店",
-    "id": "scent-of-spring",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2023-03-10"
-  },
-  {
-    "en": "The Jade Mystery",
-    "ja": "解翠行",
-    "zhCN": "解翠行",
-    "zhTW": "解翠行",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "notes": "石商の鉱石店",
-    "id": "the-jade-mystery",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2023-07-29"
-  },
-  {
-    "en": "Mingxing Jewelry",
-    "ja": "明星斎",
-    "zhCN": "明星斋",
-    "zhTW": "明星齋",
-    "pronunciationJa": "みょうじょうさい",
-    "tags": [
-      "liyue",
-      "facility"
-    ],
-    "notes": "岩の印をアイテムと交換できる店",
-    "id": "mingxing-jewelry",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2023-04-03"
   },
   {
     "en": "Naganohara Fireworks",
@@ -78797,21 +82718,6 @@
     "id": "ancient-iron-coin",
     "updatedAt": "2025-05-05",
     "createdAt": "2022-09-24"
-  },
-  {
-    "en": "Lantern Rite",
-    "ja": "海灯祭",
-    "zhCN": "海灯节",
-    "zhTW": "海燈節",
-    "pronunciationJa": "かいとうさい",
-    "notes": "v1.3、v2.4、v3.4、v4.4 及び v5.3 期間限定イベント。璃月の祭り。",
-    "tags": [
-      "liyue",
-      "event"
-    ],
-    "id": "lantern-rite",
-    "updatedAt": "2025-05-05",
-    "createdAt": "2022-01-01"
   },
   {
     "en": "Happy Lantern Rite!",
